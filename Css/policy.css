@@ -1,0 +1,36 @@
+﻿.delivery {
+    
+    line-height:0.75cm;
+    text-align:justify;
+    padding-left: 150px;
+    padding-right:150px;
+}
+.header{
+    height:8vh;
+    background-color:antiquewhite;
+}
+.content {
+    padding-top: 50px;
+}
+br{
+    padding-left:200px;
+}
+hr{
+    color:#ff6a00;
+   
+}
+@media screen and (max-width: 1024px) {
+    .delivery {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .delivery {
+        padding-left: 20px;
+        padding-right: 20px;
+        background-attachment: fixed;
+        background-size: 100%
+    }
+}

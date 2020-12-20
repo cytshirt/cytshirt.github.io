@@ -1,0 +1,153 @@
+﻿#main {
+    float: left;
+    margin: 0 50px;
+}
+
+#main-index {
+    width: 75%;
+    float: left;
+    background-color: gray;
+    position: relative;
+}
+
+div#section-title {
+    margin: 30px 0 10px 10px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#main .filter-bar {
+    width: 25%;
+    height: 400px;
+    padding-top: 30px;
+    float: left;
+    background-color: pink;
+}
+
+.tab-title {
+    width: 100%;
+    background-color: pink;
+}
+
+ul li {
+    list-style: none;
+    height: 30px;
+}
+
+li {
+    height: 30px;
+}
+
+.filter {
+    padding: 10px 30px;
+}
+
+input .color {
+    width: 30px;
+    height: 30px;
+    background: pink;
+}
+
+.product-block {
+    width: 31%;
+    margin: 0 1%;
+    float: left;
+    padding: 20px 0;
+}
+
+.product-card {
+    width: 100%;
+    height: 320px;
+    float: left;
+    overflow: hidden; /*Khi chiều cao của box không đủ chứa text, thì text bị tràn sẽ được dấu đi.*/
+    position: relative;
+    background-color: wheat;
+}
+
+    .product-card .stats-container {
+        top: 260px;
+    }
+
+    .product-card:hover .product-detail {
+        top: 220px;
+    }
+
+    .product-card:hover .img1 {
+        display: none;
+    }
+
+.product-detail {
+    background-color: orange;
+    width: 100%;
+    height: 40px;
+    position: absolute;
+}
+
+.product-card img {
+    width: 100%;
+}
+
+.stats-container {
+    background-color: white;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    transition: top 0.5s ease;
+    padding: 10px 0;
+}
+
+    .stats-container span {
+        font-family: sans-serif;
+        font-size: 15px;
+        color: darkred;
+        font-weight: bold;
+    }
+
+.buy-now {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.view-detail {
+    width: 50%;
+}
+
+button .more-product-new {
+    margin: 20px;
+}
+
+button {
+    margin: 0px;
+    background-color: orange;
+    padding: 13px 27px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px;
+    cursor: pointer;
+}
+
+    button:hover .more-product-new {
+        background-color: white;
+        border: 1px solid orange;
+        color: orange;
+    }
+
+@media screen and (max-width:1024px) {
+    .filter-bar {
+        display: none;
+    }
+
+    #main {
+        margin: 0 30px;
+    }
+
+    #main-index {
+        width: 100%;
+    }
+}

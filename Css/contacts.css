@@ -1,0 +1,159 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 92vh;
+  
+    background-image: url('../Imgs/background.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-section {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-info {
+    color: #161515;
+    max-width: 500px;
+    line-height: 65px;
+    padding-left: 50px;
+    font-size: 18px;
+    
+   
+}
+   
+    .contact-info i {
+        margin-right: 20px;
+        font-size: 25px;
+        color:#161515;
+    }
+    .contact-info a {
+        text-decoration: none;
+        color: #161515;
+    }
+
+.contact-form {
+    max-width: 700px;
+    margin-right: 50px;
+}
+
+.contact-info, .contact-form {
+    flex: 1;
+}
+
+    .contact-form h2 {
+        color: #161515;
+        text-align: center;
+        font-size: 35px;
+        text-transform: uppercase; /*Viết in hoa tất cả*/
+        margin-bottom: 30px;
+    }
+
+    .contact-form .text-box {
+        background: #fcdba7;
+        color: #fff;
+        border: none;
+        width: calc(50% - 10px); /* luôn có width là 50px nhỏ hơn so với 100% kích thứớc của parent chứa nó.*/
+        height: 50px;
+        padding: 12px;
+        font-size: 15px;
+        border-radius: 5px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+        opacity: 0.9;
+    }
+
+        .contact-form .text-box:first-child {
+            margin-right: 15px;
+        }
+
+    .contact-form textarea {
+        background: #fcdba7;
+        color: #000;
+        border: none;
+        width: 100%;
+        padding: 12px;
+        font-size: 15px;
+        min-height: 200px;
+        max-height: 400px;
+        resize: vertical;
+        border-radius: 5px;
+        margin-bottom: 20px;
+        opacity: 0.9;
+    }
+
+    .contact-form .send-btn {
+        float: right;
+        background: #F89521;
+        color: #fff;
+        border: none;
+        width: 120px;
+        height: 40px;
+        font-size: 15px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.3s;
+        transition-property: background;
+    }
+
+       
+
+@media screen and (max-width: 768px) {
+    .contact-section {
+        flex-direction: column;
+    }
+
+    .contact-info, .contact-form {
+        margin: 30px 50px;
+    }
+
+        .contact-form h2 {
+            font-size: 30px;
+        }
+
+        .contact-form .text-box {
+            width: 100%;
+        }
+}
+
+/*css for alert messages*/
+/**/
+.alert-success {
+    z-index: 1;
+    
+    font-size: 18px;
+    padding: 20px 40px;
+    min-width: 420px;
+    position: fixed;
+    right: 0;
+    top: 10px;
+    border-left: 8px solid #3AD66E;
+    border-radius: 4px;
+}
+
+.alert-error {
+    z-index: 1; /*z-index thiết lập thứ tự xếp chồng nhau của một thành phần vị trí*/
+    
+    font-size: 18px;
+    padding: 20px 40px;
+    min-width: 420px;
+    position: fixed;
+    right: 0;
+    top: 10px;
+    border-left: 8px solid #FFA502;
+    border-radius: 4px;
+}

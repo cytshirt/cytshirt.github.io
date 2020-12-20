@@ -1,0 +1,80 @@
+﻿body {
+    min-height:100vh;
+}
+p{
+    color:#808080;
+}
+h2{
+    text-transform:uppercase;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    
+}
+.banner {
+    padding: 0rem 15rem;
+    position: relative;
+    width: 100%;
+    min-height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-self:center;
+    background: url(../background/Top_6.jpg);
+    background-size: cover;
+}
+/*.banner .content{
+    max-width:900px;
+    text-align:center;
+}
+.banner .content h2{
+    font-size:5rem;
+    color:#fff;
+    margin-top:20vh;
+}*/
+
+section{
+    padding:5rem 15rem;
+    
+}
+.row{
+    position:relative;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+}
+.row .col50{
+    position:relative;
+    width:48%;
+    height:50vh;
+    margin-bottom:2.5rem;
+    margin-top:2.5rem;
+}
+.titleText{
+    color:#808080;
+    font-size: 1.75rem;
+    font-weight:bold;
+    
+}
+    .titleText span {
+        color: #F79621;
+        font-weight:700;
+        font-size:2.5rem;
+    }
+    
+.row .col50 .imgBx {
+    position: relative;
+    width: 100%;
+    /*min-height:300px;*/
+    height:100%;
+}
+.row .col50 .imgBx img{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+
+}
