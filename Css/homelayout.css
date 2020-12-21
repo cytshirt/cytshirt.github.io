@@ -173,7 +173,7 @@ table {
 footer {
     display: flex;
     flex-flow: row wrap;
-    background-color: rosybrown;
+   
 }
 
 .footer > * {
@@ -459,7 +459,7 @@ h2 {
         right: 0px;
         height: 92vh;
         top: 8vh;
-        background-color: #ffdab9;
+        background-color: #ffeccd;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -503,7 +503,7 @@ h2 {
         right: 0px;
         height: 92vh;
         top: 8vh;
-        background-color: #ffdab9;
+        background-color: #ffeccd;
         display: flex;
         flex-direction: column;
         align-items: center;
