@@ -116,6 +116,7 @@
     <Content Include="Image\Blog\image\Site_Top.jpg" />
     <Content Include="Image\Blog\image\Top_4_2.jpg" />
     <Content Include="Image\Blog\post-img\1.jpg" />
+    <Content Include="Image\Icon\favicon.png" />
     <Content Include="Image\Footer\termofuse_backgr.jpg" />
     <Content Include="Image\Icon\fb.png" />
     <Content Include="Image\Icon\IconAccount.png" />
