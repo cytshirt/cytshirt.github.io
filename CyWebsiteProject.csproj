@@ -160,7 +160,6 @@
     <Content Include="Main_Blog.html" />
     <Content Include="Main_Campaign.html" />
     <Content Include="Main_Home.html" />
-    <Content Include="Main_Layout.html" />
     <Content Include="Main_New.html" />
     <Content Include="Main_Products.html" />
     <Content Include="Pravacy_Policy.html" />
