@@ -34,8 +34,8 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 8vh; 
-    background-color: #ffdab9;
+    min-height: 8vh;
+    background-color: #ffeccd;
     box-shadow: 0px 4px 10px rgba(0,0,0,1);
     position: fixed;
     width: 100%;
@@ -77,28 +77,37 @@ nav {
         color: orange;
     }
 
-nav ul ul {
-    position: absolute;
-    display: none;
+nav ul li {
+    position: relative;
 }
 
-nav ul li:hover > ul {
-    display: block;
-    top: 8vh;
-}
-
-nav ul ul li {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    width: 150px;
-}
-
-    nav ul ul li a {
-        padding: 10px 10px 10px 20px;
-        background-color: #ffdab9;
-        box-shadow: 0px 1px 1px rgba(0,0,0,0.5);
+    nav ul li ul {
+        position: absolute;
+        left: 0;
+        top: 8vh;
+        display: block;
+        opacity: 0;
+        visibility: visible;
+        
+        
     }
+
+        nav ul li ul li {
+            display: block;
+           
+        }
+
+nav ul ul li a {
+    width: 200px;
+    padding-left: 20px;
+    background-color: #ffeccd;
+    box-shadow: 2px 1px 2px rgba(0,0,0,0.5);
+}
+
+nav ul li:hover ul {
+    opacity: 1;
+    visibility: visible;
+}
 
 .nav-icon {
     display: flex;
@@ -216,7 +225,7 @@ header p {
     flex-flow: row wrap;
     padding: 50px;
     color: black;
-    background-color: #ffdab9;
+    background-color: #ffeccd;
 }
 
 .social a {
