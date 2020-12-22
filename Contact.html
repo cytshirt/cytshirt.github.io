@@ -5,9 +5,10 @@
     <title>Contact us - Cytshirt</title>
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
-    <link rel="stylesheet" href="Css/allproducts.css" type="text/css" />
+    <link rel="stylesheet" href="Css/contacts.css" type="text/css" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
 </head>
 <body>
     <!--Menu Navigation-->
@@ -70,8 +71,23 @@
         </div>
     </nav>
     <!--Nội dung homepage-->
-    <div style="font-size:50px;padding-top:10vh">
-        CONTACT
+    <div class="contact-section" style="padding-top:10vh;">
+        <div class="contact-info">
+            <div><i class="fas fa-map-marker-alt"></i>48 To Vinh Dien, Thu Duc, HCM</div>
+            <!--class url của hình ảnh biểu tượng-->
+            <div><i class="fas fa-envelope"></i><a href="https://www.google.com/gmail/">contactcytshirt@gmail.com</a></div>
+            <div><i class="fas fa-phone"></i>+84 358 670 452</div>
+            <div><i class="fas fa-clock"></i>Mon - Fri 8:00 AM to 10:00 PM</div>
+        </div>
+        <div class="contact-form">
+            <h2>Contact Us</h2>
+            <form class="contact" action="" method="post">
+                <input type="text" name="name" class="text-box" placeholder="Your Name" required>
+                <input type="email" name="email" class="text-box" placeholder="Your Email" required>
+                <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+                <input type="submit" name="submit" class="send-btn" value="Send">
+            </form>
+        </div>
     </div>
     <!--Footer-->
     <footer class="footer">

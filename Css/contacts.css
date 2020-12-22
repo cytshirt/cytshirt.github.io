@@ -1,20 +1,12 @@
-﻿* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+﻿
 
-body {
-    min-height: 92vh;
-  
-    background-image: url('../Imgs/background.jpg');
+.contact-section {
+    
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.contact-section {
+    background-image: url('../Image/Footer/background.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     width: 100%;
@@ -61,7 +53,7 @@ body {
     }
 
     .contact-form .text-box {
-        background: #fcdba7;
+        background: #ffeccd;
         color: #fff;
         border: none;
         width: calc(50% - 10px); /* luôn có width là 50px nhỏ hơn so với 100% kích thứớc của parent chứa nó.*/
@@ -79,7 +71,7 @@ body {
         }
 
     .contact-form textarea {
-        background: #fcdba7;
+        background: #ffeccd;
         color: #000;
         border: none;
         width: 100%;
