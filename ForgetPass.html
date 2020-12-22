@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Campaign - Cytshirt</title>
-    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>Forget Password - Cytshirt</title>
+    <link rel="stylesheet" href="Css/account.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
-    <link rel="stylesheet" href="Css/campaign.css" type="text/css"/>
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
@@ -40,7 +40,7 @@
                 <a href="Main_BestSeller.html">Best Seller</a>
             </li>
             <li>
-                <a href="Main_Campaign.html" style="color:#f79621">Campaign</a>
+                <a href="Main_Campaign.html">Campaign</a>
             </li>
             <li>
                 <a href="Main_Blog.html">Blog</a>
@@ -73,123 +73,54 @@
         </div>
     </nav>
     <!--Nội dung homepage-->
-    <div class="container2">
-        <div class="texture"></div>
-        <video loop
-               muted
-               autoplay
-               preload="auto">
+    <div id="login-form" class="login-page">
+        <!--Tạo formbox-->
+        <div class="middle-box">
+            <div class="form-box">
 
-            <source src="Image/Campaign/Cytshirt_About_Us_1.mp4" type="video/mp4" />
-            Your browser does not support the video tag.
-        </video>
-        <div class="caption">
-            <h1>Be Yourself</h1>
-            <h2>_Campaign_</h2>
+                <!--Tạo form login-->
+                <form id="login" class="input-group-login">
+                    <p>
+                        <h3> Do you forget password ?</h3>
+                    </p>
+                    <br />
+                    <input type="password" class="input-field" placeholder="NOW PASSWORD" required />
+                    <!--required: bắt buộc điền, nếu k sẽ hiện ra popup Vui lòng điền-->
+                    <input type="password" class="input-field" placeholder="NEW PASSWORD" required />
+                    <div class="input-checkbox">
+                        <input type="checkbox" class="check-box" />
+                        <div class="note">Remember Me</div>
+                    </div>
+                    <button type="submit" class="custom-btn submit-btn" onclick="myOnClickFn2()">DONE</button>
 
-        </div>
-    </div>
-    <div class="main-content1">
-        <div class="img-container2">
-            <div class="card">
-                <div class="imgbox">
-                    <img src="Image/Campaign/img_1000px/1.Black_Men.png" />
+                    <p align="center">or</p>
 
-                </div>
-
-            </div>
-            <div class="card">
-                <div class="imgbox">
-                    <img src="Image/Campaign/img_1000px/2.White_Women.png" />
-
-                </div>
-
-            </div>
+                    <div class="social-media">
+                        <ul>
+                            <li><a><img src="Image/Account/images/facebook (2).png" /></a></li>
+                            <li><a><img src="Image/Account/images/google-plus (2).png" /></a></li>
+                            <li><a><img src="Image/Account/images/instagram (2).png" /></a></li>
+                        </ul>
+                    </div>
 
 
-            <!--<aside class="sub-img">
-                <img src="img/Black_Men_2.png" />
-                <img src="img/White_Women_2.png" />
-            </aside>-->
-        </div>
-    </div>
-    <div class="main-content2">
-        <div class="img-container2">
-            <div class="card">
-                <div class="imgbox">
-                    <img src="Image/Campaign/img_1000px/3.White_Woman.png" />
+                </form>
+                <!--Tạo form register-->
 
-                </div>
-
-            </div>
-            <div class="card">
-                <div class="imgbox">
-                    <img src="Image/Campaign/img_1000px/4.Black_Men.png" />
-
-                </div>
-
-            </div>
-
-
-            <!--<aside class="sub-img">
-                <img src="img/Black_Men_2.png" />
-                <img src="img/White_Women_2.png" />
-            </aside>-->
-        </div>
-    </div>
-    <div class="main-content1">
-        <div class="img-container2">
-
-            <div class="card">
-                <div class="imgbox">
-                    <img src="Image/Campaign/img_1000px/5.Black_Women.png" />
-
-                </div>
-
-            </div>
-            <div class="card">
-                <div class="imgbox">
-                    <img src="Image/Campaign/img_1000px/6.White_Men_2.png" />
-
-                </div>
-
-            </div>
-
-
-            <!--<aside class="sub-img">
-                <img src="img/Black_Men_2.png" />
-                <img src="img/White_Women_2.png" />
-            </aside>-->
-        </div>
-    </div>
-
-    <div class="gallery">
-        <div class="row">
-            <div class="column">
-                <img src="Image/Campaign/img_gallery/1.png" />
-                <img src="Image/Campaign/img_gallery/Black_Men_1.png" />
-
-            </div>
-            <div class="column">
-                <img src="Image/Campaign/img_gallery/Black_Women_3.png"  />
-                <img src="Image/Campaign/img_gallery/2.png"  />
-
-
-            </div>
-            <div class="column">
-                <img src="Image/Campaign/img_gallery/4.png"  />
-                <img src="Image/Campaign/img_gallery/White_Men_4.png"  />
-            </div>
-            <div class="column">
-                <img src="Image/Campaign/img_gallery/White_Men_3.png"  />
-                <img src="Image/Campaign/img_gallery/3.png"  />
             </div>
         </div>
     </div>
+    <!--Đoạn code đầu tiên cho đăng nhập và đăng ký di chuyển chính xác-->
 
-    <div class="button">
-        <a href="Main_New.html"><input type="button" class="btn_Explore_More" value="Explore More" /></a>
-    </div>
+
+
+    <script>
+
+        function myOnClickFn2() {
+            alert("Renew password sucessfully!")
+            document.location.href = "Account.html";
+        }
+    </script>
     <!--Footer-->
     <footer class="footer">
         <div class="l-footer">

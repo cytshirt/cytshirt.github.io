@@ -71,12 +71,14 @@
     <Content Include="Cart.html" />
     <Content Include="Contact.html" />
     <Content Include="Css\about-us.css" />
+    <Content Include="Css\account.css" />
     <Content Include="Css\allproducts.css" />
     <Content Include="Css\blog.css" />
     <Content Include="Css\campaign.css" />
     <Content Include="Css\contacts.css" />
     <Content Include="Css\faqs.css" />
     <Content Include="Css\homelayout.css" />
+    <Content Include="Css\membership.css" />
     <Content Include="Css\new.css" />
     <Content Include="Css\policy.css" />
     <Content Include="Css\post_detail.css" />
@@ -1017,6 +1019,7 @@
     <Content Include="Data\Newbest.xml" />
     <Content Include="Data\sanpham.xml" />
     <Content Include="FAQs.html" />
+    <Content Include="ForgetPass.html" />
     <Content Include="Image\AboutUs\about_img\1.jpg" />
     <Content Include="Image\AboutUs\about_img\2.jpg" />
     <Content Include="Image\AboutUs\about_img\3.jpg" />
@@ -1036,6 +1039,11 @@
     <Content Include="Image\AboutUs\img_member\ThayThanh.jpg" />
     <Content Include="Image\AboutUs\img_member\Tho.jpg" />
     <Content Include="Image\AboutUs\img_member\Thuy.jpg" />
+    <Content Include="Image\Account\images\facebook %282%29.png" />
+    <Content Include="Image\Account\images\google-plus %282%29.png" />
+    <Content Include="Image\Account\images\icon-menu.png" />
+    <Content Include="Image\Account\images\instagram %282%29.png" />
+    <Content Include="Image\Account\images\trasua.png" />
     <Content Include="Image\Blog\blog-post\post-1.html" />
     <Content Include="Image\Blog\blog-post\post-2.html" />
     <Content Include="Image\Blog\blog-post\post-3.html" />
@@ -1148,6 +1156,8 @@
     <Content Include="Main_Home.html" />
     <Content Include="Main_New.html" />
     <Content Include="Main_Products.html" />
+    <Content Include="Membership.html" />
+    <Content Include="Passwordnew.html" />
     <Content Include="Pravacy_Policy.html" />
     <Content Include="Product_Polo.html" />
     <Content Include="Product_Sweater.html" />

@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>My Account - Cytshirt</title>
+    <title>Sign in/Sign up - Cytshirt</title>
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
-    <link rel="stylesheet" href="Css/allproducts.css" type="text/css" />
+    <link rel="stylesheet" href="Css/account.css" type="text/css" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
@@ -48,6 +48,9 @@
             <li>
                 <a href="Main_AboutUs.html">About us</a>
             </li>
+            <li>
+                <a href="Membership.html">Membership</a>
+            </li>
 
         </ul>
         <div>
@@ -70,9 +73,98 @@
         </div>
     </nav>
     <!--Nội dung homepage-->
-    <div style="font-size:50px;padding-top:10vh">
-        ACCOUNT
+    <div id="login-form" class="login-page">
+        <!--Tạo formbox-->
+        <div class="middle-box">
+            <div class="form-box">
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <button type="button" onclick="login()" class="toggle-btn">SIGN IN</button>
+                    <button type="button" onclick="register()" class="toggle-btn">SIGN UP</button>
+
+                </div>
+                <!--Tạo form login-->
+                <form id="login" class="input-group-login">
+
+                    <input type="text" class="input-field" placeholder="EMAIL ID" required />
+                    <!--required: bắt buộc điền, nếu k sẽ hiện ra popup Vui lòng điền-->
+                    <input type="password" class="input-field" placeholder="ENTER YOUR PASSWORD" required />
+                    <div class="input-checkbox">
+                        <input type="checkbox" class="check-box" />
+                        <div class="note">Remember Me</div>
+                    </div>
+                    <button type="submit" class="custom-btn submit-btn" onclick="myOnClickFn()">DONE</button>
+
+                    <p align="center">or</p>
+
+                    <div class="social-media">
+                        <ul>
+                            <li><a><img src="Image/Account/images/facebook (2).png" /></a></li>
+                            <li><a><img src="Image/Account/images/google-plus (2).png" /></a></li>
+                            <li><a><img src="Image/Account/images/instagram (2).png" /></a></li>
+                        </ul>
+                    </div>
+                    <p class="forgot-pass" align="center"><a href="ForgetPass.html">Forgot Password ?</a></p>
+
+                </form>
+                <!--Tạo form register-->
+                <form id="register" class="input-group-register">
+                    <input type="text" class="input-field" placeholder="FIRST NAME" required />
+                    <input type="text" class="input-field" placeholder="LAST NAME" required />
+                    <input type="email" class="input-field" placeholder="EMAIL ID" required />
+                    <input type="password" class="input-field" placeholder="ENTER PASSWORD" required />
+                    <input type="password" class="input-field" placeholder="CONFIRM PASSWORD" required />
+                    <div class="input-checkbox">
+                        <input type="checkbox" class="check-box" />
+                        <div class="note">I agree to the terms and conditions</div>
+                    </div>
+
+                    <button type="submit" class="custom-btn submit-btn" onclick="myOnClickFn1()">DONE</button>
+                </form>
+
+            </div>
+        </div>
     </div>
+    <!--Đoạn code đầu tiên cho đăng nhập và đăng ký di chuyển chính xác-->
+    <script>
+        var z = document.getElementById("btn");
+        var x = document.getElementById("login");
+        var y = document.getElementById("register");
+        function register() {
+            x.style.left = "-400px";
+            y.style.left = "50px";
+            z.style.left = "110px";
+        }
+        function login() {
+            x.style.left = "50px";
+            y.style.left = "450px";
+            z.style.left = "0px";
+        }
+    </script>
+    <!--Đoạn code này để khi mà click out form đăng nhập đăng kí - hộp sẽ biến mất  -->
+    <script>
+        /* var modal = document.getElementById("login-form");
+        window.onclick = function (event)
+        {
+            if (event.target == modal)
+            {
+                modal.style.display = "none";
+            }
+        } */
+    </script>
+    <script>
+
+        function myOnClickFn1() {
+            alert("Sign up succesfully !")
+            document.location.href = "Membership.html";
+        }
+    </script>
+    <script>
+        function myOnClickFn() {
+            alert("Sign in sucessfully !")
+            document.location.href = "Main_Home.html";
+        }
+    </script>
     <!--Footer-->
     <footer class="footer">
         <div class="l-footer">

@@ -2,12 +2,13 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>New - Cytshirt</title>
-    <meta name="viewport" content="width-device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="Css/homelayout.css" />
-    <link rel="stylesheet" href="Css/new.css" />
+    <title>My Account - Cytshirt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="Css/membership.css" />
+    <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 </head>
 <body>
     <!--Menu Navigation-->
@@ -17,7 +18,7 @@
         </div>
         <ul class="nav-links">
             <li>
-                <a href="Main_New.html" style="color:#f79621">New</a>
+                <a href="Main_New.html">New</a>
             </li>
             <li>
                 <a href="Main_Products.html">All Products</a>
@@ -49,7 +50,7 @@
                 <a href="Main_AboutUs.html">About us</a>
             </li>
             <li>
-                <a href="Membership.html">Membership</a>
+                <a href="Membership.html" style="color:#f79621" >Membership</a>
             </li>
 
         </ul>
@@ -73,105 +74,108 @@
         </div>
     </nav>
     <!--Nội dung homepage-->
+    <div id="main-index" style="padding-top:8vh;">
+        <div class="container3">
+            <div class="textt">
+                <div class="sidebar">
+                    <center>
+                        <img src="Image/AboutUs/img_member/Thuy.jpg" alt="" class="profile_image" />
+                        <h4><b>Nghiêm Thị Cẩm Thùy</b></h4>
+                    </center>
+                    <ul style="padding-left: 20px">
+                        <li>
+                            <a href="Membership.html">Acount Information</a>
+                        </li>
+                        <li>
+                            <a href="Passwordnew.html">Change Password</a>
 
-    <div>
-        <div>
-            <img src="Image/ProductDemo/banner.jpg" style="width:100%" />
-        </div>
-        <div id="main">
-            <div class="filter-bar">
-                <span class="title">FILTER</span>
-                <div class="filter">
-                    <ul>
-                        Giá sản phẩm
-                        <li><input type="checkbox" id="gia1" /><label for="gia1">Dưới 200000đ</label></li>
-                        <li><input type="checkbox" id="gia2" /><lable for="gia2">Từ 200000đ đến 300000đ</lable></li>
-                        <li><input type="checkbox" id="gia3" /><lable for="gia3">Từ 300000đ đến 400000đ</lable></li>
-                        <li><input type="checkbox" id="gia4" /><label for="gia4">Từ 4000000đ đến 500000đ</label></li>
-                        <li><input type="checkbox" id="gia5" /><label for="gia5">Trên 500000đ</label></li>
-                    </ul>
-                    <ul>
-                        Màu sắc
-                        <li><input class="color" type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                    </ul>
+                        </li>
+                        <li>
+                            <a href="Account.html">Log Out</a>
+                        </li>
 
+                    </ul>
+                </div>
+                <div class="text2">
+                    <div class="content-mb">
+                        <label class="text">
+                            ACCOUNT &nbsp; INFORMATION
+                        </label>
+                        <hr style="width:30%; margin: 0 auto;" />
+                    </div>
+                    <div class="content-mb">
+                        <div class="nd">
+                            <div class="left1" style="margin-right:2%">
+                                <label for="fname">FIRSTNAME</label>
+                                <br />
+                                <input class="input" type="text" id="fname" name="firstname" placeholder="Enter firstname...">
+
+                            </div>
+                            <div class="left1">
+                                <label for="fname">LASTNAME</label>
+                                <br />
+                                <input class="input" type="text" id="fname" name="lastname" placeholder="Enter lastname...">
+
+                            </div>
+                            <div class="nd">
+                                <div class="left2">
+                                    <label for="gmail">GMAIL</label>
+                                    <br />
+                                    <input class="input" type="text" id="gmail" name="gmail" placeholder="Enter gmail...">
+                                </div>
+                            </div>
+                            <div class="nd">
+                                <div class="left2">
+                                    <label for="address">ADDRESS</label>
+                                    <br />
+                                    <input class="input" type="text" id="addressm" name="address" placeholder="Enter address...">
+                                </div>
+                            </div>
+                            <div class="nd">
+                                <div class="left1" style="margin-right:2%">
+                                    <label for="city">CITY</label>
+                                    <select name="city" id="city">
+                                        <option>Ho Chi Minh City</option>
+                                        <option>Dong Nai</option>
+                                        <option>Da Lat</option>
+                                        <option>Binh Phuoc</option>
+                                    </select>
+                                </div>
+                                <div class="left1">
+                                    <label for="district">DISTRICT</label>
+                                    <br />
+                                    <input class="input" type="text" id="district" name="district" placeholder="Enter District...">
+                                </div>
+                            </div>
+                            <div class="nd">
+                                <div class="left1" style="margin-right:2%">
+                                    <label for="postcode">POST CODE</label>
+                                    <br />
+                                    <input class="input" type="text" id="postcode" name="postcode" value="" placeholder="Enter POST CODE...">
+                                </div>
+                                <div class="left1">
+                                    <label for="phone">PHONE NUMBER</label>
+                                    <br />
+                                    <input class="input" type="text" id="phone" name="phone" placeholder="Enter phone number...">
+                                </div>
+                            </div>
+                            <div class="nd">
+                                <div class="left2" style="text-align:center;">
+                                    <input type="submit" class="button-mb" value="UPDATE" onclick="myFunction()">
+                                    <script>
+                                        function myFunction() {
+                                            alert("Update information successfully!");
+                                        }
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div id="main-index">
-                <div id='section-title'>
-                    <span class="title">
-                        BEST SELLER
-                    </span>
-                </div>
-                <div class="tab-title">
-                    <div id="ob-1" class="product-block">
-                        <div class="product-card">
-                            <img class="img1" src="Image/ProductDemo/ao2.jpg" />
-                            <img class="img2" src="Image/ProductDemo/ao3.jpg" />
-                            <div class="product-detail">
-                                <button class="buy-now">Buy now <i class="fas fa-shopping-cart"></i></button>
-                                <button class="view-detail">View detail <i class="far fa-eye"></i></button>
-                            </div>
-                            <div class="stats-container">
-                                <div align="center" class="content-product">
-                                    <span class="product-name name">CyT White T-shirt</span><br />
-                                    <span class="product-price price">500000VND</span>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div id="ob-2" class="product-block">
-                        <div class="product-card">
-                            <div class="product-front">
-
-                                <img class="img1" src="Image/ProductDemo/39image4.jpeg" />
-                                <img class="img2" src="Image/ProductDemo/39image5.jpeg" />
-                                <div class="product-detail">
-                                    <button class="buy-now">Buy now <i class="fas fa-shopping-cart"></i></button>
-                                    <button class="view-detail">View detail <i class="far fa-eye"></i></button>
-                                </div>
-                                <div class="stats-container">
-                                    <div align="center" class="content-product">
-                                        <span class="product_name name">SSS Logo T-shirt</span><br />
-                                        <span class="product_price price">400000VND</span>
-
-
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div id="ob-3" class="product-block">
-                        <div class="product-card">
-                            <div class="product-front">
-                                <img class="img1" src="Image/ProductDemo/39image3.jpeg" />
-                                <img class="img2" src="Image/ProductDemo/39image2.jpeg" />
-                                <div class="product-detail">
-                                    <button class="buy-now">Buy now <i class="fas fa-shopping-cart"></i></button>
-                                    <button class="view-detail">View detail <i class="far fa-eye"></i></button>
-                                </div>
-                                <div class="stats-container">
-                                    <div align="center" class="content-product">
-                                        <span class="product_price price">500000VND</span><br />
-                                        <span class="product_name name">Áo thun đẹp</span>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
 
         </div>
+
     </div>
     <!--Footer-->
     <footer class="footer">
