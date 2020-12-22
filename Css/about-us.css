@@ -1,29 +1,31 @@
 ﻿body {
-    min-height:100vh;
+    min-height: 100vh;
 }
-p{
-    color:#808080;
+
+p {
+    color: #808080;
 }
-h2{
-    text-transform:uppercase;
+
+h2 {
+    text-transform: uppercase;
 }
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.banner {
+/* .banner {
     padding: 0rem 15rem;
     position: relative;
-    width: 100%;
+    
     min-height: 92vh;
     display: flex;
     justify-content: center;
     align-self:center;
     background: url(../background/Top_6.jpg);
     background-size: cover;
-}
+}*/
 /*.banner .content{
     max-width:900px;
     text-align:center;
@@ -34,47 +36,212 @@ h2{
     margin-top:20vh;
 }*/
 
-section{
-    padding:5rem 15rem;
-    
+section {
+    padding: 5rem 15rem;
 }
-.row{
-    position:relative;
-    width:100%;
-    display:flex;
-    justify-content:space-between;
+
+.row {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }
-.row .col50{
-    position:relative;
-    width:48%;
-    height:50vh;
-    margin-bottom:2.5rem;
-    margin-top:2.5rem;
-}
-.titleText{
-    color:#808080;
+
+    .row .col50 {
+        position: relative;
+        width: 48%;
+        height: 50vh;
+        margin-bottom: 2.5rem;
+        margin-top: 2.5rem;
+    }
+
+.titleText {
+    color: #808080;
     font-size: 1.75rem;
-    font-weight:bold;
-    
+    font-weight: bold;
+    text-align: justify;
 }
+
     .titleText span {
         color: #F79621;
-        font-weight:700;
-        font-size:2.5rem;
+        font-weight: 700;
+        font-size: 2.5rem;
     }
-    
+
 .row .col50 .imgBx {
     position: relative;
     width: 100%;
     /*min-height:300px;*/
-    height:100%;
+    height: 100%;
 }
-.row .col50 .imgBx img{
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
-    height:100%;
-    object-fit:cover;
 
+    .row .col50 .imgBx img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        max-width: 600px;
+        width: 100%;
+        height: auto;
+    }
+
+.container1 {
+    margin: 20px 40px;
+}
+
+.profiles {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 80px;
+}
+
+.profile {
+    flex-basis: 260px;
+    margin: 0px 10px;
+}
+
+    .profile .profile-img {
+        height: 260px;
+        width: 260px;
+        border-radius: 50%;
+        filter: grayscale(100%);
+        cursor: pointer;
+        transition: 400ms;
+    }
+
+    .profile .profile-img-special {
+        height: 260px;
+        width: 260px;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: 400ms;
+    }
+
+    .profile:hover .profile-img {
+        filter: grayscale(0);
+    }
+
+    .profile:hover .profile-img-special {
+        transform: scale(1.2);
+    }
+
+.user-name {
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.profile h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+.profile h4 {
+    color: #F79621;
+}
+
+.profile h6 {
+    font-size: 18px;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+
+.profile p {
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+@media (max-width:1140px) {
+    section {
+        padding: 40px 80px;
+    }
+
+    .row .col50 {
+        position: relative;
+        width: 100%;
+        height: auto;
+        margin: 1rem 0.5rem;
+    }
+
+        .row .col50 p {
+            font-size: 1.25rem;
+        }
+
+        .row .col50 .imgBx {
+            height: 400px;
+        }
+
+    .profiles {
+        flex-direction: column;
+    }
+
+    .profile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+        .profile p {
+            text-align: center;
+            margin: 20px 60px 80px 60px;
+            font-size: 20px;
+        }
+}
+
+
+
+@media (max-width:1024px) {
+    section {
+        padding: 40px 170px;
+        align-items: center;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+        .row .col50 {
+            width: 100%;
+            height: auto;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+            .row .col50 .imgBx {
+                height: 400px;
+                align-self: center;
+            }
+
+    .profiles {
+        margin: 20px 0;
+    }
+
+    .profile p {
+        margin: 20px 10px 80px 10px;
+    }
+}
+
+
+
+
+
+@media (max-width:768px) {
+    section {
+        padding: 50px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+        .row .col50 {
+            position: relative;
+            width: 100%;
+            height: auto;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+
+            .row .col50 .imgBx {
+                height: 300px;
+            }
 }

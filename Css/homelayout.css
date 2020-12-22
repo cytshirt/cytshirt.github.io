@@ -218,10 +218,11 @@ footer {
         text-align: justify;
     }
 
-h2 {
+.r-footer h2 {
     font-weight: bold;
     font-size: 16px;
-    color:black;
+    color: black;
+    text-align:left;
 }
 
 .footer ul {
