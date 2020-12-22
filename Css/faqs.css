@@ -23,7 +23,7 @@
     padding-left: 200px;
     padding-right: 200px;
     
-    background: url('../Imgs/bg4.jpg') no-repeat center;
+    background: url('../Image/Footer/bg4.jpg') no-repeat center;
     align-items: center;
     background-size: 90%;
     padding-top: 30px;
@@ -40,7 +40,7 @@
     width: 900px;
    
 }
-h1 {
+.content h1 {
     color: #fefefe;
     text-shadow: 5px 2px 4px grey;
     text-align: center;
@@ -53,7 +53,7 @@ h1 {
 .content{
     padding-top:50px;
 }
-a {
+.content a {
     text-decoration:none;
     color:#fefefe;   
 }

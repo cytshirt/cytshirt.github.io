@@ -1,0 +1,228 @@
+﻿* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container2 {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .container2::after {
+        width: 100%;
+        height: 100%;
+        content: '';
+        position: absolute;
+        z-index: 10;
+        top: 0;
+        left: 0;
+        background: rgba(0,0,0,0.5);
+    }
+
+    .container2 video {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 5;
+        object-fit: cover;
+    }
+
+    .container2 .texture {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 15;
+        background: url(campaign-img/45-degree-fabric-dark.png);
+    }
+
+    .container2 .caption {
+        position: relative;
+        z-index: 20;
+        text-align: center;
+        color: white;
+    }
+
+        .container2 .caption h1 {
+            text-transform: uppercase;
+            font-size: 4em;
+            margin-bottom: 0.5rem;
+        }
+
+        .container2 .caption h2 {
+            font-size: 1.5rem;
+            margin: 0;
+            text-transform: lowercase;
+            letter-spacing: 6px;
+        }
+
+.main-content1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f79621;
+}
+
+.main-content2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: white;
+}
+
+.main-content3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.btn_Explore_More {
+    display: flex;
+    justify-content: center;
+    width: 10rem;
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin: 1.8rem;
+    background-color: #F89521;
+}
+
+    .btn_Explore_More:hover {
+        background: transparent;
+        border: 1px solid #f79621;
+        color: #f79621;
+    }
+/*.img-container {
+    position:relative;
+    width:1000px;
+    display:grid;
+    grid-template-columns:repeat(auto-fix, minmax(250px,1fr));
+}
+.img-container .card .imgbox{
+    position:relative;
+    width:250px;
+    background:white;
+}
+    .img-container .card .imgbox img {
+        position: absolute;
+        top:0;
+        left:0;
+        width: 100%;
+        height:100%;
+        object-fit:cover;
+    }
+    .img-container .card .content div {
+        padding:20px;
+        text-align:center;
+    }*/
+
+.imgbox {
+    margin: 5rem;
+    max-width: 800px;
+    height: auto;
+}
+
+    .imgbox img {
+        max-width: 800px;
+        width: 100%;
+        height: auto;
+    }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    margin: 10px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+    .column img {
+        margin-top: 8px;
+        vertical-align: middle;
+        width: 100%;
+    }
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .container2 .caption .h1 {
+        font-size: 2rem;
+    }
+
+    .container2 .caption .h2 {
+        font-size: 0.75rem;
+    }
+    /*.img-container {
+        grid-template-columns: repeat(auto-fix, minmax(100%,1fr));
+        margin:50px;
+    }
+    .img-container .card{
+        flex-direction:row;
+        margin:10px 0;
+    }
+    .img-container .card:nth-child(even) {
+        flex-direction: row-reverse;
+        
+    }
+    .container .card .imgbox, .container .card .content {
+        width:50%;
+    }*/
+}
+
+@media screen and (max-width:992px) {
+    .container2 .caption .h1 {
+        font-size: 2.5rem;
+    }
+
+    .container2 .caption .h2 {
+        font-size: 1.25rem;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .container2 .caption .h1 {
+        font-size: 3rem;
+    }
+
+    .container2 .caption .h2 {
+        font-size: 1.5rem;
+    }
+}

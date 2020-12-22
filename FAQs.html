@@ -5,9 +5,29 @@
     <title>FAQs - Cytshirt</title>
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
-    <link rel="stylesheet" href="Css/allproducts.css" type="text/css" />
+    <link href="Css/faqs.css" type="text/css" rel="stylesheet" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $('.faq_question').click(function () {
+
+                if ($(this).parent().is('.open')) {
+                    $(this).closest('.faq').find('.faq_answer_container').slideUp();
+                    $(this).closest('.faq').removeClass('open');
+                } else {
+                    $('.faq_answer_container').slideUp();
+                    $('.faq').removeClass('open');
+                    $(this).closest('.faq').find('.faq_answer_container').slideDown();
+                    $(this).closest('.faq').addClass('open');
+                }
+
+            });
+        });
+    </script>
 </head>
 <body>
     <!--Menu Navigation-->
@@ -70,8 +90,160 @@
         </div>
     </nav>
     <!--Nội dung homepage-->
-    <div style="font-size:50px;padding-top:10vh">
-        FAQS
+    <div class="delivery">
+        
+        <div class="content" style="padding-top:8vh;">
+            <h1>FREQUENTLY ASKED QUESTIONS</h1>
+            <div class="faq_container">
+                <div class="faq">
+                    <div class="faq_question open">1. How about Delivery Methods?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            There are 2 ways for you to receive your order:
+                            <p></p>
+                            - Collection at a CYTSHIRT store - FREE
+                            <br />
+                            At the store you choose in 3-5 business days.
+                            <br />
+                            The person who picks up the order must only show the QR code from the electronic receipt when that person is the purchaser.<br /> If another person comes in their place, they must also show their identification.
+                            <p></p>
+                            - Home delivery:
+                            <br />
+                            We will show you the available drop points at the time of purchase.
+                            <br />
+                            Remember that to collect your order you will need to show an ID document. If the person who comes to collect the order is different from the person who purchased it, they will need to submit a written authorization and a photocopy of the buyer's ID document.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question open">2. How about Delivery Fee?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            Standard delivery charges of cytshirt depend on delivery location.
+                            <p></p>
+                            - In Ho Chi Minh City : 27.000 VND
+                            <p></p>
+                            - In orther provinces : 43.000 VND
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question open">3. How about Delivery Time?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            <p></p>
+                            - Ho Chi Minh city route: Delivery within 24 hours since the system confirmed via sms / email
+                            <p></p>
+                            -  Ho Chi Minh suburban route: Delivery within 48 hours after the system confirms via sms / email.
+                            <p></p>
+                            -  Route Da Nang, Ha Noi: Delivery within 3 days since the system confirmed via sms / email.
+                            <p></p>
+                            -  All other cities: Delivery within 3-7 days after the system confirmed via SMS / email.
+                            <p></p>
+                            <i>Note: Delivery time does not include Saturday, Sunday or public holidays.</i>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question">4. How to Check Orders Status?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">To check information or order status, please use the ORDER CODE sent in the confirmation email or the confirmation message to notify the Customer Service department (toll free call 1800 6061 extension first)</div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question">5. How about Splits Order?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">Your order may be dispatched from various warehouses. If this happens, we’ll notify you via email to tell you which items you’ll be receiving in each delivery.</div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question">6.  Which methods is accepted on purchase?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            <p>
+                                For online purchases, CYTSHIRT has 4 payment methods as follows:
+                                <br />
+                                - Payment by transfer via domestic bank accounts
+                                <br />
+                                - Payment through collection service (COD)
+                                <br />
+                                - Payment via e-wallet Momo
+                                <br />
+                                - International payments via Paypal account
+                                <br />
+                                For direct purchases, CYTSHIRT has the following forms of payment:
+                                <br />
+                                - Cash payment at the store
+                                <br />
+                                - Payment by ATM card, Visa / Mastercard and Momo e-wallet
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question"> 7. How about Refund Policy?</div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            <p>
+                                For prepayment, CYTSHIRT will refund you in the following cases:
+
+                                <br />You cancel your order when CYTSHIRT has not reached the shipping step and want to receive your card payment back.
+
+                                <br />You want to return the product due to manufacturing defect and do not want to change to another product.
+
+                                <br />CYTSHIRT will refund your money back to your personal account. We will endeavor to refund the money as quickly as possible and the refund period should not exceed 15 days after confirming the refund.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question">8. Can I exchange Online? </div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            <p></p>
+                            You have 30 days from the shipping date to exchange your Cytshirtvn.com purchase for FREE.
+                            <br /> You can exchange your item’s sizes or colors. If you prefer to exchange it for a different item, return it and make a new purchase.
+                            <br /> Exchanging an item purchased at Cytshirtvn.com is simple. Visit a CYTSHIRT Store that carries the same department from which your item comes and bring your printed or electronic receipt with you.
+                            <p></p>The ONLINE EXCHANGE option is available for orders made as a registered user and paid with: CreditCard and E-Wallet (some of these payment methods may not be available in your country or region).
+                            <br /> - Only one exchange request can be done at a time for the same order. You may add up to 5 items per exchange request.
+                            <br />  - The exchange option will not be visible if the purchased item is no longer available.
+                            <br /> - Online exchanges are not available for purchases made with a gift receipt.
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="faq">
+                    <div class="faq_question">9. Can I exchange Offline at Store? </div>
+                    <div class="faq_answer_container">
+                        <div class="faq_answer">
+                            <p>
+                                You can exchange products within 15 days from the date of purchase.
+
+                                <br />  The policy is only applicable to change products with original price and can only change 1 time. The policy only applies when the product has a purchase invoice, with the product label, tag attached and the product is not dirty or damaged by outside agents after buying the product.
+
+                                <br /> The policy does not apply to discounted products or changed from original to discounted products, or products in other promotions. The policy does not apply to underwear and accessories products (except for wool towels and wool caps).
+
+                                <br />Products purchased at stores are exchanged at other stores in the whole system.
+
+                                <br /> For inquiries about general regulations at the store, please contact hotline: 1800.6061 (extension 2) or email: chamsockhachhang@cytshirtvn.com
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </div>
     <!--Footer-->
     <footer class="footer">
