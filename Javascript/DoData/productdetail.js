@@ -66,7 +66,7 @@ function loading() {
             for (var j = 0; j < lstrecord[i].length; j++) {
                 if (lstrecord[i][j][2] == idsp) {
                     var img = document.createElement("img")
-                    img.setAttribute("src", "Image/" + lstrecord[i][j][5])
+                    img.setAttribute("src", "Data/ImgProduct/" + lstrecord[i][j][5])
                     img.setAttribute("class", "imgproduct")
 
                     td1.appendChild(img)
