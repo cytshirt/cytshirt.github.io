@@ -196,6 +196,7 @@ function loading2() {
 
     }
 
+
 }
 function xuLyquant(stt) {
     quant = document.getElementById("idquant");
