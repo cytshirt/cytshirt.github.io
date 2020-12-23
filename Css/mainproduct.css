@@ -1,0 +1,199 @@
+﻿.DanhMucSP {
+    align-content: center;
+    font-size: 30px;
+    text-decoration:dotted;
+    padding:20px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+p {
+    margin: 0 20px 20px;
+    background-color: wheat;
+    align-content: center;
+}
+
+.imgproduct:hover {
+    transform: scale(1.1)
+}
+#mainproduct {
+    float: left;
+    width:100%;
+}
+
+.tablecontain {
+    margin-top:50px;
+    width: 75%;
+    float: left;
+    position: relative;
+}
+
+table {
+    width: 100%;
+}
+.title{
+    margin-left:40px;
+    font-size:20px;
+}
+.filter-bar {
+    width: 25%;
+    height: 650px;
+    padding-top: 30px;
+    float: left;
+    top: 50px;
+    position: sticky;
+}
+
+.tab-title {
+    width: 100%;
+    background-color: pink;
+}
+
+.filter ul li {
+    list-style: none;
+    height: 30px;
+}
+
+.filter li {
+    height: 30px;
+    cursor: pointer;
+}
+
+.filter {
+    padding: 20px 60px 20px;
+    height: 550px;
+}
+
+    .filter ul {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+
+    .filter span {
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: orange;
+    }
+
+.color-contain {
+    width: 100%;
+    height: auto;
+}
+
+.colorbox {
+    float: left;
+    margin-right: 10px;
+}
+
+    .colorbox input[type=checkbox] {
+        display: none;
+    }
+
+#check:checked ~ .checkmark::after, #check2:checked ~ .checkmark::after, #check3:checked ~ .checkmark::after, #check4:checked ~ .checkmark::after, #check5:checked ~ .checkmark::after, #check6:checked ~ .checkmark::after { /*chỗ này xem lại các nút trên giao diện*/
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 10px;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    bottom: 60%;
+    right: 50%;
+    transform: translate(50%,50%) rotateZ(40deg);
+}
+
+.checkmark {
+    cursor: pointer;
+    display: block;
+    width: 25px;
+    height: 25px;
+    position: relative;
+}
+
+.size {
+    width: 100%;
+    padding: 10px 0;
+    height: 70px;
+    position: relative;
+    float: left;
+}
+
+.sizebox {
+    position: absolute;
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+}
+
+    .sizebox label {
+        position: relative;
+        cursor: pointer;
+        text-align: center;
+    }
+
+        .sizebox label input {
+            display: none;
+        }
+
+        .sizebox label span {
+            position: relative;
+            display: inline-block;
+            width: 30px;
+            color: black;
+            padding: 5px;
+            background-color: #bebebe;
+        }
+
+        .sizebox label input:checked ~ span {
+            border: 1px solid black;
+        }
+
+@media screen and (max-width:1024px) {
+    #mainproduct {
+        margin: 0;
+    }
+
+    .filter-bar {
+        width: 40%;
+    }
+
+    .tablecontain {
+        width: 60%;
+    }
+
+    table {
+        width: 100%;
+    }
+        table, table tr, table td {
+            display: block;
+            width: 100%;
+        }
+    img .imgproduct {
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #mainproduct {
+        margin: 0;
+    }
+
+    .filter-bar {
+        display: none;
+    }
+
+    .tablecontain {
+        width: 100%;
+    }
+
+    table, table tr, table td {
+        display: block;
+        width: 100%;
+    }
+    img .imgproduct {
+        width: 400px;
+        height: 400px;
+    }
+}
