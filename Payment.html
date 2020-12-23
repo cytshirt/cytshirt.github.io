@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="Css/payment.css" type="text/css"/>
+</head>
+<body>
+    <div class="row">
+        <div class="col-30">
+            <div class="container">
+                <h4><b>Cart Information</b></h4>
+                <table cellspacing="1" cellpadding="2">
+                    <tr>
+                        <td>
+                            <b>Product</b>
+
+                        </td>
+                        <td>&nbsp;</td>
+                        <td><b>Color</b></td>
+                        <td><b>Amount</b></td>
+                        <td><b>Price</b></td>
+                        <td><b>Discount</b></td>
+                        <td><b>Total</b></td>
+                    </tr>
+
+                    <tr>
+                        <td class="imgPro"> <img src="img/avt2.JPG" width="50" height="50" /></td>
+                        <td>Áo thun đẹp</td>
+                        <td>Color</td>
+                        <td>1</td>
+                        <td>690.000</td>
+                        <td><span style="color: red">300.000</span></td>
+                        <td>190.000</td>
+                    </tr>
+                </table>
+                <hr />
+                <p align="right">Total: <span class="price" style="color:black">350.000</span></p>
+            </div>
+
+        </div>
+        <div class="col-70">
+            <div class="container">
+                <form>
+                    <div class="col-50">
+                        <h3>Billing Address</h3>
+                        <label for="name">Full Name</label>
+                        <input type="text" id="fname" name="fullname" placeholder="Mộng Thị En Tơ" />
+
+                        <label for="email">Email</label>
+                        <input type="text" id="email" name="email" placeholder="enter2000@st.uel.edu.vn" />
+
+                        <label for="address">Shiping Address</label>
+                        <input type="text" id="address" name="adress" placeholder="xxx/xxx - xxxxx" />
+
+                        <label for="name">City</label>
+                        <input type="text" id="city" name="city" placeholder="Ho Chi Minh City" />
+                        <label>
+                            <input type="checkbox" class="check-box" />Sign up a new account for next shipping
+                        </label>
+
+
+
+                    </div>
+                    <div class="col-50">
+                        <h3>Card Information</h3>
+                        <label>Accept</label>
+                        <table cellpadding="5" cellspacing="3">
+                            <tr>
+                                <td><img src="img/acb.png" width="60" height="15" /></td>
+                                <td><img src="img/vcb.png" width="60" height="20" /></td>
+                                <td><img src="img/bidv.png" width="60" height="20" /></td>
+                                <td><img src="img/mb.png" width="60" height="20" /></td>
+                            </tr>
+
+                        </table>
+
+                        <label>Name On Card</label>
+                        <input type="text" id="cname" name="cardnumber" placeholder="MONG THI EN TO" />
+
+                        <label>Credit Card</label>
+                        <input type="text" id="number" name="cardnumber" placeholder="XXXX-XXXX-XXXX-XXXX" />
+
+                        <div class="row">
+                            <div class="col-50">
+                                <label for="month">Month</label>
+                                <input type="text" id="month" name="month" placeholder="XX" />
+                            </div>
+                            <div class="col-50">
+                                <label for="day">Day</label>
+                                <input type="text" id="day" name="day" placeholder="XX" />
+                            </div>
+
+                        </div>
+                        <input type="submit" value="PAYMENT" onclick="myOnClickPay()" class="btn" />
+
+                    </div>
+                </form>
+
+            </div>
+
+        </div>
+        <script>
+            function myOnClickPay() {
+
+            
+            alert("Pay sucessfully !")
+            
+        }
+        </script>
+
+    </div>
+
+</body>
+</html>
