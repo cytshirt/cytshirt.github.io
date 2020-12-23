@@ -40,9 +40,11 @@ a:hover{
 table {
     width: 100%;
 }
-.title{
-    margin-left:40px;
-    font-size:20px;
+.listproductdiv{
+    padding-left:30px;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
 }
 .filter-bar {
     width: 25%;
