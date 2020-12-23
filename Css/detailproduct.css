@@ -23,9 +23,8 @@ hr.hrdetail {
     height: 3px;
     display: block;
     background-color: #F89521;
-    margin: 1em 0 1em;
     width: 100%;
-    max-width: 50px;
+    max-width: 100px;
 }
 
 span {

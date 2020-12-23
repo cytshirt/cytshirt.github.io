@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PRODUCTS>
+  <polo>
+    <product>
+      <type>Polo</type>
+      <name>Thick small embroidery cotton long-sleeve polo shirt</name>
+      <id>pl0009</id>
+      <price>250000</price>
+      <image>pl9_1.jpg</image>
+      <image1>pl9_2.jpg</image1>
+      <image2>pl9_3.jpg</image2>
+      <image3></image3>
+      <description>100% cotton. Brushed finishing fabric. Small embroidery at front. Polo colloar. Ribbed cuffs. Longer hem at the back.</description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Lycra stretchy drop-shoulder loose polo shirt</name>
+      <id>pl0010</id>
+      <price>250000</price>
+      <image>pl10_1.jpg</image>
+      <image1>pl10_2.jpg</image1>
+      <image2>pl10_3.jpg</image2>
+      <image3></image3>
+      <description>100% cotton. Small embroidery at front. Polo colloar. Ribbed cuffs. Longer hem at the back.</description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Contrast lycra stretchy short sleeves polo shirt</name>
+      <id>pl0011</id>
+      <price>250000</price>
+      <image>pl11_1.jpg</image>
+      <image1>pl11_2.jpg</image1>
+      <image2>pl11_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and lycra blended fabric. Contrast color. Ribbed polo collar and sleeves. Short sleeves.</description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Contrast embroidery pique polo shirt</name>
+      <id>pl0012</id>
+      <price>250000</price>
+      <image>pl12_1.jpg</image>
+      <image1>pl12_2.jpg</image1>
+      <image2>pl12_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and lycra blended fabric. Stretchy. Polo Collar. Embroidery at chest. Contrast design. Short sleeves.</description>
+    </product>
+  </polo>
+</PRODUCTS>
