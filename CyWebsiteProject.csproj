@@ -76,14 +76,14 @@
     <Content Include="Css\blog.css" />
     <Content Include="Css\campaign.css" />
     <Content Include="Css\contacts.css" />
+    <Content Include="Css\detailproduct.css" />
     <Content Include="Css\faqs.css" />
     <Content Include="Css\homelayout.css" />
     <Content Include="Css\membership.css" />
     <Content Include="Css\new.css" />
     <Content Include="Css\policy.css" />
     <Content Include="Css\post_detail.css" />
-    <Content Include="Css\StyleSheet2.css" />
-    <Content Include="Data\DATA.xml" />
+    <Content Include="Css\StyleSheet1.css" />
     <Content Include="Data\ImgProduct\ac10_1.jpg" />
     <Content Include="Data\ImgProduct\ac10_2.jpg" />
     <Content Include="Data\ImgProduct\ac11_1.jpg" />
@@ -1017,7 +1017,6 @@
     <Content Include="Data\ImgProduct\ts9_2.jpg" />
     <Content Include="Data\ImgProduct\ts9_3.jpg" />
     <Content Include="Data\ImgProduct\ts_57_3.jpg" />
-    <Content Include="Data\Newbest.xml" />
     <Content Include="Data\sanpham.xml" />
     <Content Include="FAQs.html" />
     <Content Include="ForgetPass.html" />
@@ -1150,6 +1149,9 @@
     <Content Include="Image\SliderHome\imgslide5.png" />
     <Content Include="index.html" />
     <Content Include="Javascript\DoData\JavaScript_DoData.js" />
+    <Content Include="Javascript\DoData\mainproductpolo.js" />
+    <Content Include="Javascript\DoData\mainproductsw.js" />
+    <Content Include="Javascript\DoData\productdetail.js" />
     <Content Include="Javascript\Home\menu.js" />
     <Content Include="Javascript\Home\slider.js" />
     <Content Include="Main_AboutUs.html" />
@@ -1163,6 +1165,7 @@
     <Content Include="Membership.html" />
     <Content Include="Passwordnew.html" />
     <Content Include="Pravacy_Policy.html" />
+    <Content Include="Product_Detail.html" />
     <Content Include="Product_Polo.html" />
     <Content Include="Product_Sweater.html" />
     <Content Include="Product_Tshirt.html" />
