@@ -1,6 +1,6 @@
 ﻿// JavaScript source code
 var data = [];
-function loading() {
+function loading1() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -24,7 +24,7 @@ function loading() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['polo']
+        var lstmuc = ['tshirt']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];
@@ -47,7 +47,7 @@ function loading() {
     }
     function HienThi(lstrecord) {
         var idsp = unescape(getUrlVars()["id"])
-        tbody = document.getElementById("detailproduct")
+        tbody = document.getElementById("detailproduct1")
         var tr = document.createElement("tr")
         tbody.appendChild(tr)
 
@@ -210,4 +210,3 @@ function xuLyquant(stt) {
     }
 
 }
-

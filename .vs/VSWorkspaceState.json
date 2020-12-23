@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Css"
+    "\\Css",
+    "\\Data",
+    "\\Javascript",
+    "\\Javascript\\DoData"
   ],
-  "SelectedNode": "\\Cart.html",
+  "SelectedNode": "\\Javascript\\DoData\\mainproductpolo.js",
   "PreviewInSolutionExplorer": false
 }
