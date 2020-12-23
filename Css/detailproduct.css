@@ -59,10 +59,6 @@ span {
             background-color: #fff;
         }
 
-        .sizebox label input:checked ~ span {
-            border: 1px solid black;
-        }
-
 .quantity {
     padding: 30px;
     position: relative;

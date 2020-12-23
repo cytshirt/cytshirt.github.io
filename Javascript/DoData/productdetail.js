@@ -108,7 +108,6 @@ function loading() {
 
                     var lable = document.createElement("label")
                     lable.setAttribute('class', 'radio')
-
                     var inputsize = document.createElement("input")
                     inputsize.setAttribute('class', 'inputsize')
                     inputsize.type = "radio"
