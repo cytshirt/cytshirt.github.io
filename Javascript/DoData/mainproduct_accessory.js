@@ -84,7 +84,7 @@ function loading2() {
 
 
                 var a1 = document.createElement("a");
-                a1.href = "Product_Detail_Accessories.html?id=" + record1[2];
+                a1.href = "Product_Detail_accessories.html?id=" + record1[2];
                 var img1 = document.createElement("img")
                 img1.setAttribute("src", "Data/ImgProduct/" + record1[4])
                 img1.setAttribute("class", "imgproduct")

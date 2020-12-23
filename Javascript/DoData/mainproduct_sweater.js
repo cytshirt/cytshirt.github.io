@@ -85,7 +85,7 @@ function loading() {
 
 
                 var a1 = document.createElement("a");
-                a1.href = "Product_Detail.html?id=" + record1[2];
+                a1.href = "Product_Detail_sweater.html?id=" + record1[2];
                 var img1 = document.createElement("img")
                 img1.setAttribute("src", "Data/ImgProduct/" + record1[4])
                 img1.setAttribute("class", "imgproduct")
@@ -103,7 +103,7 @@ function loading() {
 
 
                 var a2 = document.createElement("a");
-                a2.href = "Product_Detail.html?id=" + record2[2];
+                a2.href = "Product_Detail_sweater.html?id=" + record2[2];
                 var img2 = document.createElement("img")
                 img2.setAttribute("src", "Data/ImgProduct/" + record2[4])
                 img2.setAttribute("class", "imgproduct")
@@ -119,7 +119,7 @@ function loading() {
                 td2.appendChild(a2)
 
                 var a3 = document.createElement("a");
-                a3.href = "Product_Detail.html?id=" + record3[2];
+                a3.href = "Product_Detail_sweater.html?id=" + record3[2];
                 var img3 = document.createElement("img")
                 img3.setAttribute("src", "Data/ImgProduct/" + record3[4])
                 img3.setAttribute("class", "imgproduct")
@@ -145,7 +145,7 @@ function loading() {
                     trlast.appendChild(td)
                     record = lstrecord[i][(parseInt(lstrecord[i].length / numtdeachrow) * 2) + j]
                     var a = document.createElement("a")
-                    a.href = "Product_Detail.html?id=" + record[2];
+                    a.href = "Product_Detail_sweater.html?id=" + record[2];
                     var img = document.createElement("img")
                     img.setAttribute("src", "Data/ImgProduct/" + record[4])
                     img.setAttribute("class", "imgproduct")

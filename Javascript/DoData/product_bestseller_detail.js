@@ -1,6 +1,6 @@
 ﻿// JavaScript source code
 var data = [];
-function loading2() {
+function loading() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -8,7 +8,7 @@ function loading2() {
             HienThi(data);
         }
     };
-    xhttp.open("GET", "Data/sanpham.xml", true);
+    xhttp.open("GET", "Data/newbest.xml", true);
     xhttp.send();
     var lstproduct;
     var xmlDoc;
@@ -24,7 +24,7 @@ function loading2() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['accessory']
+        var lstmuc = ['bestseller']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];
@@ -195,7 +195,6 @@ function loading2() {
         }
 
     }
-
 
 }
 function xuLyquant(stt) {
