@@ -48,7 +48,8 @@ function loading() {
     function HienThi(lstrecord) {
         var idsp = unescape(getUrlVars()["id"])
         tbody = document.getElementById("detailproduct")
-
+        widthimage = 500;
+        heightimage = 500;
         var tr = document.createElement("tr")
         tbody.appendChild(tr)
 
@@ -67,6 +68,8 @@ function loading() {
                     var img = document.createElement("img")
                     img.setAttribute("src", "Image/" + lstrecord[i][j][5])
                     img.setAttribute("class", "imgproduct")
+                    img.setAttribute("width", widthimage)
+                    img.setAttribute("height", heightimage)
                     td1.appendChild(img)
                     var ten = document.createElement("div")
                     ten.setAttribute('class', 'nameproductdt')
