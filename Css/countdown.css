@@ -1,0 +1,164 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    
+}
+.countdown {
+    background: url(../Image/Footer/PhaoBong@2x.png) no-repeat center;
+    background-size: 20%;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: fixed;
+    font-family: 'Muli', sans-serif;
+    width: 40vh;
+    height: 20vh;
+    overflow: hidden;
+    bottom: 70px;
+    z-index: 5;
+    border-radius:20px;
+    background-color: #fff;
+    opacity: 0.7;
+    
+}
+
+.img-phaobong{
+    
+    width:35vh;
+    height:20vh;
+}
+#pb1 {
+    z-index: 10;
+    width:10vh;
+    height:auto;
+}
+#pb2 {
+    z-index: 10;
+    width: 10vh;
+    height: auto;
+    margin-right:1px;
+}
+#pb3{
+    z-index:10;
+    width:10vh;
+    height:auto;
+    margin-top:2px;
+    margin-left:1px;
+}
+
+.fa-snowflake {
+    color: #fff;
+    position: absolute;
+    top: -20px;
+    animation: fall 15s linear forwards;
+}
+
+@keyframes fall {
+    to {
+        transform: translateY(105vh);
+    }
+}
+
+.countdown-container {
+    display: flex;
+
+    
+}
+
+.time {
+    display: flex;
+    font-size: 1em;
+    flex-direction: column;
+    margin: 0 15px;
+    z-index: 15;
+    color: #FF7500;
+    font-weight: bold;
+    text-shadow: 0px 4px 10px rgba(0,0,0,0.5);
+}
+
+    .time h1 {
+        margin-bottom: 0;
+        font-size: 1.6em !important;
+        background-color: transparent;
+        
+    }
+
+    .time small {
+        color: rgba(0,0,0,0.5);
+    }
+
+/* SOCIAL PANEL CSS */
+.social-panel-container {
+    position: fixed;
+    right: 0;
+    bottom: 80px;
+    transform: translateX(100%);
+    transition: transform 0.4s ease-in-out;
+}
+
+    .social-panel-container.visible {
+        transform: translateX(-10px);
+    }
+
+
+
+.floating-btn {
+    border-radius: 26.5px;
+    background-color: #001F61;
+    border: 1px solid #001F61;
+    box-shadow: 0 16px 22px -17px #03153B;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 12px 20px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+    .floating-btn:hover {
+        background-color: #ffffff;
+        color: #001F61;
+    }
+
+    .floating-btn:focus {
+        outline: none;
+    }
+
+.floating-text {
+    background-color: #001F61;
+    border-radius: 10px 10px 0 0;
+    color: #fff;
+    font-family: 'Muli';
+    padding: 7px 15px;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    z-index: 998;
+}
+
+    .floating-text a {
+        color: #FF7500;
+        text-decoration: none;
+    }
+
+@media screen and (max-width: 480px) {
+
+    .social-panel-container.visible {
+        transform: translateX(0px);
+    }
+
+    .floating-btn {
+        right: 10px;
+    }
+}
