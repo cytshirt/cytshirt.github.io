@@ -1,4 +1,4 @@
-var data = [];
+﻿var data = [];
 function loading() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
@@ -15,7 +15,7 @@ function loading() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['polo']
+        var lstmuc = ['tshirt']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];
@@ -48,8 +48,8 @@ function loading() {
             switch (i) {
                 case 0:
                     tdhead.setAttribute('id', 'cateNoi')
-                    tdhead.setAttribute('name', 'polo')
-                    tdhead.innerText = 'POLO'
+                    tdhead.setAttribute('name', 'tshirt')
+                    tdhead.innerText = 'TSHIRT'
                     break;
 
             }
@@ -94,7 +94,7 @@ function loading() {
 
                 var content1 = document.createElement("p")
                 content1.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
-                    + record1[3]+' VND' + "</b>"
+                    + record1[3] + ' VND' + "</b>"
                 content1.setAttribute('color', '#000000');
 
                 a1.appendChild(content1)
@@ -111,7 +111,7 @@ function loading() {
                 a2.appendChild(img2);
 
                 var content2 = document.createElement("p")
-                content2.innerHTML = "<div>" + record2[1].toUpperCase() + "</div>" + "<b>"
+                content2.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
                     + record2[3] + ' VND' + "</b>"
                 content2.setAttribute('color', '#000000');
                 a2.appendChild(content2)
@@ -127,7 +127,7 @@ function loading() {
                 a3.appendChild(img3);
 
                 var content3 = document.createElement("p")
-                content3.innerHTML = "<div>" + record3[1].toUpperCase() + "</div>" + "<b>"
+                content3.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
                     + record3[3] + ' VND' + "</b>"
                 content3.setAttribute('color', '#000000');
                 a3.appendChild(content3)
