@@ -3,14 +3,13 @@
     box-sizing: border-box;
 }
 
-
-.container2 {
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+    .container2 {
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 
     .container2::after {
         width: 100%;
@@ -168,6 +167,17 @@ a{
         vertical-align: middle;
         width: 100%;
     }
+
+.ic-uptop {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #F89521;
+    bottom: 90px;
+    right: 50px;
+    /*border: 1px solid #F89521;*/
+    border-radius: 10px;
+}
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {

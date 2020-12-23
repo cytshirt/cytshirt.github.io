@@ -1,4 +1,15 @@
-﻿*{
+﻿.ic-uptop {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #F89521;
+    bottom: 90px;
+    right: 50px;
+    /*border: 1px solid #F89521;*/
+    border-radius: 10px;
+}
+
+*{
     margin:0;
     padding: 0;
     box-sizing: border-box;
@@ -36,45 +47,50 @@
         border-radius: 100px;
         margin-bottom: 10px;
     }
-.sidebar ul li {
-    padding: 15px;
-    border-bottom: 1px solid rgba(0,0,0,0.05); /*gạch chân ở dưới*/
-    border-top: 1px solid rgba(225, 225, 225, 0.05);
-}
-    .sidebar ul li a {
-        font-weight: 600;
-        color: rgb(255, 106, 0);
-        display: block; /*xếp thành hàng*/
-        width: 100%;
-        position: relative;
-        height: 50px;
-        line-height: 40px; /* dòng cách dòng*/
-        text-decoration: none;
-        padding-left: 30px;
-        transition: 0.3s;
-        /*hiệu ứng kéo theo*/
+    .sidebar ul li {
+        padding: 2px;
+        border-bottom: 1px solid rgba(0,0,0,0.05); /*gạch chân ở dưới*/
+        border-top: 1px solid rgba(225, 225, 225, 0.05); /*không cần cũng đc*/
     }
-        .sidebar ul li a:before { /*có thanh dọc trắng ở nút*/
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 3px;
-            height: 100%;
-            background: antiquewhite;
-            display: none;
+
+        .sidebar ul li a {
+            font-weight: 600;
+            color: rgb(255, 106, 0);
+            display: block; /*xếp thành hàng*/
+            width: 100%;
+            position: relative;
+            height: 50px;
+            line-height: 40px; /* dòng cách dòng*/
+            text-decoration: none;
+            padding-left: 5px;
+            transition: 0.3s;
+            /*hiệu ứng kéo theo*/
         }
-    .sidebar ul li:hover {
-        background: #F4976C;
-    }
+
+            .sidebar ul li a:before { /*có thanh dọc trắng ở nút*/
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 3px;
+                height: 100%;
+                background: antiquewhite;
+                display: none;
+            }
+
+            .sidebar ul li a.active {
+                background: #F4976C;
+                color: antiquewhite;
+                text-align: center;
+            }
+
+            .sidebar ul li a:hover { /*bg khi chuột hover vào li*/
+                background: #F4976C;
+            }
+
         .sidebar ul li:hover a {
             color: #fff;
-            text-align: center;
         }
- .sidebar ul li :hover:before,
- .sidebar ul li a.active:before {
-    display: block;
-}
     
     .text2 {
         float: left;

@@ -1,4 +1,14 @@
-﻿
+﻿.ic-uptop {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #F89521;
+    bottom: 90px;
+    right: 50px;
+    /*border: 1px solid #F89521;*/
+    border-radius: 10px;
+}
+
 
 .faq_question {
     margin: 0px;
@@ -22,10 +32,11 @@
 .delivery {
     padding-left: 200px;
     padding-right: 200px;
-    
+    width: 100%;
+    height: auto;
     background: url('../Image/Footer/bg4.jpg') no-repeat center;
     align-items: center;
-    background-size: 90%;
+    background-size: 100%;
     padding-top: 30px;
     align-content: center;
     background-attachment: fixed;
@@ -37,7 +48,7 @@
     padding: 1rem;
     box-shadow: 0.5rem 2px .5rem rgba(0,0,0,.1);
     opacity: .8;
-    width: 900px;
+    margin:0 100px 20px 100px;
    
 }
 .content h1 {
@@ -59,8 +70,9 @@
 }
 
 @media screen and (max-width: 1024px) {
-    .faq{
-        width:auto;
+    .faq {
+        width: auto;
+        background-size: cover;
     }
     .delivery{
         padding-left:5px;
@@ -80,6 +92,11 @@
         padding-right: 5px;
         background-size:cover;
         
+    }
+}
+@media screen and (max-width: 425px){
+    .faq {
+        margin: 0 5px 10px 5px!important;
     }
 }
 

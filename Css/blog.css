@@ -255,6 +255,18 @@ input.btn {
         color: #F89521;
         cursor: pointer;
     }
+.ic-uptop {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color:#F89521;
+    bottom: 90px;
+    right: 50px;
+    /*border: 1px solid #F89521;*/
+    border-radius: 10px;
+}
+
+
 
 
 @media only screen and (max-width:1130px) {

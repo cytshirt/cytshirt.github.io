@@ -1,4 +1,13 @@
-﻿
+﻿.ic-uptop {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #F89521;
+    bottom: 90px;
+    right: 50px;
+    /*border: 1px solid #F89521;*/
+    border-radius: 10px;
+}
 .login-page {
     width: 100%;
     height: 100vh;
@@ -23,7 +32,8 @@
     padding: 10px;
     width: 100%;
     height: 500px;
-    background: rgba(255,255,255,0.1); /*tạo nền form màu xám trong*/
+    /*background: rgba(255,255,255,0.1); tạo nền form màu xám trong */ 
+    background:white;
     border-radius: 10px;
     box-shadow: 0 5px 30px rgba(0,0,0,0.2);
     /* Tạo form */
@@ -34,7 +44,7 @@
     text-align: center;
     margin: 40px auto;
     position: relative; /*switch*/
-    box-shadow: 0 0 25px 10px #F4976C;
+    box-shadow: 0 0 25px 0.1px rgb(255, 210, 153);
     border-radius: 30px; /*đường viền của 2 button trên*/
 }
 
@@ -58,7 +68,7 @@
     position: absolute; /*nút switch*/
     width: 110px;
     height: 100%;
-    background: #F4976C;
+    background: rgb(255, 210, 153);
     border-radius: 30px;
     transition: .5s;
 }
@@ -119,9 +129,9 @@
     font-weight: 600;
     width: 85%;
     padding: 10px 30px;
-    border-radius: 5px;
+    border-radius: 1px;
     cursor: pointer;
-    background: transparent;
+    background: rgba(255,146,10,1);
     transition: all 0.3s ease;
     position: relative;
     align-items: center;
@@ -136,6 +146,7 @@
     border: none;
     transition: all 0.3s ease;
     overflow: hidden;
+    border-radius:20px;
 }
 
     .submit-btn::after {
@@ -146,13 +157,13 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: #F89521;
+        background-color: #f79621;
         background-image: linear-gradient(315deg, #F89521 5%, #F4976C 60%);
         transition: all 0.3s ease;
     }
     /*button Submit đổi màu*/
     .submit-btn:hover {
-        background: transparent;
+        background: rgba(255,146,10,1);
         box-shadow: 4px 4px 6px 0 rgba(255,255,255,.5), -4px -4px 6px 0 rgba(116, 125, 136, .2), inset -4px -4px 6px 0 rgba(255,255,255,.5), inset 4px 4px 6px 0 rgba(116, 125, 136, .3);
         color: #fff;
     }
