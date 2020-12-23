@@ -50,7 +50,7 @@ function loading() {
                 case 0:
                     tdhead.setAttribute('id', 'cateNoi')
                     tdhead.setAttribute('name', 'polo')
-                    tdhead.innerText = 'POLO'
+                    tdhead.innerText = 'SWEATER'
                     break;
 
             }
