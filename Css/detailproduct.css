@@ -6,12 +6,14 @@
 }
 img.imgproduct {
     width: 500px;
-    height: 500px;
+    height: 503.8px;
+    margin-right:40px;
 }
 td.motatd2 {
     background-color: #ffeccd;
-    padding: 15px;
+    padding: 10px;
 }
+
 .nameproductdt {
     font-size: 24px;
 }
@@ -20,11 +22,12 @@ td.motatd2 {
     margin-top: 10px;
 }
 hr.hrdetail {
-    height: 3px;
+    height: 5px;
     display: block;
     background-color: #F89521;
     width: 100%;
     max-width: 100px;
+    margin:20px 0px;
 }
 
 .detailproduct span {
@@ -34,7 +37,7 @@ hr.hrdetail {
 
 .sizebox {
     position: relative;
-    margin: 40px 0 40px;
+    margin: 20px 0 20px;
     float: left;
     width: 100%;
 }
@@ -52,26 +55,27 @@ hr.hrdetail {
         .sizebox label span {
             position: relative;
             display: inline-block;
-            width: 30px;
+            width: 40px;
             color: black;
             padding: 10px;
             background-color: #fff;
         }
 
 .quantity {
-    padding: 30px;
+    padding: 30px 0;
     position: relative;
 }
 
 span.btnquant {
     padding: 13px;
-    margin: 10px;
+    margin: 0px 10px 0px 0px;
     background-color: #fff;
     cursor: pointer;
 }
 
 span#idquant {
     padding: 13px 30px;
+    margin: 0px 10px 0px 0px;
     background-color: #fff;
 }
 
@@ -170,6 +174,7 @@ td.otherproducttd2{
     img.imgproduct {
         width: 300px;
         height: 300px;
+        margin-right: 0px;
     }
 
         table, table tr, table td {

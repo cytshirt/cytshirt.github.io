@@ -187,8 +187,6 @@ function loading2() {
                     td2.appendChild(quantitycontainer)
 
 
-
-
                 }
             }
 

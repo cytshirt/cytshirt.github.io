@@ -1,63 +1,62 @@
-﻿.ic-uptop {
-    position: fixed;
-    width: 50px;
-    height: 50px;
-    background-color: #F89521;
-    bottom: 90px;
-    right: 50px;
-    /*border: 1px solid #F89521;*/
-    border-radius: 10px;
+﻿.allproductdiv{
+    width:100%;
+    padding:0 40px;
 }
-#main-index {
-    margin: 0 50px;
-}
-.producttshirt img{
-    height:300px;
-    max-width:100%;
+/*trang all product*/
+.producttshirt img,.productpolo img,.productsweater img,.productacess img {
+    width:100%;
 
 }
-.producttshirt img:hover{
+.productrow{
+    width:100%;
+    position:relative;
+    float:left;
+}
+.producttshirt img:hover,.productacess img:hover,.productsweater img:hover,.productpolo img:hover{
     display:block;
     cursor:pointer;
     opacity:0.5;
 }
-
-#section-title h3.title span {
-    padding: 10px 20px 8px 20px;
-    color: black;
-    position: center;
-    margin: 0;
-    text-align: center
+.producttshirt, .productsweater, .productpolo, .productacess {
+    width: 50%;
+    float: left;
+    background-color: #fff;
+    padding:10px;
 }
-
-#section-title h3.title {
-    margin: 15px 0;
-    font-size: 30px;
-    line-height: 20px;
-    text-transform: uppercase;
+/*trang home*/
+.producttshirt-main, .productsweater-main,.productpolo-main,.productacess-main{
+    width: 25%;
+    float: left;
+    background-color: #fff;
+    padding:5px;
 }
-
-.tab-title {
+.producttshirt-main img, .productpolo-main img, .productsweater-main img, .productacess-main img {
     width: 100%;
-    background-color: pink;
 }
-
-.product-block {
-    width: 24%;
-    margin: 0 0.5%;
-    float: left;
-    height: 300px;
-    background-color: blue;
+.producttshirt-main img:hover, .productacess-main img:hover, .productsweater-main img:hover, .productpolo-main img:hover {
+    display: block;
+    cursor: pointer;
+    opacity: 0.5;
 }
-.productpolo {
-    width: 50%;
-    float: left;
-    height: 300px;
-    background-color: orange;
+@media screen and (max-width:768px){
+    .producttshirt, .productsweater, .productpolo, .productacess {
+        width: 100%;
+        float: left;
+        background-color: #fff;
+        padding: 10px;
+    }
+    .allproductdiv{
+        padding:0 5px;
+    }
 }
-.productacess {
-    width: 50%;
-    float: left;
-    height: 300px;
-    background-color: forestgreen;
+@media screen and (max-width:1024px){
+    .producttshirt, .productsweater, .productpolo, .productacess {
+        width: 100%;
+        float: left;
+        background-color: #fff;
+        padding: 10px;
+    }
+    .allproductdiv{
+        padding:0 10px;
+    }
 }
