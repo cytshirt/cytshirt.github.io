@@ -199,7 +199,7 @@ function loading() {
 
                     var policyreturnheader = document.createElement("div")
                     policyreturnheader.setAttribute('class', 'policy-return-header')
-                    policyreturnheader.innerH
+                    policyreturnheader.innerText='RETURN POLICY'
                     policy.appendChild(policyreturnheader)
 
                     var policyreturn = document.createElement('div')
