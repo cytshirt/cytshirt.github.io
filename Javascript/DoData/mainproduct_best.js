@@ -1,4 +1,6 @@
-﻿// JavaScript source code
+// JavaScript source code
+// JavaScript source code
+// JavaScript source code
 var data = [];
 function loading() {
     var xhttp = new XMLHttpRequest();
@@ -8,7 +10,7 @@ function loading() {
             HienThi(data);
         }
     };
-    xhttp.open("GET", "Data/sanpham.xml", true);
+    xhttp.open("GET", "Data/newbest.xml", true);
     xhttp.send();
     var lstproduct;
     var xmlDoc;
@@ -16,7 +18,7 @@ function loading() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['sweater']
+        var lstmuc = ['bestseller']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];

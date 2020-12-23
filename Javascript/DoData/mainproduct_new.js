@@ -1,4 +1,5 @@
 // JavaScript source code
+// JavaScript source code
 var data = [];
 function loading() {
     var xhttp = new XMLHttpRequest();
