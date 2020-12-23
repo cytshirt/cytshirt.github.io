@@ -82,6 +82,7 @@
     <Content Include="Css\new.css" />
     <Content Include="Css\policy.css" />
     <Content Include="Css\post_detail.css" />
+    <Content Include="Css\StyleSheet2.css" />
     <Content Include="Data\DATA.xml" />
     <Content Include="Data\ImgProduct\ac10_1.jpg" />
     <Content Include="Data\ImgProduct\ac10_2.jpg" />
