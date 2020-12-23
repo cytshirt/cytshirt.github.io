@@ -47,7 +47,7 @@ function loading2() {
     }
     function HienThi(lstrecord) {
         var idsp = unescape(getUrlVars()["id"])
-        tbody = document.getElementById("detailproduct2")
+        tbody = document.getElementById("detailproduct")
         var tr = document.createElement("tr")
         tbody.appendChild(tr)
 
