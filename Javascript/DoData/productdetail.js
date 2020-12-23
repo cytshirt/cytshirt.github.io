@@ -48,8 +48,6 @@ function loading() {
     function HienThi(lstrecord) {
         var idsp = unescape(getUrlVars()["id"])
         tbody = document.getElementById("detailproduct")
-        widthimage = 500;
-        heightimage = 500;
         var tr = document.createElement("tr")
         tbody.appendChild(tr)
 
@@ -57,6 +55,8 @@ function loading() {
         var td2 = document.createElement("td")
 
         td1.setAttribute('valign', 'top')
+        td1.setAttribute('class', 'motatd1')
+        td1.setAttribute('align','center')
         td2.setAttribute('valign', 'top')
         td2.setAttribute('class', 'motatd2')
         tr.appendChild(td1)
@@ -68,8 +68,7 @@ function loading() {
                     var img = document.createElement("img")
                     img.setAttribute("src", "Image/" + lstrecord[i][j][5])
                     img.setAttribute("class", "imgproduct")
-                    img.setAttribute("width", widthimage)
-                    img.setAttribute("height", heightimage)
+
                     td1.appendChild(img)
                     var ten = document.createElement("div")
                     ten.setAttribute('class', 'nameproductdt')
@@ -189,28 +188,7 @@ function loading() {
                     td2.appendChild(quantitycontainer)
 
 
-                    var policygroup = document.createElement('div')
-                    policygroup.setAttribute('class', 'policy-group')
-                    td2.appendChild(policygroup)
-
-                    var policy = document.createElement('policy')
-                    policy.setAttribute('class', 'policy')
-                    policygroup.appendChild(policy)
-
-                    var policyreturnheader = document.createElement("div")
-                    policyreturnheader.setAttribute('class', 'policy-return-header')
-                    policyreturnheader.innerText='RETURN POLICY'
-                    policy.appendChild(policyreturnheader)
-
-                    var policyreturn = document.createElement('div')
-                    policyreturn.setAttribute('class', 'policy-return')
-                    policyreturn.setAttribute('display','none')
-                    policy.appendChild(policyreturn)
-
-                    var policyreturnif = document.createElement('div')
-                    policyreturnif.setAttribute('class', 'policy-return-inf')
-                    policyreturnif.innerText ='CYTSHIRT accepts to exchange / return goods within 03 working days, apply unevenly to each item and to different products.'
-                    policyreturn.appendChild(policyreturnif)
+                    
 
                 }
             }
