@@ -485,7 +485,7 @@ footer {
         top: 38vh;
     }
     .dotbox {
-        bottom: 35vh;
+        display:none;
     }
     .slider .txt {
         top: 37vh;
@@ -514,7 +514,7 @@ footer {
         transition: all 0.5s ease;
     }
 
-    .dropdown-1 {
+    nav ul li:hover > ul {
         display: none;
     }
 
@@ -540,7 +540,7 @@ footer {
         top: 23vh;
     }
     .dotbox {
-        bottom: 63vh;
+        display:none;
     }
     .slider .txt {
         top: 21vh;
