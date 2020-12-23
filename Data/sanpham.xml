@@ -5,12 +5,7 @@
     <type>Sweater</type>
     <name>Saigonese - The City That Never Sleeps Sweater</name>
     <id>sw0001</id>
-    <color>pink</color>
-    <color1>denim</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>232.000 VND</disprice>
-    <discount>20%</discount>
+    <price>380000</price>
     <image>sw1_1.jpg</image>
     <image1>sw1_2.jpg</image1>
     <image2>sw1_3.jpg</image2>
@@ -22,12 +17,7 @@ The product has a unisex shape so both men and women can wear it well. You can s
     <type>Sweater</type>
     <name>Money Heist Series Logo Sweater</name>
     <id>sw0002</id>
-    <color>purple</color>
-    <color1>pink</color1>
-    <color2></color2>
-    <price>380.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw2_1.jpg</image>
     <image1>sw2_2.jpg</image1>
     <image2>sw2_3.jpg</image2>
@@ -41,12 +31,7 @@ Cotton 95% + 5% The rest is nylon, so the fabric is smooth - not ruffled - espec
     <type>Sweater</type>
     <name>La Casa De Papel - Money Heist Sweater</name>
     <id>sw0003</id>
-    <color>grey</color>
-    <color1>pink</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>232.000 VND</disprice>
-    <discount>20%</discount>
+    <price>380000</price>
     <image>sw3_1.jpg</image>
     <image1>sw3_2.jpg</image1>
     <image2>sw3_3.jpg</image2>
@@ -59,12 +44,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Money Heist Sweater</name>
     <id>sw0004</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>279.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw4_1.jpg</image>
     <image1>sw4_2.jpg</image1>
     <image2>sw4_3.jpg</image2>
@@ -76,12 +56,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Zoro x Teeworld Street Style Sweater</name>
     <id>sw0005</id>
-    <color>purple</color>
-    <color1>red</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw5_1.jpg</image>
     <image1>sw5_2.jpg</image1>
     <image2>sw5_3.jpg</image2>
@@ -96,12 +71,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Thanos Hand X The Banhmi Factory Sweater</name>
     <id>sw0006</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw6_1.jpg</image>
     <image1>sw6_2.jpg</image1>
     <image2></image2>
@@ -116,12 +86,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Balenxetayga Sweater</name>
     <id>sw0007</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw7_1.jpg</image>
     <image1>sw7_2.jpg</image1>
     <image2></image2>
@@ -134,12 +99,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Amazing Good jobs! Sweater</name>
     <id>sw0008</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw8_1.jpg</image>
     <image1>sw8_2.jpg</image1>
     <image2>sw8_3.jpg</image2>
@@ -153,12 +113,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Sweater</type>
     <name>Neighborhood Black &amp; White Sweater</name>
     <id>sw0009</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw9_1.jpg</image>
     <image1>sw9_2.jpg</image1>
     <image2></image2>
@@ -171,12 +126,7 @@ The delicate, meticulous and sure seam brings high durability to the product.</d
     <type>Sweater</type>
     <name>Teeworld Logo New Version Sweater</name>
     <id>sw0010</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>260.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw10_1.jpg</image>
     <image1>sw10_2.jpg</image1>
     <image2></image2>
@@ -191,12 +141,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>BigCtiboi Sweater</name>
     <id>sw0011</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw11_1.jpg</image>
     <image1>sw11_2.jpg</image1>
     <image2></image2>
@@ -212,12 +157,7 @@ Solid, delicate, quality seam</description>
     <type>Sweater</type>
     <name>One World One Purpose Sweater</name>
     <id>sw0012</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>245.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw12_1.jpg</image>
     <image1>sw12_2.jpg</image1>
     <image2></image2>
@@ -229,12 +169,7 @@ Products are cut and sewn on the line of professional modern technology equipmen
     <type>Sweater</type>
     <name>Lion Dance Sweater</name>
     <id>sw0013</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw13_1.jpg</image>
     <image1>sw13_2.jpg</image1>
     <image2></image2>
@@ -246,12 +181,7 @@ There are many sizes and colors to choose from. Suitable for both men and women,
     <type>Sweater</type>
     <name>Vietnamese Food Collection Sweater</name>
     <id>sw0014</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw14_1.jpg</image>
     <image1>sw14_2.jpg</image1>
     <image2>sw14_3.jpg</image2>
@@ -266,12 +196,7 @@ Fabrics made of high quality synthetic cotton, so they are very soft, elastic an
     <type>Sweater</type>
     <name>Saigonese New Design Black And White Sweater</name>
     <id>sw0015</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>310.000 VND</price>
-    <disprice></disprice>
-    <discount>30%</discount>
+    <price>380000</price>
     <image>sw15_1.jpg</image>
     <image1>sw15_2.jpg</image1>
     <image2>sw15_3.jpg</image2>
@@ -285,12 +210,7 @@ Can combine with long jeans, casual pants when going to work, going out, or comb
     <type>Sweater</type>
     <name>Saigonese New Design Sweater</name>
     <id>sw0016</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw16_1.jpg</image>
     <image1>sw16_2.jpg</image1>
     <image2></image2>
@@ -305,12 +225,7 @@ The product is suitable for young people who love to exercise, participate in sp
     <type>Sweater</type>
     <name>Saigonese - The City That Never Sleeps Sweater</name>
     <id>sw0017</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw17_1.jpg</image>
     <image1>sw17_2.jpg</image1>
     <image2></image2>
@@ -326,12 +241,7 @@ Easy to coordinate, can be worn in many different occasions.</description>
     <type>Sweater</type>
     <name>Money Heist Series Logo Sweater</name>
     <id>sw0018</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>349.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw18_1.jpg</image>
     <image1>sw18_2.jpg</image1>
     <image2></image2>
@@ -346,12 +256,7 @@ Can wear to work, go out, go to school, ... and many other events</description>
     <type>Sweater</type>
     <name>La Casa De Papel - Money Heist Sweater</name>
     <id>sw0019</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw19_1.jpg</image>
     <image1>sw19_2.jpg</image1>
     <image2></image2>
@@ -365,12 +270,7 @@ Available in stores.</description>
     <type>Sweater</type>
     <name>Money Heist Sweater</name>
     <id>sw0020</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>390.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw20_1.jpg</image>
     <image1>sw20_2.jpg</image1>
     <image2></image2>
@@ -383,12 +283,7 @@ The seam is definitely beautiful.</description>
     <type>Sweater</type>
     <name>Zoro x Teeworld Street Style Sweater</name>
     <id>sw0021</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw21_1.jpg</image>
     <image1>sw21_2.jpg</image1>
     <image2></image2>
@@ -403,12 +298,7 @@ Ingredients (80% Poly, 20% standex)</description>
     <type>Sweater</type>
     <name>Thanos Hand X The Banhmi Factory Sweater</name>
     <id>sw0022</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw22_1.jpg</image>
     <image1>sw22_2.jpg</image1>
     <image2></image2>
@@ -421,12 +311,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Sweater</type>
     <name>Saigon Panorama Sweater</name>
     <id>sw0023</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw23_1.jpg</image>
     <image1>sw23_2.jpg</image1>
     <image2></image2>
@@ -439,12 +324,7 @@ Freesize under 65kg</description>
     <type>Sweater</type>
     <name>Saigon Landscape Sweater</name>
     <id>sw0024</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>270.000 VND</price>
-    <disprice>229.500 VND</disprice>
-    <discount>15%</discount>
+    <price>380000</price>
     <image>sw24_1.jpg</image>
     <image1>sw24_2.jpg</image1>
     <image2></image2>
@@ -455,12 +335,7 @@ Freesize under 65kg</description>
     <type>Sweater</type>
     <name>Vege x Supreme Street Style Sweater</name>
     <id>sw0025</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>246.500 VND</disprice>
-    <discount>15%</discount>
+    <price>380000</price>
     <image>sw25_1.jpg</image>
     <image1>sw25_2.jpg</image1>
     <image2></image2>
@@ -472,12 +347,7 @@ Leading the teen trend for someone who wears a youthful, dynamic style and perso
     <type>Sweater</type>
     <name>Saigonese Basic Sweater</name>
     <id>sw0026</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw26_1.jpg</image>
     <image1>sw26_2.jpg</image1>
     <image2></image2>
@@ -492,12 +362,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort</description>
     <type>Sweater</type>
     <name>Saigon Art Sweater</name>
     <id>sw0027</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw27_1.jpg</image>
     <image1>sw27_2.jpg</image1>
     <image2>sw27_3.jpg</image2>
@@ -509,12 +374,7 @@ You can wear to travel, go out, go for a walk, etc., all look better than class<
     <type>Sweater</type>
     <name>NARUTO x BURBERRY x YEEZY x STREETSTYLE SWEATER</name>
     <id>sw0028</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw28_1.jpg</image>
     <image1>sw28_2.jpg</image1>
     <image2>sw28_3.jpg</image2>
@@ -529,12 +389,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort.</description>
     <type>Sweater</type>
     <name>0</name>
     <id>sw0029</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw29_1.jpg</image>
     <image1></image1>
     <image2></image2>
@@ -548,12 +403,7 @@ Fabric material is difficult to stick, not wrinkled, ruffled</description>
     <type>Sweater</type>
     <name>Luffy x Gucci x Lv x Streetstyle Sweater</name>
     <id>sw0030</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw30_1.jpg</image>
     <image1>sw30_2.jpg</image1>
     <image2></image2>
@@ -567,12 +417,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Sweater</type>
     <name>IT x BALENCIAGA SWEATER</name>
     <id>sw0031</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw31_1.jpg</image>
     <image1>sw31_2.jpg</image1>
     <image2></image2>
@@ -584,12 +429,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Sai Gon Skyscraper Sweater</name>
     <id>sw0032</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>270.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw32_1.jpg</image>
     <image1>sw32_2.jpg</image1>
     <image2></image2>
@@ -604,12 +444,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>DKMV Painting Sweater</name>
     <id>sw0033</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw33_1.jpg</image>
     <image1>sw33_2.jpg</image1>
     <image2></image2>
@@ -624,12 +459,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name></name>
     <id>sw0034</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw34_1.jpg</image>
     <image1>sw34_2.jpg</image1>
     <image2></image2>
@@ -642,12 +472,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>The City  Sweater</name>
     <id>sw0035</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw35_1.jpg</image>
     <image1>sw35_2.jpg</image1>
     <image2></image2>
@@ -660,12 +485,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Money Heist  Sweater</name>
     <id>sw0036</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw36_1.jpg</image>
     <image1>sw36_2.jpg</image1>
     <image2>sw36_3.jpg</image2>
@@ -677,14 +497,9 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
   </product>
   <product>
     <type>Sweater</type>
-    <name> Papel - Money Heist Sweater</name>
+    <name>Papel - Money Heist Sweater</name>
     <id>sw0037</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>340.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw37_1.jpg</image>
     <image1>sw37_2.jpg</image1>
     <image2>sw37_3.jpg</image2>
@@ -697,12 +512,7 @@ The delicate, meticulous and sure seam brings high durability to the product.</d
     <type>Sweater</type>
     <name>Money Heist Sweater</name>
     <id>sw0038</id>
-    <color>grey</color>
-    <color1>yellow</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>261.000 VND</disprice>
-    <discount>10%</discount>
+    <price>380000</price>
     <image>sw38_1.jpg</image>
     <image1>sw38_2.jpg</image1>
     <image2></image2>
@@ -717,12 +527,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Zoro x  Style Sweater</name>
     <id>sw0039</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw39_1.jpg</image>
     <image1>sw39_2.jpg</image1>
     <image2>sw39_3.jpg</image2>
@@ -736,14 +541,9 @@ Solid, delicate, quality seam</description>
   </product>
   <product>
     <type>Sweater</type>
-    <name> Banhmi Factory Sweater</name>
+    <name>Banhmi Factory Sweater</name>
     <id>sw0040</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw40_1.jpg</image>
     <image1>sw40_2.jpg</image1>
     <image2></image2>
@@ -755,12 +555,7 @@ Products are cut and sewn on the line of professional modern technology equipmen
     <type>Sweater</type>
     <name>Onena Sweater</name>
     <id>sw0041</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw41_1.jpg</image>
     <image1>sw41_2.jpg</image1>
     <image2></image2>
@@ -772,12 +567,7 @@ There are many sizes and colors to choose from. Suitable for both men and women,
     <type>Sweater</type>
     <name>Secelue manch Sweater</name>
     <id>sw0042</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw42_1.jpg</image>
     <image1>sw42_2.jpg</image1>
     <image2></image2>
@@ -790,12 +580,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Sweater</type>
     <name>Nekochan Sweater</name>
     <id>sw0043</id>
-    <color>purple</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw43_1.jpg</image>
     <image1>sw43_2.jpg</image1>
     <image2>sw43_3.jpg</image2>
@@ -810,12 +595,7 @@ The product is suitable for young people who love to exercise, participate in sp
     <type>Sweater</type>
     <name>Banquet Version Sweater</name>
     <id>sw0044</id>
-    <color>grey</color>
-    <color1>salmon</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>232.000 VND</disprice>
-    <discount>20%</discount>
+    <price>380000</price>
     <image>sw44_1.jpg</image>
     <image1>sw44_2.jpg</image1>
     <image2>sw44_3.jpg</image2>
@@ -831,12 +611,7 @@ Easy to coordinate, can be worn in many different occasions.</description>
     <type>Sweater</type>
     <name>Honchun Sand Sweater</name>
     <id>sw0045</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw45_1.jpg</image>
     <image1>sw45_2.jpg</image1>
     <image2></image2>
@@ -851,12 +626,7 @@ Can wear to work, go out, go to school, ... and many other events</description>
     <type>Sweater</type>
     <name>The Cube Sweater</name>
     <id>sw0046</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw46_1.jpg</image>
     <image1>sw46_2.jpg</image1>
     <image2>sw46_3.jpg</image2>
@@ -869,12 +639,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Sweater</type>
     <name>Dance Sweater</name>
     <id>sw0047</id>
-    <color>green</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw47_1.jpg</image>
     <image1>sw47_2.jpg</image1>
     <image2>sw47_3.jpg</image2>
@@ -887,12 +652,7 @@ Freesize under 65kg</description>
     <type>Sweater</type>
     <name>Loius Collection Sweater</name>
     <id>sw0048</id>
-    <color>nude</color>
-    <color1></color1>
-    <color2></color2>
-    <price>360.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw48_1.jpg</image>
     <image1>sw48_2.jpg</image1>
     <image2>sw48_3.jpg</image2>
@@ -901,14 +661,9 @@ Freesize under 65kg</description>
   </product>
   <product>
     <type>Sweater</type>
-    <name> Black And White Sweater</name>
+    <name>Black And White Sweater</name>
     <id>sw0049</id>
-    <color>nude</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw49_1.jpg</image>
     <image1>sw49_2.jpg</image1>
     <image2></image2>
@@ -921,12 +676,7 @@ The seam is definitely beautiful.</description>
     <type>Sweater</type>
     <name>Saigonese people Sweater</name>
     <id>sw0050</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2>blue</color2>
-    <price>370.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw50_1.jpg</image>
     <image1>sw50_2.jpg</image1>
     <image2>sw50_3.jpg</image2>
@@ -941,12 +691,7 @@ Ingredients (80% Poly, 20% standex)</description>
     <type>Sweater</type>
     <name>The Sleeps well Sweater</name>
     <id>sw0051</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw51_1.jpg</image>
     <image1>sw51_2.jpg</image1>
     <image2>sw51_3.jpg</image2>
@@ -959,12 +704,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Sweater</type>
     <name>Hanteo Sweater</name>
     <id>sw0052</id>
-    <color>grey</color>
-    <color1>nude</color1>
-    <color2>yellow</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw52_1.jpg</image>
     <image1>sw52_2.jpg</image1>
     <image2>sw52_3.jpg</image2>
@@ -976,12 +716,7 @@ The product has a unisex shape so both men and women can wear it well. You can s
     <type>Sweater</type>
     <name>Hastagies Heist Sweater</name>
     <id>sw0053</id>
-    <color>grey</color>
-    <color1>white</color1>
-    <color2>blue</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw53_1.jpg</image>
     <image1>sw53_2.jpg</image1>
     <image2>sw53_3.jpg</image2>
@@ -995,12 +730,7 @@ Cotton 95% + 5% The rest is nylon, so the fabric is smooth - not ruffled - espec
     <type>Sweater</type>
     <name>Policon Sweater</name>
     <id>sw0054</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw54_1.jpg</image>
     <image1>sw54_2.jpg</image1>
     <image2>sw54_3.jpg</image2>
@@ -1013,12 +743,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Hippo Style Sweater</name>
     <id>sw0055</id>
-    <color>white</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount>10%</discount>
+    <price>380000</price>
     <image>sw55_1.jpg</image>
     <image1>sw55_2.jpg</image1>
     <image2>sw55_3.jpg</image2>
@@ -1030,12 +755,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Banking soft Factory Sweater</name>
     <id>sw0056</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw56_1.jpg</image>
     <image1>sw56_2.jpg</image1>
     <image2></image2>
@@ -1050,12 +770,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Paris Panorama Sweater</name>
     <id>sw0057</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>335.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw57_1.jpg</image>
     <image1>sw57_2.jpg</image1>
     <image2>sw57_3.jpg</image2>
@@ -1070,12 +785,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Hover in micent Sweater</name>
     <id>sw0058</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>217.500 VND</disprice>
-    <discount>25%</discount>
+    <price>380000</price>
     <image>sw58_1.jpg</image>
     <image1>sw58_2.jpg</image1>
     <image2>sw58_3.jpg</image2>
@@ -1088,12 +798,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Someone by Style Sweater</name>
     <id>sw0059</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw59_1.jpg</image>
     <image1>sw59_2.jpg</image1>
     <image2></image2>
@@ -1107,12 +812,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Sweater</type>
     <name>Hotchange the pais Sweater</name>
     <id>sw0060</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw60_1.jpg</image>
     <image1>sw60_2.jpg</image1>
     <image2></image2>
@@ -1125,12 +825,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Chungha lead Sweater</name>
     <id>sw0061</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw61_1.jpg</image>
     <image1>sw61_2.jpg</image1>
     <image2>sw61_3.jpg</image2>
@@ -1142,12 +837,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Cackten blackhove Sweater</name>
     <id>sw0062</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>210.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw62_1.jpg</image>
     <image1>sw62_2.jpg</image1>
     <image2></image2>
@@ -1162,12 +852,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Kakachi botagon Sweater</name>
     <id>sw0063</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>350.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw63_1.jpg</image>
     <image1>sw63_2.jpg</image1>
     <image2>sw63_3.jpg</image2>
@@ -1182,12 +867,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Cencacun Henta Sweater</name>
     <id>sw0064</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw64_1.jpg</image>
     <image1>sw64_2.jpg</image1>
     <image2></image2>
@@ -1200,12 +880,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Bacelo nenta Sweater</name>
     <id>sw0065</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw65_1.jpg</image>
     <image1>sw65_2.jpg</image1>
     <image2>sw65_3.jpg</image2>
@@ -1219,12 +894,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Sweater</type>
     <name>Long Term inter Sweater</name>
     <id>sw0066</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw66_1.jpg</image>
     <image1>sw66_2.jpg</image1>
     <image2></image2>
@@ -1238,12 +908,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Sweater</type>
     <name>Wona hent Sweater</name>
     <id>sw0067</id>
-    <color>pink</color>
-    <color1>yellow</color1>
-    <color2>white</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount>15%</discount>
+    <price>380000</price>
     <image>sw67_1.jpg</image>
     <image1>sw67_2.jpg</image1>
     <image2>sw67_3.jpg</image2>
@@ -1255,12 +920,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Seceluebalu Sweater</name>
     <id>sw0068</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw68_1.jpg</image>
     <image1>sw68_2.jpg</image1>
     <image2>sw68_3.jpg</image2>
@@ -1275,12 +935,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Chapcenture Vocanis Sweater</name>
     <id>sw0069</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw69_1.jpg</image>
     <image1>sw69_2.jpg</image1>
     <image2></image2>
@@ -1295,12 +950,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Ponilan zinne Sweater</name>
     <id>sw0070</id>
-    <color>grey</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw70_1.jpg</image>
     <image1>sw70_2.jpg</image1>
     <image2>sw70_3.jpg</image2>
@@ -1313,12 +963,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>The Caption dentail Sweater</name>
     <id>sw0071</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw71_1.jpg</image>
     <image1>sw71_2.jpg</image1>
     <image2>sw71_3.jpg</image2>
@@ -1331,12 +976,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>The london in Sweater</name>
     <id>sw0072</id>
-    <color>purple</color>
-    <color1>red</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>261.000 VND</disprice>
-    <discount>10%</discount>
+    <price>380000</price>
     <image>sw72_1.jpg</image>
     <image1>sw72_2.jpg</image1>
     <image2>sw72_3.jpg</image2>
@@ -1348,12 +988,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Botiques outfit Sweater</name>
     <id>sw0073</id>
-    <color>beige</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw73_1.jpg</image>
     <image1>sw73_2.jpg</image1>
     <image2>sw73_3.jpg</image2>
@@ -1368,12 +1003,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Hency gonna vibe Sweater</name>
     <id>sw0074</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw74_1.jpg</image>
     <image1>sw74_2.jpg</image1>
     <image2>sw74_3.jpg</image2>
@@ -1388,12 +1018,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Communi Lunna Sweater</name>
     <id>sw0075</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2>red</color2>
-    <price>290.000 VND</price>
-    <disprice>220.000 VND</disprice>
-    <discount>24%</discount>
+    <price>380000</price>
     <image>sw75_1.jpg</image>
     <image1>sw75_2.jpg</image1>
     <image2>sw75_3.jpg</image2>
@@ -1406,12 +1031,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Fanc people Sweater</name>
     <id>sw0076</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw76_1.jpg</image>
     <image1>sw76_2.jpg</image1>
     <image2></image2>
@@ -1425,12 +1045,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Sweater</type>
     <name>Ploon hint gen Sweater</name>
     <id>sw0077</id>
-    <color>white</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>240.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw77_1.jpg</image>
     <image1>sw77_2.jpg</image1>
     <image2>sw77_3.jpg</image2>
@@ -1445,12 +1060,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Opps the hell Sweater</name>
     <id>sw0078</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>240.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw78_1.jpg</image>
     <image1>sw78_2.jpg</image1>
     <image2>sw78_3.jpg</image2>
@@ -1465,12 +1075,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Couple miss Sweater</name>
     <id>sw0079</id>
-    <color>pink</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw79_1.jpg</image>
     <image1>sw79_2.jpg</image1>
     <image2>sw79_3.jpg</image2>
@@ -1483,12 +1088,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Xanta Lucy Sweater</name>
     <id>sw0080</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw80_1.jpg</image>
     <image1>sw80_2.jpg</image1>
     <image2>sw80_3.jpg</image2>
@@ -1501,12 +1101,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Coupon Match Sweater</name>
     <id>sw0081</id>
-    <color>pink</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw81_1.jpg</image>
     <image1>sw81_2.jpg</image1>
     <image2>sw81_3.jpg</image2>
@@ -1518,12 +1113,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Kenji Can Do Sweater</name>
     <id>sw0082</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw82_1.jpg</image>
     <image1>sw82_2.jpg</image1>
     <image2>sw82_3.jpg</image2>
@@ -1538,12 +1128,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>MamomooLand Sweater</name>
     <id>sw0083</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw83_1.jpg</image>
     <image1>sw83_2.jpg</image1>
     <image2>sw83_3.jpg</image2>
@@ -1558,12 +1143,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Backin link Sweater</name>
     <id>sw0084</id>
-    <color>beige</color>
-    <color1>pink</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw84_1.jpg</image>
     <image1>sw84_2.jpg</image1>
     <image2>sw84_3.jpg</image2>
@@ -1576,12 +1156,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Four season  Sweater</name>
     <id>sw0085</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2>blue</color2>
-    <price>290.000 VND</price>
-    <disprice>203.000 VND</disprice>
-    <discount>30%</discount>
+    <price>380000</price>
     <image>sw85_1.jpg</image>
     <image1>sw85_2.jpg</image1>
     <image2>sw85_3.jpg</image2>
@@ -1595,12 +1170,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Sweater</type>
     <name>KoKopop korea Sweater</name>
     <id>sw0086</id>
-    <color>blue</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw86_1.jpg</image>
     <image1>sw86_2.jpg</image1>
     <image2>sw86_3.jpg</image2>
@@ -1615,12 +1185,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort.</description>
     <type>Sweater</type>
     <name>Supper changre Sweater</name>
     <id>sw0087</id>
-    <color>black</color>
-    <color1>gray</color1>
-    <color2>white</color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw87_1.jpg</image>
     <image1>sw87_2.jpg</image1>
     <image2>sw87_3.jpg</image2>
@@ -1634,12 +1199,7 @@ Fabric material is difficult to stick, not wrinkled, ruffled</description>
     <type>Sweater</type>
     <name>Shinnee Lang Sweater</name>
     <id>sw0088</id>
-    <color>yellow</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw88_1.jpg</image>
     <image1>sw88_2.jpg</image1>
     <image2>sw88_3.jpg</image2>
@@ -1653,12 +1213,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Sweater</type>
     <name>Kipple Land miss Sweater</name>
     <id>sw0089</id>
-    <color>yellow</color>
-    <color1>black</color1>
-    <color2>white</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw89_1.jpg</image>
     <image1>sw89_2.jpg</image1>
     <image2>sw89_3.jpg</image2>
@@ -1672,12 +1227,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Sweater</type>
     <name>Loneliff acenn Sweater</name>
     <id>sw0090</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw90_1.jpg</image>
     <image1>sw90_2.jpg</image1>
     <image2>sw90_3.jpg</image2>
@@ -1689,12 +1239,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Sweater</type>
     <name>Loopp centimess Sweater</name>
     <id>sw0091</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw91_1.jpg</image>
     <image1>sw91_2.jpg</image1>
     <image2>sw91_3.jpg</image2>
@@ -1709,12 +1254,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Camchangre Long to Sweater</name>
     <id>sw0092</id>
-    <color>blue</color>
-    <color1>purple</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw92_1.jpg</image>
     <image1>sw92_2.jpg</image1>
     <image2>sw92_3.jpg</image2>
@@ -1729,12 +1269,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>Monk Blanch Non Sweater</name>
     <id>sw0093</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw93_1.jpg</image>
     <image1>sw93_2.jpg</image1>
     <image2>sw93_3.jpg</image2>
@@ -1747,12 +1282,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Momo Miaa Cop Sweater</name>
     <id>sw0094</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw94_1.jpg</image>
     <image1>sw94_2.jpg</image1>
     <image2>sw94_3.jpg</image2>
@@ -1765,12 +1295,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Joke Same Sweater</name>
     <id>sw0095</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw95_1.jpg</image>
     <image1>sw95_2.jpg</image1>
     <image2>sw95_3.jpg</image2>
@@ -1785,12 +1310,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Funny help Sweater</name>
     <id>sw0096</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw96_1.jpg</image>
     <image1>sw96_2.jpg</image1>
     <image2>sw96_3.jpg</image2>
@@ -1805,12 +1325,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Sweater</type>
     <name>MakeaLovesen Sweater</name>
     <id>sw0097</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw97_1.jpg</image>
     <image1>sw97_2.jpg</image1>
     <image2>sw97_3.jpg</image2>
@@ -1823,12 +1338,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Sweater</type>
     <name>Meen in Sweater</name>
     <id>sw0098</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>260.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw98_1.jpg</image>
     <image1>sw98_2.jpg</image1>
     <image2>sw98_3.jpg</image2>
@@ -1843,12 +1353,7 @@ HEALTHY and SAFE for health</description>
     <type>Sweater</type>
     <name>Howbe Skip Sweater</name>
     <id>sw0099</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>380000</price>
     <image>sw99_1.jpg</image>
     <image1>sw99_2.jpg</image1>
     <image2>sw99_3.jpg</image2>
@@ -1865,12 +1370,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Mysen Pussies Unite</name>
     <id>ts0001</id>
-    <color>pink</color>
-    <color1>denim</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>232.000 VND</disprice>
-    <discount>20%</discount>
+    <price>290000</price>
     <image>ts1_1.jpg</image>
     <image1>ts1_2.jpg</image1>
     <image2></image2>
@@ -1882,12 +1382,7 @@ The product has a unisex shape so both men and women can wear it well.</descript
     <type>Tshirt</type>
     <name>T-shirt Mysen Feminist Lips</name>
     <id>ts0002</id>
-    <color>purple</color>
-    <color1>pink</color1>
-    <color2></color2>
-    <price>380.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts2_1.jpg</image>
     <image1>ts2_2.jpg</image1>
     <image2></image2>
@@ -1901,12 +1396,7 @@ Cotton 95% + 5% The rest is nylon, so the fabric is smooth - not ruffled - espec
     <type>Tshirt</type>
     <name>T-shirt Mysen Revolution</name>
     <id>ts0003</id>
-    <color>grey</color>
-    <color1>pink</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>232.000 VND</disprice>
-    <discount>20%</discount>
+    <price>290000</price>
     <image>ts3_1.jpg</image>
     <image1>ts3_2.jpg</image1>
     <image2></image2>
@@ -1917,14 +1407,9 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
   </product>
   <product>
     <type>Tshirt</type>
-    <name>T-shirt Mysen God</name>
+    <name>T-shirt Mysen God�</name>
     <id>ts0004</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>279.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts4_1.jpg</image>
     <image1>ts4_2.jpg</image1>
     <image2></image2>
@@ -1936,12 +1421,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Visby Fight</name>
     <id>ts0005</id>
-    <color>purple</color>
-    <color1>red</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts5_1.jpg</image>
     <image1>ts5_2.jpg</image1>
     <image2></image2>
@@ -1956,12 +1436,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Visby Fuck Racism</name>
     <id>ts0006</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts6_1.jpg</image>
     <image1>ts6_2.jpg</image1>
     <image2>ts6_3.jpg</image2>
@@ -1976,12 +1451,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Mysen Feminista</name>
     <id>ts0007</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts7_1.jpg</image>
     <image1>ts7_2.jpg</image1>
     <image2>ts7_3.jpg</image2>
@@ -1992,14 +1462,9 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0008</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts8_1.jpg</image>
     <image1>ts8_2.jpg</image1>
     <image2>ts8_3.jpg</image2>
@@ -2013,12 +1478,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Tshirt</type>
     <name>T-shirt Mysen Girl Power</name>
     <id>ts0009</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts9_1.jpg</image>
     <image1>ts9_2.jpg</image1>
     <image2>ts9_3.jpg</image2>
@@ -2031,12 +1491,7 @@ The delicate, meticulous and sure seam brings high durability to the product.</d
     <type>Tshirt</type>
     <name>T-shirt Visby Equality</name>
     <id>ts0010</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>260.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts10_1.jpg</image>
     <image1>ts10_2.jpg</image1>
     <image2>ts10_3.jpg</image2>
@@ -2051,12 +1506,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Pussies Unite</name>
     <id>ts0011</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts11_1.jpg</image>
     <image1>ts11_2.jpg</image1>
     <image2>ts11_3.jpg</image2>
@@ -2072,12 +1522,7 @@ Solid, delicate, quality seam</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Feminist</name>
     <id>ts0012</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>245.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts12_1.jpg</image>
     <image1>ts12_2.jpg</image1>
     <image2></image2>
@@ -2089,12 +1534,7 @@ Products are cut and sewn on the line of professional modern technology equipmen
     <type>Tshirt</type>
     <name>T-shirt Visby Love Circle</name>
     <id>ts0013</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts13_1.jpg</image>
     <image1>ts13_2.jpg</image1>
     <image2></image2>
@@ -2106,12 +1546,7 @@ There are many sizes and colors to choose from. Suitable for both men and women,
     <type>Tshirt</type>
     <name>T-shirt Visby Fight</name>
     <id>ts0014</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts14_1.jpg</image>
     <image1>ts14_2.jpg</image1>
     <image2>ts14_3.jpg</image2>
@@ -2126,12 +1561,7 @@ Fabrics made of high quality synthetic cotton, so they are very soft, elastic an
     <type>Tshirt</type>
     <name>T-shirt Visby Lovers Unite</name>
     <id>ts0015</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>310.000 VND</price>
-    <disprice></disprice>
-    <discount>30%</discount>
+    <price>290000</price>
     <image>ts15_1.jpg</image>
     <image1>ts15_2.jpg</image1>
     <image2></image2>
@@ -2145,12 +1575,7 @@ Can combine with long jeans, casual pants when going to work, going out, or comb
     <type>Tshirt</type>
     <name>T-shirt Visby Lovers Unite</name>
     <id>ts0016</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts16_1.jpg</image>
     <image1>ts16_2.jpg</image1>
     <image2></image2>
@@ -2165,12 +1590,7 @@ The product is suitable for young people who love to exercise, participate in sp
     <type>Tshirt</type>
     <name>T-shirt Visby Human Rights�</name>
     <id>ts0017</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts17_1.jpg</image>
     <image1>ts17_2.jpg</image1>
     <image2>ts17_3.jpg</image2>
@@ -2186,12 +1606,7 @@ Easy to coordinate, can be worn in many different occasions.</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Revolution</name>
     <id>ts0018</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>349.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts18_1.jpg</image>
     <image1>ts18_2.jpg</image1>
     <image2>ts18_3.jpg</image2>
@@ -2206,12 +1621,7 @@ Can wear to work, go out, go to school, ... and many other events</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Venus Power</name>
     <id>ts0019</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts19_1.jpg</image>
     <image1>ts19_2.jpg</image1>
     <image2></image2>
@@ -2225,12 +1635,7 @@ Available in stores.</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Rainbow Cloud</name>
     <id>ts0020</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>390.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts20_1.jpg</image>
     <image1>ts20_2.jpg</image1>
     <image2>ts20_3.jpg</image2>
@@ -2243,12 +1648,7 @@ The seam is definitely beautiful.</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Feminist</name>
     <id>ts0021</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts21_1.jpg</image>
     <image1>ts21_2.jpg</image1>
     <image2>ts21_3.jpg</image2>
@@ -2263,12 +1663,7 @@ Ingredients (80% Poly, 20% standex)</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Future Is Female Rose</name>
     <id>ts0022</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts22_1.jpg</image>
     <image1>ts22_2.jpg</image1>
     <image2>ts22_3.jpg</image2>
@@ -2281,12 +1676,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Tshirt</type>
     <name>T-shirt Mysen Venus Sweet Lilac</name>
     <id>ts0023</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts23_1.jpg</image>
     <image1>ts23_2.jpg</image1>
     <image2>ts23_3.jpg</image2>
@@ -2297,14 +1687,9 @@ Freesize under 65kg</description>
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Knitted Husum</name>
     <id>ts0024</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>270.000 VND</price>
-    <disprice>229.500 VND</disprice>
-    <discount>15%</discount>
+    <price>290000</price>
     <image>ts24_1.jpg</image>
     <image1>ts24_2.jpg</image1>
     <image2>ts24_3.jpg</image2>
@@ -2315,12 +1700,7 @@ Freesize under 65kg</description>
     <type>Tshirt</type>
     <name>T-shirt Knitted Husum Black</name>
     <id>ts0025</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>246.500 VND</disprice>
-    <discount>15%</discount>
+    <price>290000</price>
     <image>ts25_1.jpg</image>
     <image1>ts25_2.jpg</image1>
     <image2>ts25_3.jpg</image2>
@@ -2332,12 +1712,7 @@ Leading the teen trend for someone who wears a youthful, dynamic style and perso
     <type>Tshirt</type>
     <name>T-shirt Stockholm Rocky Run</name>
     <id>ts0026</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts26_1.jpg</image>
     <image1>ts26_2.jpg</image1>
     <image2></image2>
@@ -2352,12 +1727,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Fuck Racism Stripes</name>
     <id>ts0027</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts27_1.jpg</image>
     <image1>ts27_2.jpg</image1>
     <image2></image2>
@@ -2367,14 +1737,9 @@ You can wear to travel, go out, go for a walk, etc., all look better than class<
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0028</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts28_1.jpg</image>
     <image1>ts28_2.jpg</image1>
     <image2>ts28_3.jpg</image2>
@@ -2389,12 +1754,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort.</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Base</name>
     <id>ts0029</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts29_1.jpg</image>
     <image1>ts29_2.jpg</image1>
     <image2></image2>
@@ -2408,12 +1768,7 @@ Fabric material is difficult to stick, not wrinkled, ruffled</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Pool</name>
     <id>ts0030</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts30_1.jpg</image>
     <image1>ts30_2.jpg</image1>
     <image2></image2>
@@ -2427,12 +1782,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Tshirt</type>
     <name>T-shirt Stockholm Rocky Balboa</name>
     <id>ts0031</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts31_1.jpg</image>
     <image1>ts31_2.jpg</image1>
     <image2></image2>
@@ -2444,12 +1794,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Stockholm Wu-Tang Crew</name>
     <id>ts0032</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>270.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts32_1.jpg</image>
     <image1>ts32_2.jpg</image1>
     <image2></image2>
@@ -2464,12 +1809,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Base</name>
     <id>ts0033</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts33_1.jpg</image>
     <image1>ts33_2.jpg</image1>
     <image2></image2>
@@ -2484,12 +1824,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm Lopez</name>
     <id>ts0034</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts34_1.jpg</image>
     <image1>ts34_2.jpg</image1>
     <image2></image2>
@@ -2502,12 +1837,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Bikeoholic</name>
     <id>ts0035</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts35_1.jpg</image>
     <image1>ts35_2.jpg</image1>
     <image2></image2>
@@ -2520,12 +1850,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Record Meal</name>
     <id>ts0036</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts36_1.jpg</image>
     <image1>ts36_2.jpg</image1>
     <image2>ts36_3.jpg</image2>
@@ -2539,12 +1864,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Tshirt</type>
     <name>T-shirt Stockholm Life Is Fantastic Off</name>
     <id>ts0037</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>340.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts37_1.jpg</image>
     <image1>ts37_2.jpg</image1>
     <image2></image2>
@@ -2557,12 +1877,7 @@ The delicate, meticulous and sure seam brings high durability to the product.</d
     <type>Tshirt</type>
     <name>T-shirt Stockholm Play To Win Grey Melange</name>
     <id>ts0038</id>
-    <color>grey</color>
-    <color1>yellow</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>261.000 VND</disprice>
-    <discount>10%</discount>
+    <price>290000</price>
     <image>ts38_1.jpg</image>
     <image1>ts38_2.jpg</image1>
     <image2></image2>
@@ -2577,12 +1892,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Bicycle</name>
     <id>ts0039</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts39_1.jpg</image>
     <image1>ts39_2.jpg</image1>
     <image2></image2>
@@ -2598,12 +1908,7 @@ Solid, delicate, quality seam</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Color Wave</name>
     <id>ts0040</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts40_1.jpg</image>
     <image1>ts40_2.jpg</image1>
     <image2></image2>
@@ -2615,12 +1920,7 @@ Products are cut and sewn on the line of professional modern technology equipmen
     <type>Tshirt</type>
     <name>T-shirt Stockholm I Want�</name>
     <id>ts0041</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts41_1.jpg</image>
     <image1>ts41_2.jpg</image1>
     <image2></image2>
@@ -2632,12 +1932,7 @@ There are many sizes and colors to choose from. Suitable for both men and women,
     <type>Tshirt</type>
     <name>T-shirt Stockholm You</name>
     <id>ts0042</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts42_1.jpg</image>
     <image1>ts42_2.jpg</image1>
     <image2></image2>
@@ -2650,12 +1945,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Tshirt</type>
     <name>T-shirt Stockholm Going Gone�</name>
     <id>ts0043</id>
-    <color>purple</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts43_1.jpg</image>
     <image1>ts43_2.jpg</image1>
     <image2></image2>
@@ -2668,14 +1958,9 @@ The product is suitable for young people who love to exercise, participate in sp
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0044</id>
-    <color>grey</color>
-    <color1>salmon</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>232.000 VND</disprice>
-    <discount>20%</discount>
+    <price>290000</price>
     <image>ts44_1.jpg</image>
     <image1>ts44_2.jpg</image1>
     <image2></image2>
@@ -2691,12 +1976,7 @@ Easy to coordinate, can be worn in many different occasions.</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Feminista</name>
     <id>ts0045</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts45_1.jpg</image>
     <image1>ts45_2.jpg</image1>
     <image2></image2>
@@ -2711,12 +1991,7 @@ Can wear to work, go out, go to school, ... and many other events</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm One Line Bike</name>
     <id>ts0046</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts46_1.jpg</image>
     <image1>ts46_2.jpg</image1>
     <image2></image2>
@@ -2727,14 +2002,9 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0047</id>
-    <color>green</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts47_1.jpg</image>
     <image1>ts47_2.jpg</image1>
     <image2></image2>
@@ -2747,12 +2017,7 @@ Freesize under 65kg</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Summer Must Go On</name>
     <id>ts0048</id>
-    <color>nude</color>
-    <color1></color1>
-    <color2></color2>
-    <price>360.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts48_1.jpg</image>
     <image1>ts48_2.jpg</image1>
     <image2></image2>
@@ -2763,12 +2028,7 @@ Freesize under 65kg</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Dedicated Logo Golden</name>
     <id>ts0049</id>
-    <color>nude</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts49_1.jpg</image>
     <image1>ts49_2.jpg</image1>
     <image2></image2>
@@ -2779,14 +2039,9 @@ The seam is definitely beautiful.</description>
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0050</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2>blue</color2>
-    <price>370.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts50_1.jpg</image>
     <image1>ts50_2.jpg</image1>
     <image2>ts50_3.jpg</image2>
@@ -2801,12 +2056,7 @@ Ingredients (80% Poly, 20% standex)</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Base</name>
     <id>ts0051</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts51_1.jpg</image>
     <image1>ts51_2.jpg</image1>
     <image2>ts51_3.jpg</image2>
@@ -2817,14 +2067,9 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
   </product>
   <product>
     <type>Tshirt</type>
-    <name>T-shirt Hamra Super Mario</name>
+    <name>T-shirt Hamra Super Mario�</name>
     <id>ts0052</id>
-    <color>grey</color>
-    <color1>nude</color1>
-    <color2>yellow</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts52_1.jpg</image>
     <image1>ts52_2.jpg</image1>
     <image2>ts52_3.jpg</image2>
@@ -2834,14 +2079,9 @@ The product has a unisex shape so both men and women can wear it well. You can s
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0053</id>
-    <color>grey</color>
-    <color1>white</color1>
-    <color2>blue</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts53_1.jpg</image>
     <image1>ts53_2.jpg</image1>
     <image2>ts53_3.jpg</image2>
@@ -2855,12 +2095,7 @@ Cotton 95% + 5% The rest is nylon, so the fabric is smooth - not ruffled - espec
     <type>Tshirt</type>
     <name>T-shirt Hamra Clouds</name>
     <id>ts0054</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts54_1.jpg</image>
     <image1>ts54_2.jpg</image1>
     <image2></image2>
@@ -2873,12 +2108,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Lillehammer</name>
     <id>ts0055</id>
-    <color>white</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount>10%</discount>
+    <price>290000</price>
     <image>ts55_1.jpg</image>
     <image1>ts55_2.jpg</image1>
     <image2>ts55_3.jpg</image2>
@@ -2890,12 +2120,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Lillehammer Ice Creams</name>
     <id>ts0056</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts56_1.jpg</image>
     <image1>ts56_2.jpg</image1>
     <image2>ts56_3.jpg</image2>
@@ -2910,12 +2135,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Lillehammer</name>
     <id>ts0057</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>335.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts57_1.jpg</image>
     <image1>ts57_2.jpg</image1>
     <image2></image2>
@@ -2930,12 +2150,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Lillehammer Baby Beast</name>
     <id>ts0058</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>217.500 VND</disprice>
-    <discount>25%</discount>
+    <price>290000</price>
     <image>ts58_1.jpg</image>
     <image1>ts58_2.jpg</image1>
     <image2></image2>
@@ -2946,14 +2161,9 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Lillehammer Baby Beast</name>
     <id>ts0059</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts59_1.jpg</image>
     <image1>ts59_2.jpg</image1>
     <image2>ts59_3.jpg</image2>
@@ -2967,12 +2177,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Tshirt</type>
     <name>T-shirt Visby Catastrophe</name>
     <id>ts0060</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts60_1.jpg</image>
     <image1>ts60_2.jpg</image1>
     <image2>ts60_3.jpg</image2>
@@ -2985,12 +2190,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Visby Autumn Birds</name>
     <id>ts0061</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts61_1.jpg</image>
     <image1>ts61_2.jpg</image1>
     <image2>ts61_3.jpg</image2>
@@ -3002,12 +2202,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Visby</name>
     <id>ts0062</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>210.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts62_1.jpg</image>
     <image1>ts62_2.jpg</image1>
     <image2>ts62_3.jpg</image2>
@@ -3022,12 +2217,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Mysen Base</name>
     <id>ts0063</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>350.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts63_1.jpg</image>
     <image1>ts63_2.jpg</image1>
     <image2>ts63_3.jpg</image2>
@@ -3042,12 +2232,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm Wood</name>
     <id>ts0064</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts64_1.jpg</image>
     <image1>ts64_2.jpg</image1>
     <image2>ts64_3.jpg</image2>
@@ -3060,12 +2245,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm The Ride</name>
     <id>ts0065</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts65_1.jpg</image>
     <image1>ts65_2.jpg</image1>
     <image2>ts65_3.jpg</image2>
@@ -3079,12 +2259,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Tshirt</type>
     <name>T-shirt Stockholm Wave�</name>
     <id>ts0066</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts66_1.jpg</image>
     <image1>ts66_2.jpg</image1>
     <image2>ts66_3.jpg</image2>
@@ -3098,12 +2273,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Tshirt</type>
     <name>T-shirt  Mobb Deep</name>
     <id>ts0067</id>
-    <color>pink</color>
-    <color1>yellow</color1>
-    <color2>white</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount>15%</discount>
+    <price>290000</price>
     <image>ts67_1.jpg</image>
     <image1>ts67_2.jpg</image1>
     <image2>ts67_3.jpg</image2>
@@ -3115,12 +2285,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Stockholm Rocky Red Gloves</name>
     <id>ts0068</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts68_1.jpg</image>
     <image1>ts68_2.jpg</image1>
     <image2></image2>
@@ -3135,12 +2300,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Hands In The Air</name>
     <id>ts0069</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts69_1.jpg</image>
     <image1>ts69_2.jpg</image1>
     <image2>ts69_3.jpg</image2>
@@ -3155,12 +2315,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm Bike Fight</name>
     <id>ts0070</id>
-    <color>grey</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts70_1.jpg</image>
     <image1>ts70_2.jpg</image1>
     <image2>ts70_3.jpg</image2>
@@ -3173,12 +2328,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Pulp Fiction</name>
     <id>ts0071</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts71_1.jpg</image>
     <image1>ts71_2.jpg</image1>
     <image2>ts71_3.jpg</image2>
@@ -3191,12 +2341,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Lemon</name>
     <id>ts0072</id>
-    <color>purple</color>
-    <color1>red</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice>261.000 VND</disprice>
-    <discount>10%</discount>
+    <price>290000</price>
     <image>ts72_1.jpg</image>
     <image1>ts72_2.jpg</image1>
     <image2>ts72_3.jpg</image2>
@@ -3206,14 +2351,9 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0073</id>
-    <color>beige</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts73_1.jpg</image>
     <image1>ts73_2.jpg</image1>
     <image2>ts73_3.jpg</image2>
@@ -3228,12 +2368,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Everything Is Good</name>
     <id>ts0074</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts74_1.jpg</image>
     <image1>ts74_2.jpg</image1>
     <image2>ts74_3.jpg</image2>
@@ -3246,14 +2381,9 @@ Suitable to wear in many different environments such as office, party, event, tr
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0075</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2>red</color2>
-    <price>290.000 VND</price>
-    <disprice>220.000 VND</disprice>
-    <discount>24%</discount>
+    <price>290000</price>
     <image>ts75_1.jpg</image>
     <image1>ts75_2.jpg</image1>
     <image2>ts75_3.jpg</image2>
@@ -3266,12 +2396,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Pulp Fiction</name>
     <id>ts0076</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts76_1.jpg</image>
     <image1>ts76_2.jpg</image1>
     <image2>ts76_3.jpg</image2>
@@ -3285,12 +2410,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Tshirt</type>
     <name>T-shirt Stockholm Lemon</name>
     <id>ts0077</id>
-    <color>white</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>240.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts77_1.jpg</image>
     <image1>ts77_2.jpg</image1>
     <image2>ts77_3.jpg</image2>
@@ -3303,14 +2423,9 @@ HEALTHY and SAFE for health</description>
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0078</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>240.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts78_1.jpg</image>
     <image1>ts78_2.jpg</image1>
     <image2>ts78_3.jpg</image2>
@@ -3325,12 +2440,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm Everything Is Good</name>
     <id>ts0079</id>
-    <color>pink</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts79_1.jpg</image>
     <image1>ts79_2.jpg</image1>
     <image2>ts79_3.jpg</image2>
@@ -3343,12 +2453,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm One Line</name>
     <id>ts0080</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts80_1.jpg</image>
     <image1>ts80_2.jpg</image1>
     <image2>ts80_3.jpg</image2>
@@ -3361,12 +2466,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Everything Is Good</name>
     <id>ts0081</id>
-    <color>pink</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts81_1.jpg</image>
     <image1>ts81_2.jpg</image1>
     <image2></image2>
@@ -3378,12 +2478,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Stockholm Mmmm Yummy</name>
     <id>ts0082</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts82_1.jpg</image>
     <image1>ts82_2.jpg</image1>
     <image2></image2>
@@ -3398,12 +2493,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Going Gone</name>
     <id>ts0083</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts83_1.jpg</image>
     <image1>ts83_2.jpg</image1>
     <image2>ts83_3.jpg</image2>
@@ -3418,12 +2508,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm One Line</name>
     <id>ts0084</id>
-    <color>beige</color>
-    <color1>pink</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts84_1.jpg</image>
     <image1>ts84_2.jpg</image1>
     <image2></image2>
@@ -3436,12 +2521,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Summer</name>
     <id>ts0085</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2>blue</color2>
-    <price>290.000 VND</price>
-    <disprice>203.000 VND</disprice>
-    <discount>30%</discount>
+    <price>290000</price>
     <image>ts85_1.jpg</image>
     <image1>ts85_2.jpg</image1>
     <image2>ts85_3.jpg</image2>
@@ -3455,12 +2535,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Tshirt</type>
     <name>T-shirt Stockholm The Beast Charcoal</name>
     <id>ts0086</id>
-    <color>blue</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts86_1.jpg</image>
     <image1>ts86_2.jpg</image1>
     <image2></image2>
@@ -3475,12 +2550,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort.</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Support script</name>
     <id>ts0087</id>
-    <color>black</color>
-    <color1>gray</color1>
-    <color2>white</color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts87_1.jpg</image>
     <image1>ts87_2.jpg</image1>
     <image2>ts87_3.jpg</image2>
@@ -3492,14 +2562,9 @@ Fabric material is difficult to stick, not wrinkled, ruffled</description>
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0088</id>
-    <color>yellow</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts88_1.jpg</image>
     <image1>ts88_2.jpg</image1>
     <image2>ts88_3.jpg</image2>
@@ -3513,12 +2578,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Tshirt</type>
     <name>T-shirt Stockholm Paisley Burgundy</name>
     <id>ts0089</id>
-    <color>yellow</color>
-    <color1>black</color1>
-    <color2>white</color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts89_1.jpg</image>
     <image1>ts89_2.jpg</image1>
     <image2>ts89_3.jpg</image2>
@@ -3532,12 +2592,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Tshirt</type>
     <name>T-shirt Stockholm Sounds of Time</name>
     <id>ts0090</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts90_1.jpg</image>
     <image1>ts90_2.jpg</image1>
     <image2>ts90_3.jpg</image2>
@@ -3549,12 +2604,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Tshirt</type>
     <name>T-shirt Stockholm Eternal Fight</name>
     <id>ts0091</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts91_1.jpg</image>
     <image1>ts91_2.jpg</image1>
     <image2>ts91_3.jpg</image2>
@@ -3569,12 +2619,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm Forest Green</name>
     <id>ts0092</id>
-    <color>blue</color>
-    <color1>purple</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts92_1.jpg</image>
     <image1>ts92_2.jpg</image1>
     <image2>ts92_3.jpg</image2>
@@ -3587,14 +2632,9 @@ Suitable to wear in many different environments such as office, party, event, tr
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0093</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts93_1.jpg</image>
     <image1>ts93_2.jpg</image1>
     <image2>ts93_3.jpg</image2>
@@ -3607,12 +2647,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Ski Area</name>
     <id>ts0094</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts94_1.jpg</image>
     <image1>ts94_2.jpg</image1>
     <image2>ts94_3.jpg</image2>
@@ -3625,12 +2660,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Stripes</name>
     <id>ts0095</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts95_1.jpg</image>
     <image1>ts95_2.jpg</image1>
     <image2>ts95_3.jpg</image2>
@@ -3645,12 +2675,7 @@ HEALTHY and SAFE for health</description>
     <type>Tshirt</type>
     <name>T-shirt Stockholm�</name>
     <id>ts0096</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts96_1.jpg</image>
     <image1>ts96_2.jpg</image1>
     <image2></image2>
@@ -3665,12 +2690,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm Amazoff</name>
     <id>ts0097</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts97_1.jpg</image>
     <image1>ts97_2.jpg</image1>
     <image2>ts97_3.jpg</image2>
@@ -3683,12 +2703,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Tshirt</type>
     <name>T-shirt Stockholm Dedicated Logo</name>
     <id>ts0098</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>260.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts98_1.jpg</image>
     <image1>ts98_2.jpg</image1>
     <image2>ts98_3.jpg</image2>
@@ -3701,14 +2716,9 @@ HEALTHY and SAFE for health</description>
   </product>
   <product>
     <type>Tshirt</type>
-    <name></name>
+    <name>T-shirt Stockholm You</name>
     <id>ts0099</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>290.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts99_1.jpg</image>
     <image1>ts99_2.jpg</image1>
     <image2>ts99_3.jpg</image2>
@@ -3723,12 +2733,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Tshirt</type>
     <name>T-shirt Stockholm Tie Dye</name>
     <id>ts0100</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>290000</price>
     <image>ts100_1.jpg</image>
     <image1>ts100_2.jpg</image1>
     <image2>ts100_3.jpg</image2>
@@ -3745,12 +2750,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Pique Short Sleeve Slim Polo Shirt</name>
     <id>pl0001</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>270.000 VND</disprice>
-    <discount>10%</discount>
+    <price>250000</price>
     <image>pl1_1.jpg</image>
     <image1>pl1_2.jpg</image1>
     <image2>pl1_3.jpg</image2>
@@ -3761,12 +2761,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery short-sleeve polo shirt</name>
     <id>pl0002</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>270.000 VND</disprice>
-    <discount>10%</discount>
+    <price>250000</price>
     <image>pl1_2.jpg</image>
     <image1>pl2_2.jpg</image1>
     <image2>pl2_3.jpg</image2>
@@ -3777,12 +2772,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Thick solid design cotton long-sleeve polo shirt</name>
     <id>pl0003</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>240.000 VND</disprice>
-    <discount>20%</discount>
+    <price>250000</price>
     <image>pl3_1.jpg</image>
     <image1>pl3_2.jpg</image1>
     <image2>pl3_3.jpg</image2>
@@ -3793,12 +2783,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Men&apos;s 3D Lion Multi-color Embroidery Polo Shirt</name>
     <id>pl0004</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl4_1.jpg</image>
     <image1>pl4_2.jpg</image1>
     <image2>pl4_3.jpg</image2>
@@ -3809,12 +2794,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery pique short-sleeve polo shirt</name>
     <id>pl0005</id>
-    <color>black</color>
-    <color1>red</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl5_1.jpg</image>
     <image1>pl5_2.jpg</image1>
     <image2>pl5_3.jpg</image2>
@@ -3825,12 +2805,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast lycra pique short-sleeve polo shirt</name>
     <id>pl0006</id>
-    <color>white</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl6_1.jpg</image>
     <image1>pl6_2.jpg</image1>
     <image2>pl6_3.jpg</image2>
@@ -3841,12 +2816,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Thick waffle plain polo shirt</name>
     <id>pl0007</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl7_1.jpg</image>
     <image1>pl7_2.jpg</image1>
     <image2>pl7_3.jpg</image2>
@@ -3857,12 +2827,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery short-sleeve pique polo shirt</name>
     <id>pl0008</id>
-    <color>black</color>
-    <color1>yellow</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl8_1.jpg</image>
     <image1>pl8_2.jpg</image1>
     <image2>pl8_3.jpg</image2>
@@ -3873,12 +2838,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Thick small embroidery cotton long-sleeve polo shirt</name>
     <id>pl0009</id>
-    <color>black</color>
-    <color1>grey</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl9_1.jpg</image>
     <image1>pl9_2.jpg</image1>
     <image2>pl9_3.jpg</image2>
@@ -3889,12 +2849,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Lycra stretchy drop-shoulder loose polo shirt</name>
     <id>pl0010</id>
-    <color>black</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl10_1.jpg</image>
     <image1>pl10_2.jpg</image1>
     <image2>pl10_3.jpg</image2>
@@ -3905,12 +2860,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast lycra stretchy short sleeves polo shirt</name>
     <id>pl0011</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl11_1.jpg</image>
     <image1>pl11_2.jpg</image1>
     <image2>pl11_3.jpg</image2>
@@ -3921,12 +2871,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast embroidery pique polo shirt</name>
     <id>pl0012</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl12_1.jpg</image>
     <image1>pl12_2.jpg</image1>
     <image2>pl12_3.jpg</image2>
@@ -3937,12 +2882,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Men&apos;s Polar bear embroidery pique polo shirt</name>
     <id>pl0013</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl13_1.jpg</image>
     <image1>pl13_2.jpg</image1>
     <image2>pl13_3.jpg</image2>
@@ -3953,12 +2893,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Monkey Embroidery Polo Shirt</name>
     <id>pl0014</id>
-    <color>pink</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl14_1.jpg</image>
     <image1>pl14_2.jpg</image1>
     <image2>pl14_3.jpg</image2>
@@ -3969,12 +2904,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Drop-shoulder loose contrast polo shirt</name>
     <id>pl0015</id>
-    <color>green</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl15_1.jpg</image>
     <image1>pl15_2.jpg</image1>
     <image2>pl15_3.jpg</image2>
@@ -3985,12 +2915,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Drop-shoulder loose contrast polo shirt</name>
     <id>pl0016</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl16_1.jpg</image>
     <image1>pl16_2.jpg</image1>
     <image2>pl16_3.jpg</image2>
@@ -4001,12 +2926,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Webbing splicing pique fast dry short sleeves polo shirt</name>
     <id>pl0017</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl17_1.jpg</image>
     <image1>pl17_2.jpg</image1>
     <image2>pl17_3.jpg</image2>
@@ -4017,12 +2937,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery lycra stretchy polo shirt</name>
     <id>pl0018</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl18_1.jpg</image>
     <image1>pl18_2.jpg</image1>
     <image2>pl18_3.jpg</image2>
@@ -4033,12 +2948,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery lycra short-sleeve polo shirt</name>
     <id>pl0019</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl19_1.jpg</image>
     <image1>pl19_2.jpg</image1>
     <image2>pl19_3.jpg</image2>
@@ -4049,12 +2959,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Lycra Stretchy Pique Drop-Shoulder Polo Shirt</name>
     <id>pl0020</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl20_1.jpg</image>
     <image1>pl20_2.jpg</image1>
     <image2>pl20_3.jpg</image2>
@@ -4065,12 +2970,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast color stretchy pique polo shirt</name>
     <id>pl0021</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl21_1.jpg</image>
     <image1>pl21_2.jpg</image1>
     <image2>pl21_3.jpg</image2>
@@ -4081,12 +2981,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Stripe lycra stretchy short-sleeve polo shirt</name>
     <id>pl0022</id>
-    <color>blue</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl22_1.jpg</image>
     <image1>pl22_2.jpg</image1>
     <image2>pl22_3.jpg</image2>
@@ -4097,12 +2992,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast collar pique short-sleeve polo shirt</name>
     <id>pl0023</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl23_1.jpg</image>
     <image1>pl23_2.jpg</image1>
     <image2>pl23_3.jpg</image2>
@@ -4113,12 +3003,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Lycra stretchy drop-shoulder printed polo shirt</name>
     <id>pl0024</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl24_1.jpg</image>
     <image1>pl24_2.jpg</image1>
     <image2>pl24_3.jpg</image2>
@@ -4129,12 +3014,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast Lycra Stretchy Pique Polo Shirt</name>
     <id>pl0025</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl25_1.jpg</image>
     <image1>pl25_2.jpg</image1>
     <image2>pl25_3.jpg</image2>
@@ -4145,12 +3025,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery lycra pique short-sleeve polo shirt</name>
     <id>pl0026</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl26_1.jpg</image>
     <image1>pl26_2.jpg</image1>
     <image2>pl26_3.jpg</image2>
@@ -4161,12 +3036,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Stretchy Contrast Short Sleeve Polo Shirt</name>
     <id>pl0027</id>
-    <color>black</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl27_1.jpg</image>
     <image1>pl27_2.jpg</image1>
     <image2>pl27_3.jpg</image2>
@@ -4177,12 +3047,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Loose drop-shoulder striped cotton polo shirt</name>
     <id>pl0028</id>
-    <color>white</color>
-    <color1>grey</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl28_1.jpg</image>
     <image1>pl28_2.jpg</image1>
     <image2>pl28_3.jpg</image2>
@@ -4193,12 +3058,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Portrait lycra pique short sleeves polo shirt</name>
     <id>pl0029</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl29_1.jpg</image>
     <image1>pl29_2.jpg</image1>
     <image2>pl29_3.jpg</image2>
@@ -4209,12 +3069,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Drop Shoulder Contrast Short Sleeve Polo Shirt</name>
     <id>pl0030</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl30_1.jpg</image>
     <image1>pl30_2.jpg</image1>
     <image2>pl30_3.jpg</image2>
@@ -4225,12 +3080,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Embroidery pique short-sleeve polo shirt</name>
     <id>pl0031</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl31_1.jpg</image>
     <image1>pl31_2.jpg</image1>
     <image2>pl31_3.jpg</image2>
@@ -4241,12 +3091,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Contrast lycra pique short-sleeve polo shirt</name>
     <id>pl0032</id>
-    <color>white</color>
-    <color1>blue</color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl32_1.jpg</image>
     <image1>pl32_2.jpg</image1>
     <image2>pl32_3.jpg</image2>
@@ -4257,12 +3102,7 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Men&apos;s Polar bear embroidery pique polo shirt</name>
     <id>pl0033</id>
-    <color>pink</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl33_1.jpg</image>
     <image1>pl33_2.jpg</image1>
     <image2>pl33_3.jpg</image2>
@@ -4273,46 +3113,29 @@ HEALTHY and SAFE for health</description>
     <type>Polo</type>
     <name>Thick waffle plain polo shirt</name>
     <id>pl0034</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl34_1.jpg</image>
     <image1>pl34_2.jpg</image1>
     <image2>pl34_3.jpg</image2>
     <image3></image3>
-    <description>200g waffle fabric. Cotton, polyester and spandex blended fabric. Polo collar.
-Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</description>
+    <description>Cotton and lycra blended pique fabric. Mesh structure. Stretchy. Ribbed polo collar. Contrast printed logo at front. Drop-shoulder. Loose. Short sleeves.</description>
   </product>
   <product>
     <type>Polo</type>
     <name>Thick waffle plain polo shirt</name>
     <id>pl0035</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl35_1.jpg</image>
     <image1>pl35_2.jpg</image1>
     <image2>pl35_3.jpg</image2>
     <image3></image3>
-    <description>200g waffle fabric. Cotton, polyester and spandex blended fabric. Polo collar.
-Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</description>
+    <description>Cotton and lycra blended fabric. Stretchy. Polo collar. Embroidery at chest. Contrast design. Short sleeves.</description>
   </product>
   <product>
     <type>Polo</type>
     <name>Embroidery short-sleeve pique polo shirt</name>
     <id>pl0036</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl36_1.jpg</image>
     <image1>pl36_2.jpg</image1>
     <image2>pl36_3.jpg</image2>
@@ -4323,12 +3146,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Thick small embroidery cotton long-sleeve polo shirt</name>
     <id>pl0037</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl37_1.jpg</image>
     <image1>pl37_2.jpg</image1>
     <image2>pl37_3.jpg</image2>
@@ -4339,12 +3157,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lycra stretchy drop-shoulder loose polo shirt</name>
     <id>pl0038</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl38_1.jpg</image>
     <image1>pl38_2.jpg</image1>
     <image2>pl38_3.jpg</image2>
@@ -4355,12 +3168,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Embroidery lycra short-sleeve polo shirt</name>
     <id>pl0039</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl39_1.jpg</image>
     <image1>pl39_2.jpg</image1>
     <image2>pl39_3.jpg</image2>
@@ -4371,12 +3179,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Stripe lycra stretchy short-sleeve polo shirt</name>
     <id>pl0040</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl40_1.jpg</image>
     <image1>pl40_2.jpg</image1>
     <image2>pl40_3.jpg</image2>
@@ -4387,12 +3190,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Embroidery lycra short-sleeve polo shirt</name>
     <id>pl0041</id>
-    <color>blue</color>
-    <color1>yellow</color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl41_1.jpg</image>
     <image1>pl41_2.jpg</image1>
     <image2>pl41_3.jpg</image2>
@@ -4403,12 +3201,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Embroidery short-sleeve pique polo shirt</name>
     <id>pl0042</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl42_1.jpg</image>
     <image1>pl42_2.jpg</image1>
     <image2>pl42_3.jpg</image2>
@@ -4419,12 +3212,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Embroidery short-sleeve pique polo shirt</name>
     <id>pl0043</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl43_1.jpg</image>
     <image1>pl43_2.jpg</image1>
     <image2>pl43_3.jpg</image2>
@@ -4435,12 +3223,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Contrast embroidery pique polo shirt</name>
     <id>pl0044</id>
-    <color>white</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl44_1.jpg</image>
     <image1>pl44_2.jpg</image1>
     <image2>pl44_3.jpg</image2>
@@ -4451,12 +3234,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Thick solid design cotton long-sleeve polo shirt</name>
     <id>pl0045</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl45_1.jpg</image>
     <image1>pl45_2.jpg</image1>
     <image2>pl45_3.jpg</image2>
@@ -4467,12 +3245,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Thick solid design cotton long-sleeve polo shirt</name>
     <id>pl0046</id>
-    <color>brown</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl46_1.jpg</image>
     <image1>pl46_2.jpg</image1>
     <image2>pl46_3.jpg</image2>
@@ -4483,12 +3256,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Thick solid design cotton long-sleeve polo shirt</name>
     <id>pl0047</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl47_1.jpg</image>
     <image1>pl47_2.jpg</image1>
     <image2>pl47_3.jpg</image2>
@@ -4499,12 +3267,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Thick solid design cotton long-sleeve polo shirt</name>
     <id>pl0048</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl48_1.jpg</image>
     <image1>pl48_2.jpg</image1>
     <image2>pl48_3.jpg</image2>
@@ -4515,12 +3278,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Embroidery short-sleeve polo shirt</name>
     <id>pl0049</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl49_1.jpg</image>
     <image1>pl49_2.jpg</image1>
     <image2>pl49_3.jpg</image2>
@@ -4531,12 +3289,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Long Sleeve Pique Polo</name>
     <id>pl0050</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>270.000 VND</disprice>
-    <discount>10%</discount>
+    <price>250000</price>
     <image>pl50_1.jpg</image>
     <image1>pl50_2.jpg</image1>
     <image2>pl50_3.jpg</image2>
@@ -4547,12 +3300,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Long Sleeve Pique Polo</name>
     <id>pl0051</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>270.000 VND</disprice>
-    <discount>10%</discount>
+    <price>250000</price>
     <image>pl51_1.jpg</image>
     <image1>pl51_2.jpg</image1>
     <image2>pl51_3.jpg</image2>
@@ -4563,12 +3311,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Long Sleeve Pique Polo</name>
     <id>pl0052</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>240.000 VND</disprice>
-    <discount>20%</discount>
+    <price>250000</price>
     <image>pl52_1.jpg</image>
     <image1>pl52_2.jpg</image1>
     <image2>pl52_3.jpg</image2>
@@ -4579,12 +3322,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0053</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl53_1.jpg</image>
     <image1>pl53_2.jpg</image1>
     <image2>pl53_3.jpg</image2>
@@ -4595,12 +3333,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0054</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl54_1.jpg</image>
     <image1>pl54_2.jpg</image1>
     <image2>pl54_3.jpg</image2>
@@ -4611,12 +3344,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0055</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl55_1.jpg</image>
     <image1>pl55_2.jpg</image1>
     <image2></image2>
@@ -4627,12 +3355,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0056</id>
-    <color>orange</color>
-    <color1></color1>
-    <color2></color2>
-    <price>320.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl56_1.jpg</image>
     <image1>pl56_2.jpg</image1>
     <image2>pl56_3.jpg</image2>
@@ -4643,12 +3366,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0057</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl57_1.jpg</image>
     <image1>pl57_2.jpg</image1>
     <image2>pl57_3.jpg</image2>
@@ -4659,12 +3377,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0058</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl58_1.jpg</image>
     <image1>pl58_2.jpg</image1>
     <image2>pl58_3.jpg</image2>
@@ -4675,12 +3388,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0059</id>
-    <color>pink</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl59_1.jpg</image>
     <image1>pl59_2.jpg</image1>
     <image2>pl59_3.jpg</image2>
@@ -4691,12 +3399,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Pique Poloshirt</name>
     <id>pl0060</id>
-    <color>brown</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl60_1.jpg</image>
     <image1>pl60_2.jpg</image1>
     <image2>pl60_3.jpg</image2>
@@ -4707,12 +3410,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Tipped Regular Fit Poloshirt</name>
     <id>pl0061</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl61_1.jpg</image>
     <image1>pl61_2.jpg</image1>
     <image2>pl61_3.jpg</image2>
@@ -4723,12 +3421,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Tipped Regular Fit Poloshirt</name>
     <id>pl0062</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl62_1.jpg</image>
     <image1>pl62_2.jpg</image1>
     <image2>pl62_3.jpg</image2>
@@ -4739,12 +3432,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Tipped Regular Fit Poloshirt</name>
     <id>pl0063</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl63_1.jpg</image>
     <image1>pl63_2.jpg</image1>
     <image2>pl63_3.jpg</image2>
@@ -4755,12 +3443,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Tipped Regular Fit Poloshirt</name>
     <id>pl0064</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl64_1.jpg</image>
     <image1>pl64_2.jpg</image1>
     <image2>pl64_3.jpg</image2>
@@ -4771,12 +3454,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Tipped Regular Fit Poloshirt</name>
     <id>pl0065</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl65_1.jpg</image>
     <image1>pl65_2.jpg</image1>
     <image2>pl65_3.jpg</image2>
@@ -4787,12 +3465,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Print Poloshirt</name>
     <id>pl0066</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl66_1.jpg</image>
     <image1>pl66_2.jpg</image1>
     <image2>pl66_3.jpg</image2>
@@ -4803,12 +3476,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Print Poloshirt</name>
     <id>pl0067</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl67_1.jpg</image>
     <image1>pl67_2.jpg</image1>
     <image2>pl67_3.jpg</image2>
@@ -4819,12 +3487,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lyle &amp; Scott Classic Poloshirt</name>
     <id>pl0068</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl68_1.jpg</image>
     <image1>pl68_2.jpg</image1>
     <image2>pl68_3.jpg</image2>
@@ -4835,12 +3498,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lyle &amp; Scott Classic Poloshirt</name>
     <id>pl0069</id>
-    <color>orange</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl69_1.jpg</image>
     <image1>pl69_2.jpg</image1>
     <image2>pl69_3.jpg</image2>
@@ -4851,12 +3509,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lyle &amp; Scott Classic Poloshirt</name>
     <id>pl0070</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl70_1.jpg</image>
     <image1>pl70_2.jpg</image1>
     <image2>pl70_3.jpg</image2>
@@ -4867,12 +3520,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lyle &amp; Scott Classic Poloshirt</name>
     <id>pl0071</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl71_1.jpg</image>
     <image1>pl71_2.jpg</image1>
     <image2>pl71_3.jpg</image2>
@@ -4883,12 +3531,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lyle &amp; Scott Classic Poloshirt</name>
     <id>pl0072</id>
-    <color>brown</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl72_1.jpg</image>
     <image1>pl72_2.jpg</image1>
     <image2>pl72_3.jpg</image2>
@@ -4899,12 +3542,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Lyle &amp; Scott Classic Poloshirt</name>
     <id>pl0073</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl73_1.jpg</image>
     <image1>pl73_2.jpg</image1>
     <image2>pl73_3.jpg</image2>
@@ -4915,12 +3553,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0074</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl74_1.jpg</image>
     <image1>pl74_2.jpg</image1>
     <image2>pl74_3.jpg</image2>
@@ -4931,12 +3564,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0075</id>
-    <color>black</color>
-    <color1>yellow</color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl75_1.jpg</image>
     <image1>pl75_2.jpg</image1>
     <image2>pl75_3.jpg</image2>
@@ -4947,12 +3575,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0076</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl76_1.jpg</image>
     <image1>pl76_2.jpg</image1>
     <image2>pl76_3.jpg</image2>
@@ -4963,12 +3586,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0077</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl77_1.jpg</image>
     <image1>pl77_2.jpg</image1>
     <image2>pl77_3.jpg</image2>
@@ -4979,12 +3597,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0078</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl78_1.jpg</image>
     <image1>pl78_2.jpg</image1>
     <image2>pl78_3.jpg</image2>
@@ -4995,12 +3608,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0079</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl79_1.jpg</image>
     <image1>pl79_2.jpg</image1>
     <image2>pl79_3.jpg</image2>
@@ -5011,12 +3619,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0080</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl80_1.jpg</image>
     <image1>pl80_2.jpg</image1>
     <image2>pl80_3.jpg</image2>
@@ -5027,12 +3630,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0081</id>
-    <color>purple</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl81_1.jpg</image>
     <image1>pl81_2.jpg</image1>
     <image2>pl81_3.jpg</image2>
@@ -5043,12 +3641,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0082</id>
-    <color>pink</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl82_1.jpg</image>
     <image1>pl82_2.jpg</image1>
     <image2>pl82_3.jpg</image2>
@@ -5059,12 +3652,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0083</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl83_1.jpg</image>
     <image1>pl83_2.jpg</image1>
     <image2>pl83_3.jpg</image2>
@@ -5076,12 +3664,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0084</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl84_1.jpg</image>
     <image1>pl84_2.jpg</image1>
     <image2></image2>
@@ -5093,12 +3676,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0085</id>
-    <color>brown</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl85_1.jpg</image>
     <image1>pl85_2.jpg</image1>
     <image2>pl85_3.jpg</image2>
@@ -5109,12 +3687,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0086</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl86_1.jpg</image>
     <image1>pl86_2.jpg</image1>
     <image2>pl86_3.jpg</image2>
@@ -5125,12 +3698,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0087</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl87_1.jpg</image>
     <image1>pl87_2.jpg</image1>
     <image2>pl87_3.jpg</image2>
@@ -5141,12 +3709,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0088</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl88_1.jpg</image>
     <image1>pl88_2.jpg</image1>
     <image2>pl88_3.jpg</image2>
@@ -5157,12 +3720,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0089</id>
-    <color>purple</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl89_1.jpg</image>
     <image1>pl89_2.jpg</image1>
     <image2>pl89_3.jpg</image2>
@@ -5173,12 +3731,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <type>Polo</type>
     <name>Knitted Polo</name>
     <id>pl0090</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl90_1.jpg</image>
     <image1>pl90_2.jpg</image1>
     <image2>pl90_3.jpg</image2>
@@ -5187,14 +3740,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0091</id>
-    <color>black</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl91_1.jpg</image>
     <image1>pl91_2.jpg</image1>
     <image2>pl91_3.jpg</image2>
@@ -5203,14 +3751,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0092</id>
-    <color>blue</color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl92_1.jpg</image>
     <image1>pl92_2.jpg</image1>
     <image2>pl92_3.jpg</image2>
@@ -5219,14 +3762,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0093</id>
-    <color>grey</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl93_1.jpg</image>
     <image1>pl93_2.jpg</image1>
     <image2>pl93_3.jpg</image2>
@@ -5235,14 +3773,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0094</id>
-    <color>green</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl94_1.jpg</image>
     <image1>pl94_2.jpg</image1>
     <image2>pl94_3.jpg</image2>
@@ -5251,14 +3784,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0095</id>
-    <color>blue</color>
-    <color1>white</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl95_1.jpg</image>
     <image1>pl95_2.jpg</image1>
     <image2>pl95_3.jpg</image2>
@@ -5267,14 +3795,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0096</id>
-    <color>blue</color>
-    <color1>black</color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl96_1.jpg</image>
     <image1>pl96_2.jpg</image1>
     <image2>pl96_3.jpg</image2>
@@ -5283,14 +3806,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Fred Perry Twin Tipped Poloshirt</name>
     <id>pl0097</id>
-    <color>red</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl97_1.jpg</image>
     <image1>pl97_2.jpg</image1>
     <image2>pl97_3.jpg</image2>
@@ -5299,14 +3817,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Knitted Polo</name>
     <id>pl0098</id>
-    <color>brown</color>
-    <color1></color1>
-    <color2></color2>
-    <price>280.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl98_1.jpg</image>
     <image1>pl98_2.jpg</image1>
     <image2>pl98_3.jpg</image2>
@@ -5315,14 +3828,9 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Knitted Polo</name>
     <id>pl0099</id>
-    <color>white</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl99_1.jpg</image>
     <image1>pl99_2.jpg</image1>
     <image2>pl99_3.jpg</image2>
@@ -5331,32 +3839,22 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
   </product>
   <product>
     <type>Polo</type>
-    <name>Lacoste� DH2881 Poloshirt</name>
+    <name>Knitted Polo</name>
     <id>pl0100</id>
-    <color>yellow</color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>250000</price>
     <image>pl100_1.jpg</image>
     <image1>pl100_2.jpg</image1>
     <image2>pl100_3.jpg</image2>
     <image3></image3>
     <description>220g 100% Cotton fabric. Turn-down collar. Stripes design. Drop-shoulder. Short sleeves. Stylish, comfy and casual.</description>
   </product>
-</polo>
+</polo>	
 <accessory>
   <product>
     <type>Accessorie</type>
     <name>Marisela Shimmer Ear Warmer</name>
     <id>ac0001</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>200.000 VND</price>
-    <disprice>180.000 VND</disprice>
-    <discount>10%</discount>
+    <price>170000</price>
     <image>ac1_1.jpg</image>
     <image1>ac1_2.jpg</image1>
     <image2></image2>
@@ -5369,12 +3867,7 @@ The delicate, meticulous and sure seam brings high durability to the product.</d
     <type>Accessorie</type>
     <name>Suri Pom Beanie</name>
     <id>ac0002</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>140.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac2_1.jpg</image>
     <image1>ac2_2.jpg</image1>
     <image2></image2>
@@ -5389,12 +3882,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Cosetta Faux Fur Earmuffs</name>
     <id>ac0003</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>258.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac3_1.jpg</image>
     <image1>ac3_2.jpg</image1>
     <image2></image2>
@@ -5410,12 +3898,7 @@ Solid, delicate, quality seam</description>
     <type>Accessorie</type>
     <name>Pick-A-Pom Ribbed Beanie Base</name>
     <id>ac0004</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac4_1.jpg</image>
     <image1>ac4_2.jpg</image1>
     <image2></image2>
@@ -5427,12 +3910,7 @@ Products are cut and sewn on the line of professional modern technology equipmen
     <type>Accessorie</type>
     <name>Ashton Trimmed Boater</name>
     <id>ac0005</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>180.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac5_1.jpg</image>
     <image1>ac5_2.jpg</image1>
     <image2></image2>
@@ -5444,12 +3922,7 @@ There are many sizes and colors to choose from. Suitable for both men and women,
     <type>Accessorie</type>
     <name>Leopard-Spotted Ear Cool</name>
     <id>ac0006</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>100.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac6_1.jpg</image>
     <image1>ac6_2.jpg</image1>
     <image2></image2>
@@ -5462,12 +3935,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Accessorie</type>
     <name>Leopard-Spotted Ear Warmer</name>
     <id>ac0007</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>149.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac7_1.jpg</image>
     <image1>ac7_2.jpg</image1>
     <image2></image2>
@@ -5482,12 +3950,7 @@ The product is suitable for young people who love to exercise, participate in sp
     <type>Accessorie</type>
     <name>Gemma Felted Rancher</name>
     <id>ac0008</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>120.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac8_1.jpg</image>
     <image1>ac8_2.jpg</image1>
     <image2></image2>
@@ -5503,12 +3966,7 @@ Easy to coordinate, can be worn in many different occasions.</description>
     <type>Accessorie</type>
     <name>Ainsley Sueded Rancher</name>
     <id>ac0009</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>200.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac9_1.jpg</image>
     <image1>ac9_2.jpg</image1>
     <image2></image2>
@@ -5523,12 +3981,7 @@ Can wear to work, go out, go to school, ... and many other events</description>
     <type>Accessorie</type>
     <name>Trina Embellished Beanie</name>
     <id>ac0010</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>130.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac10_1.jpg</image>
     <image1>ac10_2.jpg</image1>
     <image2></image2>
@@ -5541,12 +3994,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Accessorie</type>
     <name>Cecily Corduroy Bucket Hat</name>
     <id>ac0011</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>190.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac11_1.jpg</image>
     <image1>ac11_2.jpg</image1>
     <image2></image2>
@@ -5559,12 +4007,7 @@ Freesize under 65kg</description>
     <type>Accessorie</type>
     <name>Ashton Trimmed Boater</name>
     <id>ac0012</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac12_1.jpg</image>
     <image1>ac12_2.jpg</image1>
     <image2></image2>
@@ -5575,12 +4018,7 @@ Freesize under 65kg</description>
     <type>Accessorie</type>
     <name>Cecily Corduroy Bucket Hat</name>
     <id>ac0013</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>210.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac13_1.jpg</image>
     <image1>ac13_2.jpg</image1>
     <image2></image2>
@@ -5593,12 +4031,7 @@ The seam is definitely beautiful.</description>
     <type>Accessorie</type>
     <name>Lattice Palm Hat</name>
     <id>ac0014</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac14_1.jpg</image>
     <image1>ac14_2.jpg</image1>
     <image2></image2>
@@ -5613,12 +4046,7 @@ Ingredients (80% Poly, 20% standex)</description>
     <type>Accessorie</type>
     <name>Newport Hat</name>
     <id>ac0015</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac15_1.jpg</image>
     <image1>ac15_2.jpg</image1>
     <image2></image2>
@@ -5631,12 +4059,7 @@ In addition, the new design and color scheme on a high-grade fabric creates an e
     <type>Accessorie</type>
     <name>Abby Hat</name>
     <id>ac0016</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac16_1.jpg</image>
     <image1>ac16_2.jpg</image1>
     <image2></image2>
@@ -5648,12 +4071,7 @@ The product has a unisex shape so both men and women can wear it well. You can s
     <type>Accessorie</type>
     <name>Hiker Crew Sock Set</name>
     <id>ac0017</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>50.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac17_1.jpg</image>
     <image1>ac17_2.jpg</image1>
     <image2></image2>
@@ -5667,12 +4085,7 @@ Cotton 95% + 5% The rest is nylon, so the fabric is smooth - not ruffled - espec
     <type>Accessorie</type>
     <name>Pom Knit Slippers</name>
     <id>ac0018</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>50.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac18_1.jpg</image>
     <image1>ac18_2.jpg</image1>
     <image2></image2>
@@ -5685,12 +4098,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Cable-Knit Crew Socks</name>
     <id>ac0019</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>70.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac19_1.jpg</image>
     <image1>ac19_2.jpg</image1>
     <image2></image2>
@@ -5702,12 +4110,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Accessorie</type>
     <name>Ski Boot Socks</name>
     <id>ac0020</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>60.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac20_1.jpg</image>
     <image1>ac20_2.jpg</image1>
     <image2></image2>
@@ -5722,12 +4125,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Betsy Blue Light Glasses</name>
     <id>ac0021</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>200.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac21_1.jpg</image>
     <image1>ac21_2.jpg</image1>
     <image2></image2>
@@ -5742,12 +4140,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Accessorie</type>
     <name>Capri Round Sunglasses</name>
     <id>ac0022</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac22_1.jpg</image>
     <image1>ac22_2.jpg</image1>
     <image2></image2>
@@ -5760,12 +4153,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Angela Readers</name>
     <id>ac0023</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice>170.000 VND</disprice>
-    <discount>10%</discount>
+    <price>170000</price>
     <image>ac23_1.jpg</image>
     <image1>ac23_2.jpg</image1>
     <image2></image2>
@@ -5779,12 +4167,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Accessorie</type>
     <name>Ashbury Oval Sunglasses</name>
     <id>ac0024</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>140.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac24_1.jpg</image>
     <image1>ac24_2.jpg</image1>
     <image2></image2>
@@ -5797,12 +4180,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Kieran Belt</name>
     <id>ac0025</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac25_1.jpg</image>
     <image1>ac25_2.jpg</image1>
     <image2></image2>
@@ -5814,12 +4192,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Accessorie</type>
     <name>Nguyen belt</name>
     <id>ac0026</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice>136.000 VND</disprice>
-    <discount>20%</discount>
+    <price>170000</price>
     <image>ac26_1.jpg</image>
     <image1>ac26_2.jpg</image1>
     <image2></image2>
@@ -5834,12 +4207,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Classic Obi Belt</name>
     <id>ac0027</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac27_1.jpg</image>
     <image1>ac27_2.jpg</image1>
     <image2></image2>
@@ -5854,12 +4222,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Accessorie</type>
     <name>Blossom Embroidered Pouch</name>
     <id>ac0028</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>140.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac28_1.jpg</image>
     <image1>ac28_2.jpg</image1>
     <image2></image2>
@@ -5872,12 +4235,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Stoney Clover Lane Jewelry Roll</name>
     <id>ac0029</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac29_1.jpg</image>
     <image1>ac29_2.jpg</image1>
     <image2></image2>
@@ -5891,12 +4249,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Accessorie</type>
     <name>Ondine Catchall Pouch</name>
     <id>ac0030</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac30_1.jpg</image>
     <image1>ac30_2.jpg</image1>
     <image2></image2>
@@ -5910,12 +4263,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Accessorie</type>
     <name>Elago AirPods Hanging Case</name>
     <id>ac0031</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice>136.000 VND</disprice>
-    <discount>20%</discount>
+    <price>170000</price>
     <image>ac31_1.jpg</image>
     <image1>ac31_2.jpg</image1>
     <image2></image2>
@@ -5927,12 +4275,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Accessorie</type>
     <name>Keegan AirPods Case</name>
     <id>ac0032</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac32_1.jpg</image>
     <image1>ac32_2.jpg</image1>
     <image2></image2>
@@ -5947,12 +4290,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Ciao Passport Holder</name>
     <id>ac0033</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>140.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac33_1.jpg</image>
     <image1>ac33_2.jpg</image1>
     <image2></image2>
@@ -5967,12 +4305,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Accessorie</type>
     <name>Elago Phone Wallet</name>
     <id>ac0034</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac34_1.jpg</image>
     <image1>ac34_2.jpg</image1>
     <image2></image2>
@@ -5985,12 +4318,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Rifle Paper Co. AirPods Pro Case</name>
     <id>ac0035</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice>136.000 VND</disprice>
-    <discount>20%</discount>
+    <price>170000</price>
     <image>ac35_1.jpg</image>
     <image1>ac35_2.jpg</image1>
     <image2></image2>
@@ -6003,12 +4331,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Lexie Slippers</name>
     <id>ac0036</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>300.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac36_1.jpg</image>
     <image1>ac36_2.jpg</image1>
     <image2></image2>
@@ -6020,12 +4343,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Accessorie</type>
     <name>Deco Diamond Monogram Pendant Necklace</name>
     <id>ac0037</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>140.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac37_1.jpg</image>
     <image1>ac37_2.jpg</image1>
     <image2></image2>
@@ -6040,12 +4358,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Teddie Faux Fur Hair Clip Set</name>
     <id>ac0038</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>230.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac38_1.jpg</image>
     <image1>ac38_2.jpg</image1>
     <image2></image2>
@@ -6060,12 +4373,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Accessorie</type>
     <name>Sanctuary Organic Cotton Ear Loop Reusable Face Masks</name>
     <id>ac0039</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>180.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac39_1.jpg</image>
     <image1>ac39_2.jpg</image1>
     <image2></image2>
@@ -6078,12 +4386,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Pick-A-Pom Ribbed Beanie Base</name>
     <id>ac0040</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>340.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac40_1.jpg</image>
     <image1>ac40_2.jpg</image1>
     <image2></image2>
@@ -6097,12 +4400,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Accessorie</type>
     <name>Monogram Square Pendant Necklace</name>
     <id>ac0041</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>250.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac41_1.jpg</image>
     <image1>ac41_2.jpg</image1>
     <image2></image2>
@@ -6117,12 +4415,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Lucille Stretch Bracelet</name>
     <id>ac0042</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>130.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac42_1.jpg</image>
     <image1>ac42_2.jpg</image1>
     <image2></image2>
@@ -6137,12 +4430,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Accessorie</type>
     <name>Ranna Gill Ear Loop Reusable Face Mas</name>
     <id>ac0043</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>40.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac43_1.jpg</image>
     <image1>ac43_2.jpg</image1>
     <image2></image2>
@@ -6155,12 +4443,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Polly Velvet Clutch</name>
     <id>ac0044</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>60.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac44_1.jpg</image>
     <image1>ac44_2.jpg</image1>
     <image2></image2>
@@ -6173,12 +4456,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Kozakh Sweet Sentiments Necklace</name>
     <id>ac0045</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>200.000 VND</price>
-    <disprice>180.000 VND</disprice>
-    <discount>10%</discount>
+    <price>170000</price>
     <image>ac45_1.jpg</image>
     <image1>ac45_2.jpg</image1>
     <image2></image2>
@@ -6190,12 +4468,7 @@ Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, so
     <type>Accessorie</type>
     <name>George &amp; Viv Holiday Bar Soap Gift Set</name>
     <id>ac0046</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>120.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac46_1.jpg</image>
     <image1>ac46_2.jpg</image1>
     <image2></image2>
@@ -6210,12 +4483,7 @@ HEALTHY and SAFE for health</description>
     <type>Accessorie</type>
     <name>Lottie Monogram Mug</name>
     <id>ac0047</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>150.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac47_1.jpg</image>
     <image1>ac47_2.jpg</image1>
     <image2></image2>
@@ -6230,12 +4498,7 @@ Suitable to wear in many different environments such as office, party, event, tr
     <type>Accessorie</type>
     <name>George &amp; Viv Very Merry Baking Bundle</name>
     <id>ac0048</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac48_1.jpg</image>
     <image1>ac48_2.jpg</image1>
     <image2></image2>
@@ -6248,12 +4511,7 @@ Standard form, combined with outstanding color tones, brings a stylish and dynam
     <type>Accessorie</type>
     <name>Dagny Monogram Mug</name>
     <id>ac0049</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>120.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac49_1.jpg</image>
     <image1>ac49_2.jpg</image1>
     <image2></image2>
@@ -6267,12 +4525,7 @@ Easy to match, comfortable form to wear Sewing from soft and airy spandex materi
     <type>Accessorie</type>
     <name>Floral Bouquet Diffuser</name>
     <id>ac0050</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>150.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac50_1.jpg</image>
     <image1>ac50_2.jpg</image1>
     <image2></image2>
@@ -6287,12 +4540,7 @@ Ability to absorb sweat, prevent squash, moisture, and discomfort.</description>
     <type>Accessorie</type>
     <name>Agate Coaster</name>
     <id>ac0051</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac51_1.jpg</image>
     <image1>ac51_2.jpg</image1>
     <image2></image2>
@@ -6306,12 +4554,7 @@ Fabric material is difficult to stick, not wrinkled, ruffled</description>
     <type>Accessorie</type>
     <name>Monogram Cuff Bracelet</name>
     <id>ac0052</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>120.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac52_1.jpg</image>
     <image1>ac52_2.jpg</image1>
     <image2></image2>
@@ -6325,12 +4568,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Accessorie</type>
     <name>Zodiac Mother-Of-Pearl Pendant Necklace</name>
     <id>ac0053</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>150.000 VND</price>
-    <disprice>135.000 VND</disprice>
-    <discount>10%</discount>
+    <price>170000</price>
     <image>ac53_1.jpg</image>
     <image1>ac53_2.jpg</image1>
     <image2></image2>
@@ -6344,12 +4582,7 @@ It is possible to print on the shirt the unique image and slogan to help express
     <type>Accessorie</type>
     <name>Capri Blue Votives, Set of 6</name>
     <id>ac0054</id>
-    <color></color>
-    <color1></color1>
-    <color2></color2>
-    <price>170.000 VND</price>
-    <disprice></disprice>
-    <discount></discount>
+    <price>170000</price>
     <image>ac54_1.jpg</image>
     <image1>ac54_2.jpg</image1>
     <image2></image2>

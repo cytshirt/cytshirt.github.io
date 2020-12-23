@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="Css/allproducts.css" type="text/css" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <script src="Javascript/DoData/JavaScript_DoData.js"></script>
+    <script type="text/javascript" src="Javascript/DoData/mainproductpolo.js"></script>
+    <link rel="stylesheet" href="Css/mainproduct.css" />
 
 </head>
 <body onload="loading()">
@@ -74,11 +75,61 @@
             <div class="line3"></div>
         </div>
     </nav>
-    <table class="mainbody" id="mainbody" align="center">
-    </table>
     <!--Nội dung homepage-->
-    <div style="font-size:50px;padding-top:10vh">
+    <div id="mainproduct" class="filtercontain">
+        <div class="filter-bar">
+            <div class="title">
+                <span>FILTER</span>
+            </div>
+            <div class="filter">
+                <span>Product Price:</span>
+                <ul>
+                    <li><input type="checkbox" id="gia1" /><label for="gia1"> Dưới 200000đ</label></li>
+                    <li><input type="checkbox" id="gia2" /><label for="gia2"> Từ 200000đ đến 300000đ</label></li>
+                    <li><input type="checkbox" id="gia3" /><label for="gia3"> Từ 300000đ đến 400000đ</label></li>
+                    <li><input type="checkbox" id="gia4" /><label for="gia4"> Từ 400000đ đến 500000đ</label></li>
+                    <li><input type="checkbox" id="gia5" /><label for="gia5"> Trên 500000đ</label></li>
+                </ul>
+                <span>Color:</span>
+                <div class="color-contain">
+                    <ul>
+                        <li class="colorbox"><input type="checkbox" id="check" /><label class="checkmark" for="check" style="background-color:gray"></label></li>
+                        <li class="colorbox"><input type="checkbox" id="check2" /><label class="checkmark" for="check2" style="background-color:black"></label></li>
+                        <li class="colorbox"><input type="checkbox" id="check3" /><label class="checkmark" for="check3" style="background-color:cornflowerblue"></label></li>
+                        <li class="colorbox"><input type="checkbox" id="check4" /><label class="checkmark" for="check4" style="background-color:orange"></label></li>
+                        <li class="colorbox"><input type="checkbox" id="check5" /><label class="checkmark" for="check5" style="background-color:hotpink"></label></li>
+                        <li class="colorbox"><input type="checkbox" id="check6" /><label class="checkmark" for="check6" style="background-color:lightgreen"></label></li>
 
+
+                    </ul>
+                </div>
+                <div class="size">
+                    <span> Size:</span>
+                    <div class="sizebox">
+                        <label class="radio">
+                            <input type="radio" name="option1" checked />
+                            <span class="s">S</span>
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="option1" />
+                            <span class="m">M</span>
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="option1" />
+                            <span class="l">L</span>
+                        </label>
+                        <label class="radio">
+                            <input type="radio" name="option1" />
+                            <span class="l">XL</span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tablecontain">
+            <table class="mainbody" id="mainbody" align="center" style="padding-top:8vh;">
+            </table>
+        </div>
     </div>
     <!--Footer-->
     <footer class="footer">
@@ -114,7 +165,7 @@
             </li>
             <li class="features">
                 <h2>
-                    About us
+                    About us h
                 </h2>
                 <ul class="box h-box">
                     <li><a href="Main_AboutUs.html">About CY</a></li>

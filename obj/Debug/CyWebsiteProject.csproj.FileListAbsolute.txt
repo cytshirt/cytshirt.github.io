@@ -116,3 +116,5 @@ E:\DEMO\CyWebsiteProject\CyWebsiteProject\obj\Debug\CyWebsiteProject.csproj.Core
 E:\DEMO\CyWebsiteProject\CyWebsiteProject\obj\Debug\CyWebsiteProject.csproj.CopyComplete
 E:\DEMO\CyWebsiteProject\CyWebsiteProject\obj\Debug\CyWebsiteProject.dll
 E:\DEMO\CyWebsiteProject\CyWebsiteProject\obj\Debug\CyWebsiteProject.pdb
+F:\DoanWeb1\cytshirt.github.io\obj\Debug\CyWebsiteProject.dll
+F:\DoanWeb1\cytshirt.github.io\obj\Debug\CyWebsiteProject.pdb
