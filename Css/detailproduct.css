@@ -1,0 +1,174 @@
+﻿table#detailproduct {
+    margin: 0 40px;
+}
+table {
+    border-collapse: collapse;
+}
+img.imgproduct {
+    width: 500px;
+    height: 500px;
+}
+td.motatd2 {
+    background-color: #ffeccd;
+    padding: 15px;
+}
+.nameproductdt {
+    font-size: 24px;
+}
+.giaproductdt {
+    font-size: 20px;
+    margin-top: 10px;
+}
+hr.hrdetail {
+    height: 3px;
+    display: block;
+    background-color: #F89521;
+    margin: 1em 0 1em;
+    width: 100%;
+    max-width: 50px;
+}
+
+span {
+    font-weight: bold;
+    width: 100%;
+}
+
+.sizebox {
+    position: relative;
+    margin: 40px 0 40px;
+    float: left;
+    width: 100%;
+}
+
+    .sizebox label {
+        position: relative;
+        cursor: pointer;
+        text-align: center;
+    }
+
+        .sizebox label input {
+            display: none;
+        }
+
+        .sizebox label span {
+            position: relative;
+            display: inline-block;
+            width: 30px;
+            color: black;
+            padding: 10px;
+            background-color: #fff;
+        }
+
+.quantity {
+    padding: 30px;
+    position: relative;
+}
+
+span.btnquant {
+    padding: 13px;
+    margin: 10px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+span#idquant {
+    padding: 13px 30px;
+    background-color: #fff;
+}
+
+.button-order-contain {
+    margin-top: 40px;
+}
+
+.button-order {
+    margin: 0px;
+    background-color: #F89521;
+    padding: 15px 180px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px;
+    cursor: pointer;
+}
+
+    .button-order:hover {
+        color: orange;
+        background-color: white;
+        border: 1px solid #F89521;
+    }
+.policy-group {
+    background-color: pink;
+    margin: 20px;
+}
+
+.policy {
+    margin: 30px;
+    padding: 5px;   
+}
+
+.policy-return-header {
+    margin: 15px;
+    cursor: pointer;
+}
+
+.policy-return-header, .policy-pm-header, .policy-ship-header {
+    margin: 15px;
+    cursor: pointer;
+}
+
+    .policy-return-header:hover, .policy-pm-header:hover, .policy-ship-header:hover {
+        color: orangered;
+    }
+
+.policy-return-inf, .policy-pm-inf, .policy-ship-inf {
+    padding: 5px 30px;
+    font-size: 15PX;
+}button.more-product {
+    margin: 0px;
+    background-color: #F89521;
+    padding: 15px 40px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px;
+    cursor: pointer;
+}
+
+    button.more-product:hover {
+        color: orange;
+        background-color: white;
+        border: 1px solid #F89521;
+    }
+@media screen and (max-width:1024px) {
+    table#detailproduct {
+        margin: 0;
+    }
+    td.motatd2 {
+        width: 100%;
+    }
+    img.imgproduct {
+        width: 300px;
+        height: 300px;
+    }
+
+        table, table tr, table td {
+            display: block;
+            width: 100%;
+        }
+}
+
+@media screen and (max-width: 768px) {
+    table#detailproduct {
+        margin: 0;
+    }
+
+    .tablecontain {
+        width: 100%;
+    }
+
+    table, table tr, table td {
+        display: block;
+        width: 100%;
+    }
+
+}
