@@ -101,10 +101,11 @@ function loading() {
 
                     var titlesize = document.createElement("span")
                     titlesize.setAttribute('class', 'titleSiz')
-                    titlesize.innerHTML = "Size"
+                    titlesize.innerHTML = "Size" + "</br>"
                     td2.appendChild(titlesize);
 
                     var sizebox = document.createElement("div")
+                    sizebox.setAttribute('class','sizebox')
 
                     var lable = document.createElement("label")
                     lable.setAttribute('class', 'radio')
@@ -155,13 +156,13 @@ function loading() {
                     sizebox.appendChild(lable4)
                     td2.appendChild(sizebox);
 
-                    var quantitycontainer = document.createElement("div")
-
-                    quantitycontainer.setAttribute('class', 'quantity')
                     var text = document.createElement("span")
                     text.setAttribute('class', 'txt')
                     text.innerHTML = "Số lượng: " + "</br>"
-                    quantitycontainer.appendChild(text)
+                    td2.appendChild(text)
+
+                    var quantitycontainer = document.createElement("div")
+                    quantitycontainer.setAttribute('class', 'quantity')
                     var plus = document.createElement("span")
                     plus.setAttribute('class', 'plus')
                     var quant = document.createElement("span")
@@ -176,7 +177,7 @@ function loading() {
                     minus.setAttribute("onclick", "xuLyquant(-1)")
                     quant.setAttribute("id", "idquant")
                     var divdathang = document.createElement("div")
-
+                    divdathang.setAttribute('class','button-order-contain')
                     var btndathang = document.createElement("button")
                     btndathang.setAttribute('class', 'button-order')
                     btndathang.innerHTML = "ADD TO CART "
