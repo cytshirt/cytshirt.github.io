@@ -1107,6 +1107,9 @@
     <Content Include="Image\Campaign\img_gallery\White_Men_4.png" />
     <Content Include="Image\Campaign\img_gallery\White_Woman_2.jpg" />
     <Content Include="Image\Campaign\img_gallery\White_Women_2.png" />
+    <Content Include="Image\Cart\test1.jpg" />
+    <Content Include="Image\Cart\test2.jpg" />
+    <Content Include="Image\Cart\test3.jpg" />
     <Content Include="Image\Footer\background.jpg" />
     <Content Include="Image\Footer\bg4.jpg" />
     <Content Include="Image\Icon\favicon.png" />
