@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Css",
-    "\\Data",
-    "\\Javascript",
-    "\\Javascript\\DoData"
+    "\\Image",
+    "\\Image\\Account\\images",
+    "\\Image\\Footer",
+    "\\Image\\Icon"
   ],
-  "SelectedNode": "\\Javascript\\DoData\\mainproductpolo.js",
+  "SelectedNode": "\\Account.html",
   "PreviewInSolutionExplorer": false
 }
