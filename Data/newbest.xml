@@ -305,29 +305,46 @@
       </description>
     </product>
     <product>
-      <type>Tshirt</type>
-      <name>T-shirt Stockholm Summer Must Go On</name>
-      <id>ts0048</id>
-      <price>290000</price>
-      <image>ts48_1.jpg</image>
-      <image1>ts48_2.jpg</image1>
+      <type>Accessorie</type>
+      <name>Ashton Trimmed Boater</name>
+      <id>ac0012</id>
+      <price>170000</price>
+      <image>ac12_1.jpg</image>
+      <image1>ac12_2.jpg</image1>
       <image2></image2>
       <image3></image3>
       <description>Material: Felt. Cool. Soft fabric - Try it and feel it. High color fastness, making the shirt form always stable. (unlike market t-shirts, which only wash a few times, they will sag, twisted, and deformed) The seam is certainly beautiful. Suitable for young people who like to exercise, participate in sports, outdoor activities, ... Easy to coordinate, wear in many different occasions. Made in Viet Nam.</description>
     </product>
     <product>
-      <type>Tshirt</type>
-      <name>T-shirt Stockholm Dedicated Logo Golden</name>
-      <id>ts0049</id>
-      <price>290000</price>
-      <image>ts49_1.jpg</image>
-      <image1>ts49_2.jpg</image1>
+      <type>Accessorie</type>
+      <name>Cecily Corduroy Bucket Hat</name>
+      <id>ac0013</id>
+      <price>170000</price>
+      <image>ac13_1.jpg</image>
+      <image1>ac13_2.jpg</image1>
       <image2></image2>
       <image3></image3>
       <description>
         Material: Cotton Felt, with fur lining.
         High color fastness, making the shirt form always stable. (Unlike market t-shirts, which only wash a few times, it will sag, twisted, deformed)
         The seam is definitely beautiful.
+      </description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Lattice Palm Hat</name>
+      <id>ac0014</id>
+      <price>170000</price>
+      <image>ac14_1.jpg</image>
+      <image1>ac14_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        The seam is definitely beautiful.
+        The weight of the shirt is only 200-300g, creating a light, comfortable feeling to wear.
+        The product is suitable for young people who love to exercise, participate in sports, outdoor activities, ...
+        Easy to coordinate, can be worn in many different occasions.
+        Ingredients (80% Poly, 20% standex)
       </description>
     </product>
   </new>
