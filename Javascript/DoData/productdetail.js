@@ -188,15 +188,23 @@ function loading() {
                     quantitycontainer.appendChild(divdathang)
                     td2.appendChild(quantitycontainer)
 
-                    var policy = document.createElement("div")
-                    policy.innerHTML = "RETURN POLICY"
-                    td2.appendChild(policy)
-                    var ship = document.createElement("div")
-                    ship.innerHTML = "SHIPPING POLICY"
-                    td2.appendChild(ship)
-                    var payment = document.createElement("div")
-                    payment.innerHTML = "PAYMENT POLICY"
-                    td2.appendChild(payment)
+
+                    var policygroup = document.createElement('div')
+                    policygroup.setAttribute('class', 'policy-group')
+                    td2.appendChild(policygroup)
+
+                    var policy = document.createElement('policy')
+                    policy.setAttribute('class', 'policy')
+                    policygroup.appendChild(policy)
+
+                    var policyreturnheader = document.createElement("div")
+                    policyreturnheader.setAttribute('class', 'policy-return-header')
+                    policyreturnheader.innerH
+                    policy.appendChild(policyreturnheader)
+
+                    var policyreturn = document.createElement('div')
+                    policyreturn.setAttribute('class', 'policy-return')
+                    policy.appendChild(policyreturn)
                 }
             }
 

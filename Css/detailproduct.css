@@ -1,6 +1,12 @@
-﻿td.motatd2 {
-    background-color: #ffeccd;
+﻿table#detailproduct {
+    margin: 0 40px;
 }
+
+td.motatd2 {
+    background-color: #ffeccd;
+    padding: 15px;
+}
+
 hr.hrdetail {
     height: 3px;
     display: block;
@@ -9,20 +15,23 @@ hr.hrdetail {
     width: 100%;
     max-width: 50px;
 }
+
 span {
     font-weight: bold;
     width: 100%;
 }
+
 .sizebox {
     position: relative;
     margin: 40px;
     float: left;
     width: 100%;
 }
+
     .sizebox label {
         position: relative;
         cursor: pointer;
-        text-align:center;
+        text-align: center;
     }
 
         .sizebox label input {
@@ -37,31 +46,36 @@ span {
             padding: 10px;
             background-color: #fff;
         }
+
         .sizebox label input:checked ~ span {
             border: 1px solid black;
         }
-.quantity{
-    padding:30px;
-    position:relative;
+
+.quantity {
+    padding: 30px;
+    position: relative;
 }
+
 span.btnquant {
     padding: 13px;
     margin: 10px;
     background-color: #fff;
-    cursor:pointer;
+    cursor: pointer;
 }
+
 span#idquant {
     padding: 13px 30px;
     background-color: #fff;
 }
+
 .button-order-contain {
-    margin-top:40px;
+    margin-top: 40px;
 }
 
 .button-order {
     margin: 0px;
     background-color: #F89521;
-    padding: 15px 200px;
+    padding: 15px 180px;
     color: white;
     font-family: sans-serif;
     font-weight: bold;
