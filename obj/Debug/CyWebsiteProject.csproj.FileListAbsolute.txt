@@ -118,3 +118,5 @@ E:\DEMO\CyWebsiteProject\CyWebsiteProject\obj\Debug\CyWebsiteProject.dll
 E:\DEMO\CyWebsiteProject\CyWebsiteProject\obj\Debug\CyWebsiteProject.pdb
 F:\DoanWeb1\cytshirt.github.io\obj\Debug\CyWebsiteProject.dll
 F:\DoanWeb1\cytshirt.github.io\obj\Debug\CyWebsiteProject.pdb
+D:\1. LEARNING UEL\NAM3\HKI\WEB 1\Do An\cODE\cytshirt.github.io\obj\Debug\CyWebsiteProject.dll
+D:\1. LEARNING UEL\NAM3\HKI\WEB 1\Do An\cODE\cytshirt.github.io\obj\Debug\CyWebsiteProject.pdb
