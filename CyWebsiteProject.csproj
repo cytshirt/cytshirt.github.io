@@ -81,6 +81,7 @@
     <Content Include="Css\homelayout.css" />
     <Content Include="Css\membership.css" />
     <Content Include="Css\new.css" />
+    <Content Include="Css\payment.css" />
     <Content Include="Css\policy.css" />
     <Content Include="Css\post_detail.css" />
     <Content Include="Css\StyleSheet1.css" />
@@ -1164,6 +1165,7 @@
     <Content Include="Main_Products.html" />
     <Content Include="Membership.html" />
     <Content Include="Passwordnew.html" />
+    <Content Include="Payment.html" />
     <Content Include="Pravacy_Policy.html" />
     <Content Include="Product_Detail.html" />
     <Content Include="Product_Polo.html" />
