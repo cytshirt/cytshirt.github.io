@@ -1,7 +1,5 @@
-
-
-var data = [];
-function loading() {
+﻿var data = [];
+function loading1() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -17,7 +15,7 @@ function loading() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['sweater']
+        var lstmuc = ['tshirt']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];
@@ -50,8 +48,8 @@ function loading() {
             switch (i) {
                 case 0:
                     tdhead.setAttribute('id', 'cateNoi')
-                    tdhead.setAttribute('name', 'sweater')
-                    tdhead.innerText = 'SWEATER'
+                    tdhead.setAttribute('name', 'polo')
+                    tdhead.innerText = 'TSHIRT TEST'
                     break;
 
             }
@@ -84,43 +82,56 @@ function loading() {
                 tr.appendChild(td2)
                 tr.appendChild(td3)
 
+
+                var a1 = document.createElement("a");
+                a1.href = "Product_Detail_ts.html?id=" + record1[2];
                 var img1 = document.createElement("img")
-                img1.setAttribute("src", "Image/" + record1[4])
+                img1.setAttribute("src", "Data/ImgProduct/" + record1[4])
                 img1.setAttribute("class", "imgproduct")
                 img1.setAttribute("width", widthimage)
                 img1.setAttribute("height", heightimage)
-                td1.appendChild(img1)
+                a1.appendChild(img1);
 
                 var content1 = document.createElement("p")
                 content1.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
                     + record1[3] + ' VND' + "</b>"
                 content1.setAttribute('color', '#000000');
 
-                td1.appendChild(content1)
+                a1.appendChild(content1)
+                td1.appendChild(a1)
+
+
+                var a2 = document.createElement("a");
+                a2.href = "Product_Detail_ts.html?id=" + record2[2];
                 var img2 = document.createElement("img")
-                img2.setAttribute("src", "Image/" + record2[4])
+                img2.setAttribute("src", "Data/ImgProduct/" + record2[4])
                 img2.setAttribute("class", "imgproduct")
                 img2.setAttribute("width", widthimage)
                 img2.setAttribute("height", heightimage)
-                td2.appendChild(img2)
+                a2.appendChild(img2);
 
                 var content2 = document.createElement("p")
-                content2.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
+                content2.innerHTML = "<div>" + record2[1].toUpperCase() + "</div>" + "<b>"
                     + record2[3] + ' VND' + "</b>"
                 content2.setAttribute('color', '#000000');
-                td2.appendChild(content2)
+                a2.appendChild(content2)
+                td2.appendChild(a2)
 
+                var a3 = document.createElement("a");
+                a3.href = "Product_Detail_ts.html?id=" + record3[2];
                 var img3 = document.createElement("img")
-                img3.setAttribute("src", "Image/" + record3[4])
+                img3.setAttribute("src", "Data/ImgProduct/" + record3[4])
                 img3.setAttribute("class", "imgproduct")
                 img3.setAttribute("width", widthimage)
                 img3.setAttribute("height", heightimage)
-                td3.appendChild(img3)
+                a3.appendChild(img3);
+
                 var content3 = document.createElement("p")
-                content3.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
+                content3.innerHTML = "<div>" + record3[1].toUpperCase() + "</div>" + "<b>"
                     + record3[3] + ' VND' + "</b>"
                 content3.setAttribute('color', '#000000');
-                td3.appendChild(content3)
+                a3.appendChild(content3)
+                td3.appendChild(a3)
 
 
             }
@@ -132,8 +143,10 @@ function loading() {
                     td.setAttribute('class', 'itemproduct')
                     trlast.appendChild(td)
                     record = lstrecord[i][(parseInt(lstrecord[i].length / numtdeachrow) * 2) + j]
+                    var a = document.createElement("a")
+                    a.href = "Product_Detail_ts.html?id=" + record[2];
                     var img = document.createElement("img")
-                    img.setAttribute("src", "Image/" + record[4])
+                    img.setAttribute("src", "Data/ImgProduct/" + record[4])
                     img.setAttribute("class", "imgproduct")
                     img.setAttribute("width", widthimage)
                     img.setAttribute("height", heightimage)

@@ -1152,9 +1152,10 @@
     <Content Include="index.html" />
     <Content Include="Javascript\DoData\JavaScript_DoData.js" />
     <Content Include="Javascript\DoData\mainproductpolo.js" />
-    <Content Include="Javascript\DoData\mainproductsw.js" />
     <Content Include="Javascript\DoData\mainproductsweater.js" />
+    <Content Include="Javascript\DoData\mainproducttshirt.js" />
     <Content Include="Javascript\DoData\productdetail.js" />
+    <Content Include="Javascript\DoData\product_tshirt_detail.js" />
     <Content Include="Javascript\Home\menu.js" />
     <Content Include="Javascript\Home\slider.js" />
     <Content Include="Main_AboutUs.html" />
@@ -1170,6 +1171,7 @@
     <Content Include="Payment.html" />
     <Content Include="Pravacy_Policy.html" />
     <Content Include="Product_Detail.html" />
+    <Content Include="Product_Detail_ts.html" />
     <Content Include="Product_Polo.html" />
     <Content Include="Product_Sweater.html" />
     <Content Include="Product_Tshirt.html" />
