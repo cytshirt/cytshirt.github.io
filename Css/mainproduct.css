@@ -153,6 +153,32 @@ table {
         .sizebox label input:checked ~ span {
             border: 1px solid black;
         }
+.pagination {
+    display: flex;
+    justify-content: center;
+    color: #545454;
+    margin: 4rem 0;
+    width:100%
+}
+
+.pagination a {
+        padding: .6rem .9rem;
+        border-radius: 2rem;
+        margin: 0.3rem;
+        text-decoration: none;
+    }
+
+.pagination a:hover {
+            background: transparent;
+            border: 1px solid #F89521;
+            color: #F89521;
+            cursor: pointer;
+        }
+
+.pagination .pages {
+        background: #545454;
+        color: white;
+    }
 
 @media screen and (max-width:1024px) {
     #mainproduct {
