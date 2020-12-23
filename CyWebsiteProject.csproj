@@ -1145,6 +1145,14 @@
     <Content Include="Image\ProductDemo\banner.jpg" />
     <Content Include="Image\ProductDemo\d2.jpg" />
     <Content Include="Image\ProductDemo\degrey3.jpg" />
+    <Content Include="Image\SliderHome\cate1.png" />
+    <Content Include="Image\SliderHome\cate2.png" />
+    <Content Include="Image\SliderHome\cate3.png" />
+    <Content Include="Image\SliderHome\cate4.png" />
+    <Content Include="Image\SliderHome\homecate1.png" />
+    <Content Include="Image\SliderHome\homecate2.png" />
+    <Content Include="Image\SliderHome\homecate3.png" />
+    <Content Include="Image\SliderHome\homecate4.png" />
     <Content Include="Image\SliderHome\imgslide1.png" />
     <Content Include="Image\SliderHome\imgslide2.png" />
     <Content Include="Image\SliderHome\imgslide3.png" />

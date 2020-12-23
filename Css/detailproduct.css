@@ -1,8 +1,7 @@
 ﻿table#detailproduct {
     margin: 0 40px;
-
-
-table {
+}
+.detailproduct table {
     border-collapse: collapse;
 }
 img.imgproduct {
@@ -28,7 +27,7 @@ hr.hrdetail {
     max-width: 100px;
 }
 
-span {
+.detailproduct span {
     font-weight: bold;
     width: 100%;
 }
@@ -123,7 +122,8 @@ span#idquant {
 .policy-return-inf, .policy-pm-inf, .policy-ship-inf {
     padding: 5px 30px;
     font-size: 15PX;
-}button.more-product {
+}
+button.more-product {
     margin: 15px;
     background-color: #F89521;
     padding: 15px 40px;
@@ -150,12 +150,12 @@ td.otherproducttd2{
     padding:10px;
     font-size:18px;
 }
-a{
-    text-decoration:none;
-    color:black;
+.detailproduct a {
+    text-decoration: none;
+    color: black;
 }
-a:hover{
-    color:orange;
+.detailproduct a:hover {
+    color: orange;
 }
 .otherproductimg:hover{
     transform:scale(1.1);
