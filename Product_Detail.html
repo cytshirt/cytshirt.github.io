@@ -5,7 +5,26 @@
     <meta charset="utf-8" />
     <title></title>
     <script type="text/javascript" src="Javascript/DoData/productdetail.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
     <link type="text/css" rel="stylesheet" href="Css/detailproduct.css" />
+    <script>
+        $(document).ready(function () {
+
+            $('.policy-return-header').click(function () {
+                if ($(this).parent().is('.open')) {
+                    $(this).closest('.policy').find('.policy-return').slideUp();
+                    $(this).closest('.policy').removeClass('open');
+
+                } else {
+                    var newHeight = $(this).closest('.policy').find('.policy-return-inf').height() + 'px';
+                    $(this).closest('.policy').find('.policy-return').slideDown();
+                    $(this).closest('.policy').addClass('open');
+                }
+
+            });
+
+        });
+    </script>
 </head>
 <body onload="loading()">
     <table class="detailproduct" id="detailproduct">

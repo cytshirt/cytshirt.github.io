@@ -204,7 +204,14 @@ function loading() {
 
                     var policyreturn = document.createElement('div')
                     policyreturn.setAttribute('class', 'policy-return')
+                    policyreturn.setAttribute('display','none')
                     policy.appendChild(policyreturn)
+
+                    var policyreturnif = document.createElement('div')
+                    policyreturnif.setAttribute('class', 'policy-return-inf')
+                    policyreturnif.innerText ='CYTSHIRT accepts to exchange / return goods within 03 working days, apply unevenly to each item and to different products.'
+                    policyreturn.appendChild(policyreturnif)
+
                 }
             }
 

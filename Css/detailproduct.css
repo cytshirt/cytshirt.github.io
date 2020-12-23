@@ -88,3 +88,25 @@ span#idquant {
         background-color: white;
         border: 1px solid #F89521;
     }
+.policy-group {
+    background-color: pink;
+    margin: 20px;
+}
+
+.policy {
+    padding: 5px;
+}
+
+.policy-return-header {
+    margin: 15px;
+    cursor: pointer;
+}
+
+    .policy-return-header:hover{
+        color: orangered;
+    }
+
+.policy-return-inf {
+    padding: 5px 30px;
+    font-size: 15PX;
+}
