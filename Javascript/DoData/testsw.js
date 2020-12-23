@@ -1,3 +1,4 @@
+// JavaScript source code
 var data = [];
 function loading() {
     var xhttp = new XMLHttpRequest();
@@ -15,7 +16,7 @@ function loading() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['polo']
+        var lstmuc = ['sweater']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];
@@ -94,7 +95,7 @@ function loading() {
 
                 var content1 = document.createElement("p")
                 content1.innerHTML = "<div>" + record1[1].toUpperCase() + "</div>" + "<b>"
-                    + record1[3]+' VND' + "</b>"
+                    + record1[3] + ' VND' + "</b>"
                 content1.setAttribute('color', '#000000');
 
                 a1.appendChild(content1)

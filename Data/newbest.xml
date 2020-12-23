@@ -1,489 +1,334 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SANPHAM>
-<new>
-<product>
-    <type>Polo</type>
-    <name>Monkey Embroidery Polo Shirt</name>
-    <id>pl0014</id>
-    <price>250000</price>
-    <image>pl14_1.jpg</image>
-    <image1>pl14_2.jpg</image1>
-    <image2>pl14_3.jpg</image2>
-    <image3></image3>
-    <description>Cotton and spandex blended fabric. Short sleeves. Turn-down collar. Embroideried monkey pattern at front. Longer hem at back.</description>
-  </product>
- <product>
-    <type>Accessorie</type>
-    <name>Zodiac Mother-Of-Pearl Pendant Necklace</name>
-    <id>ac0053</id>
-    <price>170000</price>
-    <image>ac53_1.jpg</image>
-    <image1>ac53_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>The felt of the shirt helps to increase the ability to keep warm, insulate the body ...
-The price of the product is not too high compared to the general level.
-There are more designs and designs than other shirts.
-It is possible to print on the shirt the unique image and slogan to help express personal style.</description>
-  </product>
-  <product>
-    <type>Accessorie</type>
-    <name>Lottie Monogram Mug</name>
-    <id>ac0047</id>
-    <price>170000</price>
-    <image>ac47_1.jpg</image>
-    <image1>ac47_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
-<product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm You</name>
-    <id>ts0075</id>
-    <price>290000</price>
-    <image>ts75_1.jpg</image>
-    <image1>ts75_2.jpg</image1>
-    <image2>ts75_3.jpg</image2>
-    <image3></image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
+  <new>
+    <product>
+      <type>Polo</type>
+      <name>Monkey Embroidery Polo Shirt</name>
+      <id>pl0014</id>
+      <price>250000</price>
+      <image>pl14_1.jpg</image>
+      <image1>pl14_2.jpg</image1>
+      <image2>pl14_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and spandex blended fabric. Short sleeves. Turn-down collar. Embroideried monkey pattern at front. Longer hem at back.</description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Zodiac Mother-Of-Pearl Pendant Necklace</name>
+      <id>ac0053</id>
+      <price>170000</price>
+      <image>ac53_1.jpg</image>
+      <image1>ac53_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        The felt of the shirt helps to increase the ability to keep warm, insulate the body ...
+        The price of the product is not too high compared to the general level.
+        There are more designs and designs than other shirts.
+        It is possible to print on the shirt the unique image and slogan to help express personal style.
+      </description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Lottie Monogram Mug</name>
+      <id>ac0047</id>
+      <price>170000</price>
+      <image>ac47_1.jpg</image>
+      <image1>ac47_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        Material: High quality foreign felt
+        Latest Design. No wrinkles, no ruffles, no threads, no fading.
+        Modern youthful body shape. 100% real photo without editing.
+        You can see the shirt before paying.
+        Suitable to wear in many different environments such as office, party, event, travel
+      </description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm You</name>
+      <id>ts0075</id>
+      <price>290000</price>
+      <image>ts75_1.jpg</image>
+      <image1>ts75_2.jpg</image1>
+      <image2>ts75_3.jpg</image2>
+      <image3></image3>
+      <description>
+        The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
 
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-<product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm Lemon</name>
-    <id>ts0072</id>
-    <price>290000</price>
-    <image>ts72_1.jpg</image>
-    <image1>ts72_2.jpg</image1>
-    <image2>ts72_3.jpg</image2>
-    <image3></image3>
-    <description>Soft and smooth PE, standard form of 2 layers cone, beautiful fabric
-Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, soft, cool, elastic and extremely effective. With meticulous seams, delicate colors, elegant colors for the stylish and stylish wearer.</description>
-  </product>
-  <product>
-    <type>Polo</type>
-    <name>Drop-shoulder loose contrast polo shirt</name>
-    <id>pl0015</id>
-    <price>250000</price>
-    <image>pl15_1.jpg</image>
-    <image1>pl15_2.jpg</image1>
-    <image2>pl15_3.jpg</image2>
-    <image3></image3>
-    <description>100% cotton. Turn-down collar. Contrast design. Drop-shoulder. Loose design. Short sleeves.</description>
-  </product>
-<product>
-    <type>Sweater</type>
-    <name>Saigonese people Sweater</name>
-    <id>sw0050</id>
-    <price>380000</price>
-    <image>sw50_1.jpg</image>
-    <image1>sw50_2.jpg</image1>
-    <image2>sw50_3.jpg</image2>
-    <image3></image3>
-    <description>The seam is definitely beautiful.
-The weight of the shirt is only 200-300g, creating a light, comfortable feeling to wear.
-The product is suitable for young people who love to exercise, participate in sports, outdoor activities, ...
-Easy to coordinate, can be worn in many different occasions.
-Ingredients (80% Poly, 20% standex)</description>
-  </product>
- <product>
-    <type>Accessorie</type>
-    <name>Ranna Gill Ear Loop Reusable Face Mas</name>
-    <id>ac0043</id>
-    <price>170000</price>
-    <image>ac43_1.jpg</image>
-    <image1>ac43_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
+        Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...
+      </description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm Lemon</name>
+      <id>ts0072</id>
+      <price>290000</price>
+      <image>ts72_1.jpg</image>
+      <image1>ts72_2.jpg</image1>
+      <image2>ts72_3.jpg</image2>
+      <image3></image3>
+      <description>
+        Soft and smooth PE, standard form of 2 layers cone, beautiful fabric
+        Size: Freesize (&lt;65kg) PE cartoon printed pullover sweater made of cotton, soft, cool, elastic and extremely effective. With meticulous seams, delicate colors, elegant colors for the stylish and stylish wearer.
+      </description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Drop-shoulder loose contrast polo shirt</name>
+      <id>pl0015</id>
+      <price>250000</price>
+      <image>pl15_1.jpg</image>
+      <image1>pl15_2.jpg</image1>
+      <image2>pl15_3.jpg</image2>
+      <image3></image3>
+      <description>100% cotton. Turn-down collar. Contrast design. Drop-shoulder. Loose design. Short sleeves.</description>
+    </product>
 
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-  <product>
-    <type>Polo</type>
-    <name>Drop-shoulder loose contrast polo shirt</name>
-    <id>pl0016</id>
-    <price>250000</price>
-    <image>pl16_1.jpg</image>
-    <image1>pl16_2.jpg</image1>
-    <image2>pl16_3.jpg</image2>
-    <image3></image3>
-    <description>100% cotton. Turn-down collar. Contrast design. Drop-shoulder. Loose design. Short sleeves.</description>
-  </product>
- <product>
-    <type>Sweater</type>
-    <name>Policon Sweater</name>
-    <id>sw0054</id>
-    <price>380000</price>
-    <image>sw54_1.jpg</image>
-    <image1>sw54_2.jpg</image1>
-    <image2>sw54_3.jpg</image2>
-    <image3></image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
+    <product>
+      <type>Accessorie</type>
+      <name>Ranna Gill Ear Loop Reusable Face Mas</name>
+      <id>ac0043</id>
+      <price>170000</price>
+      <image>ac43_1.jpg</image>
+      <image1>ac43_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
 
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-  <product>
-    <type>Polo</type>
-    <name>Webbing splicing pique fast dry short sleeves polo shirt</name>
-    <id>pl0017</id>
-    <price>250000</price>
-    <image>pl17_1.jpg</image>
-    <image1>pl17_2.jpg</image1>
-    <image2>pl17_3.jpg</image2>
-    <image3></image3>
-    <description>Cotton and polyester blended fast dry fabric. Mesh lining. Contrast ribbed neck and cuffs. Wrinkle resistant. Hygroscopic and sweat releasing. Shoulder webbing splicing. Short sleeves.</description>
-  </product>
-<product>
-    <type>Sweater</type>
-    <name>Camchangre Long to Sweater</name>
-    <id>sw0092</id>
-    <price>380000</price>
-    <image>sw92_1.jpg</image>
-    <image1>sw92_2.jpg</image1>
-    <image2>sw92_3.jpg</image2>
-    <image3></image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>Monk Blanch Non Sweater</name>
-    <id>sw0093</id>
-    <price>380000</price>
-    <image>sw93_1.jpg</image>
-    <image1>sw93_2.jpg</image1>
-    <image2>sw93_3.jpg</image2>
-    <image3></image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
+        Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...
+      </description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Drop-shoulder loose contrast polo shirt</name>
+      <id>pl0016</id>
+      <price>250000</price>
+      <image>pl16_1.jpg</image>
+      <image1>pl16_2.jpg</image1>
+      <image2>pl16_3.jpg</image2>
+      <image3></image3>
+      <description>100% cotton. Turn-down collar. Contrast design. Drop-shoulder. Loose design. Short sleeves.</description>
+    </product>
 
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>Momo Miaa Cop Sweater</name>
-    <id>sw0094</id>
-    <price>380000</price>
-    <image>sw94_1.jpg</image>
-    <image1>sw94_2.jpg</image1>
-    <image2>sw94_3.jpg</image2>
-    <image3></image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
+    <product>
+      <type>Polo</type>
+      <name>Webbing splicing pique fast dry short sleeves polo shirt</name>
+      <id>pl0017</id>
+      <price>250000</price>
+      <image>pl17_1.jpg</image>
+      <image1>pl17_2.jpg</image1>
+      <image2>pl17_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and polyester blended fast dry fabric. Mesh lining. Contrast ribbed neck and cuffs. Wrinkle resistant. Hygroscopic and sweat releasing. Shoulder webbing splicing. Short sleeves.</description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Dagny Monogram Mug</name>
+      <id>ac0049</id>
+      <price>170000</price>
+      <image>ac49_1.jpg</image>
+      <image1>ac49_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        Spandex material is soft and airy
+        Easy to clean, quick to dry
+        Subtle, meticulous seam
+        Easy to match, comfortable form to wear Sewing from soft and airy spandex material brings comfort to the wearer.
+      </description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Monogram Cuff Bracelet</name>
+      <id>ac0052</id>
+      <price>170000</price>
+      <image>ac52_1.jpg</image>
+      <image1>ac52_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        The felt of the shirt helps to increase the ability to keep warm, insulate the body ...
+        The price of the product is not too high compared to the general level.
+        There are more designs and designs than other shirts.
+        It is possible to print on the shirt the unique image and slogan to help express personal style.
+      </description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Zodiac Mother-Of-Pearl Pendant Necklace</name>
+      <id>ac0053</id>
+      <price>170000</price>
+      <image>ac53_1.jpg</image>
+      <image1>ac53_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        The felt of the shirt helps to increase the ability to keep warm, insulate the body ...
+        The price of the product is not too high compared to the general level.
+        There are more designs and designs than other shirts.
+        It is possible to print on the shirt the unique image and slogan to help express personal style.
+      </description>
+    </product>
 
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>Joke Same Sweater</name>
-    <id>sw0095</id>
-    <price>380000</price>
-    <image>sw95_1.jpg</image>
-    <image1>sw95_2.jpg</image1>
-    <image2>sw95_3.jpg</image2>
-    <image3></image3>
-    <description>Latest Streetwear Design
-Thick cotton felt material, large oversize form
-Laundry fabric is not ruffled, no color
-Shop prints use flexible ink, high-grade decal,
-HEALTHY and SAFE for health</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>Funny help Sweater</name>
-    <id>sw0096</id>
-    <price>380000</price>
-    <image>sw96_1.jpg</image>
-    <image1>sw96_2.jpg</image1>
-    <image2>sw96_3.jpg</image2>
-    <image3></image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>MakeaLovesen Sweater</name>
-    <id>sw0097</id>
-    <price>380000</price>
-    <image>sw97_1.jpg</image>
-    <image1>sw97_2.jpg</image1>
-    <image2>sw97_3.jpg</image2>
-    <image3>sw97_4.jpg</image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
+    <product>
+      <type>Polo</type>
+      <name>Lycra Stretchy Pique Drop-Shoulder Polo Shirt</name>
+      <id>pl0020</id>
+      <price>250000</price>
+      <image>pl20_1.jpg</image>
+      <image1>pl20_2.jpg</image1>
+      <image2>pl20_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and lycra blended pique fabric. Mesh structure. Stretchy. Contrast ribbed polo collar. Single patch pocket at front. Embroidery at patch pocket. Drop-shoulder. Short sleeves.</description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Contrast color stretchy pique polo shirt</name>
+      <id>pl0021</id>
+      <price>250000</price>
+      <image>pl21_1.jpg</image>
+      <image1>pl21_2.jpg</image1>
+      <image2>pl21_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and lycra blended fabric. Polo collar. Contrast color ribbed cuffs. Longer hem at the back. Side vents.</description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm Lemon</name>
+      <id>ts0077</id>
+      <price>290000</price>
+      <image>ts77_1.jpg</image>
+      <image1>ts77_2.jpg</image1>
+      <image2>ts77_3.jpg</image2>
+      <image3></image3>
+      <description>
+        Latest Streetwear Design
+        Thick cotton felt material, large oversize form
+        Laundry fabric is not ruffled, no color
+        Shop prints use flexible ink, high-grade decal,
+        HEALTHY and SAFE for health
+      </description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm You</name>
+      <id>ts0078</id>
+      <price>290000</price>
+      <image>ts78_1.jpg</image>
+      <image1>ts78_2.jpg</image1>
+      <image2>ts78_3.jpg</image2>
+      <image3></image3>
+      <description>
+        Material: High quality foreign felt
+        Latest Design. No wrinkles, no ruffles, no threads, no fading.
+        Modern youthful body shape. 100% real photo without editing.
+        You can see the shirt before paying.
+        Suitable to wear in many different environments such as office, party, event, travel
+      </description>
+    </product>
 
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>Meen in Sweater</name>
-    <id>sw0098</id>
-    <price>380000</price>
-    <image>sw98_1.jpg</image>
-    <image1>sw98_2.jpg</image1>
-    <image2>sw98_3.jpg</image2>
-    <image3>sw98_4.jpg</image3>
-    <description>Latest Streetwear Design
-Thick cotton felt material, large oversize form
-Laundry fabric is not ruffled, no color
-Shop prints use flexible ink, high-grade decal,
-HEALTHY and SAFE for health</description>
-  </product>
- <product>
-    <type>Accessorie</type>
-    <name>George &amp; Viv Very Merry Baking Bundle</name>
-    <id>ac0048</id>
-    <price>170000</price>
-    <image>ac48_1.jpg</image>
-    <image1>ac48_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>The design is youthful, dynamic, brings a warm feeling on cold days as well as protects the skin from the harsh summer rays.
-
-Standard form, combined with outstanding color tones, brings a stylish and dynamic fashion style for men and women. Suitable for coordinating with many types of clothing such as jeans, shorts ...</description>
-  </product>
-  <product>
-    <type>Accessorie</type>
-    <name>Dagny Monogram Mug</name>
-    <id>ac0049</id>
-    <price>170000</price>
-    <image>ac49_1.jpg</image>
-    <image1>ac49_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Spandex material is soft and airy
-Easy to clean, quick to dry
-Subtle, meticulous seam
-Easy to match, comfortable form to wear Sewing from soft and airy spandex material brings comfort to the wearer.</description>
-  </product>
-</new>
-<bestseller>
-<product>
-    <type>Accessorie</type>
-    <name>Monogram Cuff Bracelet</name>
-    <id>ac0052</id>
-    <price>170000</price>
-    <image>ac52_1.jpg</image>
-    <image1>ac52_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>The felt of the shirt helps to increase the ability to keep warm, insulate the body ...
-The price of the product is not too high compared to the general level.
-There are more designs and designs than other shirts.
-It is possible to print on the shirt the unique image and slogan to help express personal style.</description>
-  </product>
-  <product>
-    <type>Accessorie</type>
-    <name>Zodiac Mother-Of-Pearl Pendant Necklace</name>
-    <id>ac0053</id>
-    <price>170000</price>
-    <image>ac53_1.jpg</image>
-    <image1>ac53_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>The felt of the shirt helps to increase the ability to keep warm, insulate the body ...
-The price of the product is not too high compared to the general level.
-There are more designs and designs than other shirts.
-It is possible to print on the shirt the unique image and slogan to help express personal style.</description>
-  </product>
-<product>
-    <type>Sweater</type>
-    <name>Cackten blackhove Sweater</name>
-    <id>sw0062</id>
-    <price>380000</price>
-    <image>sw62_1.jpg</image>
-    <image1>sw62_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Latest Streetwear Design
-Thick cotton felt material, large oversize form
-Laundry fabric is not ruffled, no color
-Shop prints use flexible ink, high-grade decal,
-HEALTHY and SAFE for health</description>
-  </product>
-  <product>
-    <type>Sweater</type>
-    <name>Kakachi botagon Sweater</name>
-    <id>sw0063</id>
-    <price>380000</price>
-    <image>sw63_1.jpg</image>
-    <image1>sw63_2.jpg</image1>
-    <image2>sw63_3.jpg</image2>
-    <image3>sw63_4.jpg</image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
-<product>
-    <type>Polo</type>
-    <name>Lycra Stretchy Pique Drop-Shoulder Polo Shirt</name>
-    <id>pl0020</id>
-    <price>250000</price>
-    <image>pl20_1.jpg</image>
-    <image1>pl20_2.jpg</image1>
-    <image2>pl20_3.jpg</image2>
-    <image3></image3>
-    <description>Cotton and lycra blended pique fabric. Mesh structure. Stretchy. Contrast ribbed polo collar. Single patch pocket at front. Embroidery at patch pocket. Drop-shoulder. Short sleeves.</description>
-  </product>
-  <product>
-    <type>Polo</type>
-    <name>Contrast color stretchy pique polo shirt</name>
-    <id>pl0021</id>
-    <price>250000</price>
-    <image>pl21_1.jpg</image>
-    <image1>pl21_2.jpg</image1>
-    <image2>pl21_3.jpg</image2>
-    <image3></image3>
-    <description>Cotton and lycra blended fabric. Polo collar. Contrast color ribbed cuffs. Longer hem at the back. Side vents.</description>
-  </product>
-  <product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm Lemon</name>
-    <id>ts0077</id>
-    <price>290000</price>
-    <image>ts77_1.jpg</image>
-    <image1>ts77_2.jpg</image1>
-    <image2>ts77_3.jpg</image2>
-    <image3></image3>
-    <description>Latest Streetwear Design
-Thick cotton felt material, large oversize form
-Laundry fabric is not ruffled, no color
-Shop prints use flexible ink, high-grade decal,
-HEALTHY and SAFE for health</description>
-  </product>
-  <product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm You</name>
-    <id>ts0078</id>
-    <price>290000</price>
-    <image>ts78_1.jpg</image>
-    <image1>ts78_2.jpg</image1>
-    <image2>ts78_3.jpg</image2>
-    <image3></image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
- <product>
-    <type>Sweater</type>
-    <name>Hency gonna vibe Sweater</name>
-    <id>sw0074</id>
-    <price>380000</price>
-    <image>sw74_1.jpg</image>
-    <image1>sw74_2.jpg</image1>
-    <image2>sw74_3.jpg</image2>
-    <image3></image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
-<product>
-    <type>Polo</type>
-    <name>Embroidery lycra pique short-sleeve polo shirt</name>
-    <id>pl0026</id>
-    <price>250000</price>
-    <image>pl26_1.jpg</image>
-    <image1>pl26_2.jpg</image1>
-    <image2>pl26_3.jpg</image2>
-    <image3></image3>
-    <description>Cotton and lycra blended pique fabric. Mesh structure. Stretchy. Solid. Ribbed turn-down collar and cuffs. Embroidery at chest. Short sleeves.</description>
-  </product>
-  <product>
-    <type>Polo</type>
-    <name>Stretchy Contrast Short Sleeve Polo Shirt</name>
-    <id>pl0027</id>
-    <price>250000</price>
-    <image>pl27_1.jpg</image>
-    <image1>pl27_2.jpg</image1>
-    <image2>pl27_3.jpg</image2>
-    <image3></image3>
-    <description>Cotton and lycra blended fabric. Turn-down collar. Contrast printed pattern. Drop-shoulder. Short sleeves. Stretchy and comfy.</description>
-  </product>
-<product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm Bicycle</name>
-    <id>ts0039</id>
-    <price>290000</price>
-    <image>ts39_1.jpg</image>
-    <image1>ts39_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Warm round neck sweatshirts
-Reasonable choice for autumn and winter
-Thick soft cotton felt material
-The unique design of the hand is lightly rutted to create a breaking, firm blanket
-Respectful, dynamic
-Solid, delicate, quality seam</description>
-  </product>
- <product>
-    <type>Accessorie</type>
-    <name>Deco Diamond Monogram Pendant Necklace</name>
-    <id>ac0037</id>
-    <price>170000</price>
-    <image>ac37_1.jpg</image>
-    <image1>ac37_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Latest Streetwear Design
-Thick cotton felt material, large oversize form
-Laundry fabric is not ruffled, no color
-Shop prints use flexible ink, high-grade decal,
-HEALTHY and SAFE for health</description>
-  </product>
-  <product>
-    <type>Accessorie</type>
-    <name>Teddie Faux Fur Hair Clip Set</name>
-    <id>ac0038</id>
-    <price>170000</price>
-    <image>ac38_1.jpg</image>
-    <image1>ac38_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Material: High quality foreign felt
-Latest Design. No wrinkles, no ruffles, no threads, no fading.
-Modern youthful body shape. 100% real photo without editing.
-You can see the shirt before paying.
-Suitable to wear in many different environments such as office, party, event, travel</description>
-  </product>
-<product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm Summer Must Go On</name>
-    <id>ts0048</id>
-    <price>290000</price>
-    <image>ts48_1.jpg</image>
-    <image1>ts48_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Material: Felt. Cool. Soft fabric - Try it and feel it. High color fastness, making the shirt form always stable. (unlike market t-shirts, which only wash a few times, they will sag, twisted, and deformed) The seam is certainly beautiful. Suitable for young people who like to exercise, participate in sports, outdoor activities, ... Easy to coordinate, wear in many different occasions. Made in Viet Nam.</description>
-  </product>
-  <product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm Dedicated Logo Golden</name>
-    <id>ts0049</id>
-    <price>290000</price>
-    <image>ts49_1.jpg</image>
-    <image1>ts49_2.jpg</image1>
-    <image2></image2>
-    <image3></image3>
-    <description>Material: Cotton Felt, with fur lining.
-High color fastness, making the shirt form always stable. (Unlike market t-shirts, which only wash a few times, it will sag, twisted, deformed)
-The seam is definitely beautiful.</description>
-  </product>
-</bestseller>
+    <product>
+      <type>Polo</type>
+      <name>Embroidery lycra pique short-sleeve polo shirt</name>
+      <id>pl0026</id>
+      <price>250000</price>
+      <image>pl26_1.jpg</image>
+      <image1>pl26_2.jpg</image1>
+      <image2>pl26_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and lycra blended pique fabric. Mesh structure. Stretchy. Solid. Ribbed turn-down collar and cuffs. Embroidery at chest. Short sleeves.</description>
+    </product>
+    <product>
+      <type>Polo</type>
+      <name>Stretchy Contrast Short Sleeve Polo Shirt</name>
+      <id>pl0027</id>
+      <price>250000</price>
+      <image>pl27_1.jpg</image>
+      <image1>pl27_2.jpg</image1>
+      <image2>pl27_3.jpg</image2>
+      <image3></image3>
+      <description>Cotton and lycra blended fabric. Turn-down collar. Contrast printed pattern. Drop-shoulder. Short sleeves. Stretchy and comfy.</description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm Bicycle</name>
+      <id>ts0039</id>
+      <price>290000</price>
+      <image>ts39_1.jpg</image>
+      <image1>ts39_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        Warm round neck sweatshirts
+        Reasonable choice for autumn and winter
+        Thick soft cotton felt material
+        The unique design of the hand is lightly rutted to create a breaking, firm blanket
+        Respectful, dynamic
+        Solid, delicate, quality seam
+      </description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Deco Diamond Monogram Pendant Necklace</name>
+      <id>ac0037</id>
+      <price>170000</price>
+      <image>ac37_1.jpg</image>
+      <image1>ac37_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        Latest Streetwear Design
+        Thick cotton felt material, large oversize form
+        Laundry fabric is not ruffled, no color
+        Shop prints use flexible ink, high-grade decal,
+        HEALTHY and SAFE for health
+      </description>
+    </product>
+    <product>
+      <type>Accessorie</type>
+      <name>Teddie Faux Fur Hair Clip Set</name>
+      <id>ac0038</id>
+      <price>170000</price>
+      <image>ac38_1.jpg</image>
+      <image1>ac38_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        Material: High quality foreign felt
+        Latest Design. No wrinkles, no ruffles, no threads, no fading.
+        Modern youthful body shape. 100% real photo without editing.
+        You can see the shirt before paying.
+        Suitable to wear in many different environments such as office, party, event, travel
+      </description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm Summer Must Go On</name>
+      <id>ts0048</id>
+      <price>290000</price>
+      <image>ts48_1.jpg</image>
+      <image1>ts48_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>Material: Felt. Cool. Soft fabric - Try it and feel it. High color fastness, making the shirt form always stable. (unlike market t-shirts, which only wash a few times, they will sag, twisted, and deformed) The seam is certainly beautiful. Suitable for young people who like to exercise, participate in sports, outdoor activities, ... Easy to coordinate, wear in many different occasions. Made in Viet Nam.</description>
+    </product>
+    <product>
+      <type>Tshirt</type>
+      <name>T-shirt Stockholm Dedicated Logo Golden</name>
+      <id>ts0049</id>
+      <price>290000</price>
+      <image>ts49_1.jpg</image>
+      <image1>ts49_2.jpg</image1>
+      <image2></image2>
+      <image3></image3>
+      <description>
+        Material: Cotton Felt, with fur lining.
+        High color fastness, making the shirt form always stable. (Unlike market t-shirts, which only wash a few times, it will sag, twisted, deformed)
+        The seam is definitely beautiful.
+      </description>
+    </product>
+  </new>
 </SANPHAM>

@@ -2729,21 +2729,7 @@ Modern youthful body shape. 100% real photo without editing.
 You can see the shirt before paying.
 Suitable to wear in many different environments such as office, party, event, travel</description>
   </product>
-  <product>
-    <type>Tshirt</type>
-    <name>T-shirt Stockholm Tie Dye</name>
-    <id>ts0100</id>
-    <price>290000</price>
-    <image>ts100_1.jpg</image>
-    <image1>ts100_2.jpg</image1>
-    <image2>ts100_3.jpg</image2>
-    <image3></image3>
-    <description>Latest Streetwear Design
-Thick cotton felt material, large oversize form
-Laundry fabric is not ruffled, no color
-Shop prints use flexible ink, high-grade decal,
-HEALTHY and SAFE for health</description>
-  </product>
+
 </tshirt>
 <polo>
   <product>
@@ -3837,17 +3823,7 @@ Ribbed cuffs. Longer hem at the back. Side vents at hem. Long sleeves.</descript
     <image3></image3>
     <description>Cotton and lycra blended fabric. Turn-down collar. Contrast printed pattern. Drop-shoulder. Short sleeves. Stretchy and comfy.</description>
   </product>
-  <product>
-    <type>Polo</type>
-    <name>Knitted Polo</name>
-    <id>pl0100</id>
-    <price>250000</price>
-    <image>pl100_1.jpg</image>
-    <image1>pl100_2.jpg</image1>
-    <image2>pl100_3.jpg</image2>
-    <image3></image3>
-    <description>220g 100% Cotton fabric. Turn-down collar. Stripes design. Drop-shoulder. Short sleeves. Stylish, comfy and casual.</description>
-  </product>
+
 </polo>	
 <accessory>
   <product>
