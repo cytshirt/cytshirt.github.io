@@ -1161,6 +1161,7 @@
     <Content Include="Javascript\DoData\product_accessory_detail.js" />
     <Content Include="Javascript\DoData\product_new_detail.js" />
     <Content Include="Javascript\DoData\product_polo_detail.js" />
+    <Content Include="Javascript\DoData\product_sweater_detail.js" />
     <Content Include="Javascript\DoData\product_tshirt_detail.js" />
     <Content Include="Javascript\Home\menu.js" />
     <Content Include="Javascript\Home\slider.js" />
@@ -1179,6 +1180,7 @@
     <Content Include="Product_Detail_accessories.html" />
     <Content Include="Product_Detail_New.html" />
     <Content Include="Product_Detail_polo.html" />
+    <Content Include="Product_Detail_sweater.html" />
     <Content Include="Product_Detail_ts.html" />
     <Content Include="Product_Polo.html" />
     <Content Include="Product_Sweater.html" />

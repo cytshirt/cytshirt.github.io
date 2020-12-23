@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript" src="Javascript/DoData/product_sweater_detail.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="Css/detailproduct.css" />
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script>
+        function moreproduct() {
+            location.assign("Product_Sweater.html");
+        }
+        function productdetail() {
+            location.assign("Product_Detail_sweater.html")
+        }
+    </script>
+    <script>
+        $(document).ready(function () {
+
+            $('.policy-return-header').click(function () {
+                if ($(this).parent().is('.open')) {
+                    $(this).closest('.policy').find('.policy-return').slideUp();
+                    $(this).closest('.policy').removeClass('open');
+
+                } else {
+                    var newHeight = $(this).closest('.policy').find('.policy-return-inf').height() + 'px';
+                    $(this).closest('.policy').find('.policy-return').slideDown();
+                    $(this).closest('.policy').addClass('open');
+                }
+
+            });
+
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+
+            $('.policy-ship-header').click(function () {
+                if ($(this).parent().is('.open')) {
+                    $(this).closest('.policy').find('.policy-ship').slideUp();
+                    $(this).closest('.policy').removeClass('open');
+
+                } else {
+                    var newHeight = $(this).closest('.policy').find('.policy-ship-inf').height() + 'px';
+                    $(this).closest('.policy').find('.policy-ship').slideDown();
+                    $(this).closest('.policy').addClass('open');
+                }
+
+            });
+
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+
+            $('.policy-pm-header').click(function () {
+                if ($(this).parent().is('.open')) {
+                    $(this).closest('.policy').find('.policy-pm').slideUp();
+                    $(this).closest('.policy').removeClass('open');
+
+                } else {
+                    var newHeight = $(this).closest('.policy').find('.policy-pm-inf').height() + 'px';
+                    $(this).closest('.policy').find('.policy-pm').slideDown();
+                    $(this).closest('.policy').addClass('open');
+                }
+
+            });
+
+        });
+    </script>
+</head>
+<body onload="loading()">
+    <table class="detailproduct" id="detailproduct">
+    </table>
+    <div class="policy_group">
+        <div class="policy">
+            <div class="policy-return-header">RETURN POLICY <i class="fas fa-caret-down"></i> <hr /> </div>
+            <div class="policy-return" style="display:none">
+                <div class="policy-return-inf">
+                    CYTSHIRT accepts to exchange / return goods within 03 working days, apply unevenly to each item and to different products.
+                </div>
+            </div>
+            <div class="policy-ship-header">SHIPPING POLICY <i class="fas fa-caret-down"></i><hr /> </div>
+            <div class="policy-ship" style="display:none">
+                <div class="policy-ship-inf">
+                    Orders will be delivered to customers within 05 - 07 working days from the date of placing the order. You can contact CYTSHIRT via Email, Phone, Facebook to know about your order schedule
+                </div>
+            </div>
+            <div class="policy-pm-header">PAYMENT POLICY <i class="fas fa-caret-down"></i><hr /></div>
+            <div class="policy-pm" style="display:none">
+                <div class="policy-pm-inf">
+                    CYTSHIRT provides 3 forms of payment for customers: Payment on receipt (COD), Bank transfer, Payment via credit card, Payment via ATM card
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="other-product-contain">
+        <table class="otherproduct" id="otherproduct">
+        </table>
+    </div>
+
+    <div align="center">
+        <button onclick="moreproduct()" class="more-product">More Product</button>
+    </div>
+</body>
+</html>
