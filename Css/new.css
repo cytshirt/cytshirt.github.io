@@ -33,12 +33,12 @@ div#section-title {
     background-color: pink;
 }
 
-ul li {
+.filtercontain ul li {
     list-style: none;
     height: 30px;
 }
 
-li {
+.filtercontain li {
     height: 30px;
 }
 

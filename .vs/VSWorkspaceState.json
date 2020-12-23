@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Css",
-    "\\Image",
-    "\\Image\\Account\\images",
-    "\\Image\\Footer",
-    "\\Image\\Icon"
+    "\\Data",
+    "\\Javascript",
+    "\\Javascript\\DoData",
+    "\\Properties"
   ],
-  "SelectedNode": "\\Account.html",
+  "SelectedNode": "\\Main_New.html",
   "PreviewInSolutionExplorer": false
 }

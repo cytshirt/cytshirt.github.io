@@ -7,9 +7,11 @@
     <link rel="stylesheet" href="Css/homelayout.css" />
     <link rel="stylesheet" href="Css/new.css" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
+    <link rel="stylesheet" href="Css/mainproduct.css" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script type="text/javascript" src="Javascript/DoData/mainproduct_new.js"></script>
 </head>
-<body>
+<body onload="loading()">
     <!--Menu Navigation-->
     <nav>
         <div class="logo">
@@ -32,7 +34,7 @@
                         <a href="Product_Sweater.html">Sweater</a>
                     </li>
                     <li>
-                        <a href="Main_Accessories.html">Accessories</a>
+                        <a href="Product_Accessories.html">Accessories</a>
                     </li>
                 </ul>
             </li>
@@ -74,105 +76,77 @@
     </nav>
     <!--Nội dung homepage-->
 
-    <div>
+ 
         <div>
             <img src="Image/ProductDemo/banner.jpg" style="width:100%" />
         </div>
-        <div id="main">
+        <div id="mainproduct" class="filtercontain">
             <div class="filter-bar">
-                <span class="title">FILTER</span>
+                <div class="title">
+                    <span>FILTER</span>
+                </div>
                 <div class="filter">
+                    <span>Product Price:</span>
                     <ul>
-                        Giá sản phẩm
-                        <li><input type="checkbox" id="gia1" /><label for="gia1">Dưới 200000đ</label></li>
-                        <li><input type="checkbox" id="gia2" /><lable for="gia2">Từ 200000đ đến 300000đ</lable></li>
-                        <li><input type="checkbox" id="gia3" /><lable for="gia3">Từ 300000đ đến 400000đ</lable></li>
-                        <li><input type="checkbox" id="gia4" /><label for="gia4">Từ 4000000đ đến 500000đ</label></li>
-                        <li><input type="checkbox" id="gia5" /><label for="gia5">Trên 500000đ</label></li>
+                        <li><input type="checkbox" id="gia1" /><label for="gia1"> Dưới 200000đ</label></li>
+                        <li><input type="checkbox" id="gia2" /><label for="gia2"> Từ 200000đ đến 300000đ</label></li>
+                        <li><input type="checkbox" id="gia3" /><label for="gia3"> Từ 300000đ đến 400000đ</label></li>
+                        <li><input type="checkbox" id="gia4" /><label for="gia4"> Từ 400000đ đến 500000đ</label></li>
+                        <li><input type="checkbox" id="gia5" /><label for="gia5"> Trên 500000đ</label></li>
                     </ul>
-                    <ul>
-                        Màu sắc
-                        <li><input class="color" type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                        <li><input type="checkbox" /></li>
-                    </ul>
+                    <span>Color:</span>
+                    <div class="color-contain">
+                        <ul>
+                            <li class="colorbox"><input type="checkbox" id="check" /><label class="checkmark" for="check" style="background-color:gray"></label></li>
+                            <li class="colorbox"><input type="checkbox" id="check2" /><label class="checkmark" for="check2" style="background-color:black"></label></li>
+                            <li class="colorbox"><input type="checkbox" id="check3" /><label class="checkmark" for="check3" style="background-color:cornflowerblue"></label></li>
+                            <li class="colorbox"><input type="checkbox" id="check4" /><label class="checkmark" for="check4" style="background-color:orange"></label></li>
+                            <li class="colorbox"><input type="checkbox" id="check5" /><label class="checkmark" for="check5" style="background-color:hotpink"></label></li>
+                            <li class="colorbox"><input type="checkbox" id="check6" /><label class="checkmark" for="check6" style="background-color:lightgreen"></label></li>
 
+
+                        </ul>
+                    </div>
+                    <div class="size">
+                        <span> Size:</span>
+                        <div class="sizebox">
+                            <label class="radio">
+                                <input type="radio" name="option1" checked />
+                                <span class="s">S</span>
+                            </label>
+                            <label class="radio">
+                                <input type="radio" name="option1" />
+                                <span class="m">M</span>
+                            </label>
+                            <label class="radio">
+                                <input type="radio" name="option1" />
+                                <span class="l">L</span>
+                            </label>
+                            <label class="radio">
+                                <input type="radio" name="option1" />
+                                <span class="l">XL</span>
+                            </label>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div id="main-index">
-                <div id='section-title'>
-                    <span class="title">
-                        BEST SELLER
-                    </span>
-                </div>
-                <div class="tab-title">
-                    <div id="ob-1" class="product-block">
-                        <div class="product-card">
-                            <img class="img1" src="Image/ProductDemo/ao2.jpg" />
-                            <img class="img2" src="Image/ProductDemo/ao3.jpg" />
-                            <div class="product-detail">
-                                <button class="buy-now">Buy now <i class="fas fa-shopping-cart"></i></button>
-                                <button class="view-detail">View detail <i class="far fa-eye"></i></button>
-                            </div>
-                            <div class="stats-container">
-                                <div align="center" class="content-product">
-                                    <span class="product-name name">CyT White T-shirt</span><br />
-                                    <span class="product-price price">500000VND</span>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div id="ob-2" class="product-block">
-                        <div class="product-card">
-                            <div class="product-front">
-
-                                <img class="img1" src="Image/ProductDemo/39image4.jpeg" />
-                                <img class="img2" src="Image/ProductDemo/39image5.jpeg" />
-                                <div class="product-detail">
-                                    <button class="buy-now">Buy now <i class="fas fa-shopping-cart"></i></button>
-                                    <button class="view-detail">View detail <i class="far fa-eye"></i></button>
-                                </div>
-                                <div class="stats-container">
-                                    <div align="center" class="content-product">
-                                        <span class="product_name name">SSS Logo T-shirt</span><br />
-                                        <span class="product_price price">400000VND</span>
-
-
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div id="ob-3" class="product-block">
-                        <div class="product-card">
-                            <div class="product-front">
-                                <img class="img1" src="Image/ProductDemo/39image3.jpeg" />
-                                <img class="img2" src="Image/ProductDemo/39image2.jpeg" />
-                                <div class="product-detail">
-                                    <button class="buy-now">Buy now <i class="fas fa-shopping-cart"></i></button>
-                                    <button class="view-detail">View detail <i class="far fa-eye"></i></button>
-                                </div>
-                                <div class="stats-container">
-                                    <div align="center" class="content-product">
-                                        <span class="product_price price">500000VND</span><br />
-                                        <span class="product_name name">Áo thun đẹp</span>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
+            <div class="tablecontain">
+                <table class="mainbody" id="mainbody" align="center" style="padding-top:8vh;">
+                </table>
             </div>
+            <div class="pagination">
+                <a href="Main_New.html"><img src="Image/Blog/icon/back_1.png" /></a>
+                <a href="Main_New.html" class="pages">1</a>
+                <a href="Main_New.html" class="pages">2</a>
+                <a href="Main_New.html" class="pages">3</a>
+                <a href="Main_New.html"><img src="Image/Blog/icon/next_1.png" /></a>
+            </div>
+        </div>   
+            
 
 
-        </div>
-    </div>
+        
+
     <!--Footer-->
     <footer class="footer">
         <div class="l-footer">

@@ -1,6 +1,6 @@
 ﻿// JavaScript source code
 var data = [];
-function loading1() {
+function loading2() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
@@ -24,7 +24,7 @@ function loading1() {
     function changetolistdata(xml) {
 
         xmlDoc = xml.responseXML;
-        var lstmuc = ['tshirt']
+        var lstmuc = ['accessory']
         for (j = 0; j < lstmuc.length; j++) {
             lstproduct = xmlDoc.getElementsByTagName(lstmuc[j])[0].getElementsByTagName("product");
             var detailmuc = [];
@@ -56,7 +56,7 @@ function loading1() {
 
         td1.setAttribute('valign', 'top')
         td1.setAttribute('class', 'motatd1')
-        td1.setAttribute('align','center')
+        td1.setAttribute('align', 'center')
         td2.setAttribute('valign', 'top')
         td2.setAttribute('class', 'motatd2')
         tr.appendChild(td1)
@@ -104,7 +104,7 @@ function loading1() {
                     td2.appendChild(titlesize);
 
                     var sizebox = document.createElement("div")
-                    sizebox.setAttribute('class','sizebox')
+                    sizebox.setAttribute('class', 'sizebox')
 
                     var lable = document.createElement("label")
                     lable.setAttribute('class', 'radio')
@@ -175,7 +175,7 @@ function loading1() {
                     minus.setAttribute("onclick", "xuLyquant(-1)")
                     quant.setAttribute("id", "idquant")
                     var divdathang = document.createElement("div")
-                    divdathang.setAttribute('class','button-order-contain')
+                    divdathang.setAttribute('class', 'button-order-contain')
                     var btndathang = document.createElement("button")
                     btndathang.setAttribute('class', 'button-order')
                     btndathang.innerHTML = "ADD TO CART "
@@ -187,7 +187,7 @@ function loading1() {
                     td2.appendChild(quantitycontainer)
 
 
-                    
+
 
                 }
             }
@@ -195,6 +195,7 @@ function loading1() {
         }
 
     }
+
 
 }
 function xuLyquant(stt) {
@@ -210,3 +211,4 @@ function xuLyquant(stt) {
     }
 
 }
+
