@@ -393,7 +393,7 @@ footer {
     }
 }
 
-.txt {
+.slider .txt {
     position: absolute;
     color: #fff;
     letter-spacing: 2px;
@@ -417,7 +417,7 @@ footer {
     }
 }
 
-.txt h1 {
+.slider .txt h1 {
     color: #fff;
     font-weight: bold;
     font-size: 80px;
@@ -486,10 +486,10 @@ footer {
     .dotbox {
         bottom: 35vh;
     }
-    .txt {
+    .slider .txt {
         top: 37vh;
     }
-    .txt h1 {
+    .slider .txt h1 {
     font-size: 50px;
     }
 }
@@ -541,10 +541,10 @@ footer {
     .dotbox {
         bottom: 63vh;
     }
-    .txt {
+    .slider .txt {
         top: 21vh;
     }
-    .txt h1 {
+    .slider .txt h1 {
     font-size: 26px;
     }
 }
