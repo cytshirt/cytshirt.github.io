@@ -86,6 +86,9 @@
     min-height: 100vh;
     background: black;
 }
+a{
+    text-decoration:none;
+}
 
 .button {
     display: flex;
