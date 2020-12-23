@@ -1019,6 +1019,7 @@
     <Content Include="Data\ImgProduct\ts9_2.jpg" />
     <Content Include="Data\ImgProduct\ts9_3.jpg" />
     <Content Include="Data\ImgProduct\ts_57_3.jpg" />
+    <Content Include="Data\newbest.xml" />
     <Content Include="Data\sanpham.xml" />
     <Content Include="FAQs.html" />
     <Content Include="ForgetPass.html" />
@@ -1151,11 +1152,14 @@
     <Content Include="Image\SliderHome\imgslide5.png" />
     <Content Include="index.html" />
     <Content Include="Javascript\DoData\JavaScript_DoData.js" />
+    <Content Include="Javascript\DoData\mainproduct_best.js" />
+    <Content Include="Javascript\DoData\mainproduct_new.js" />
     <Content Include="Javascript\DoData\mainproduct_polo.js" />
     <Content Include="Javascript\DoData\mainproduct_sweater.js" />
     <Content Include="Javascript\DoData\mainproduct_tshirt.js" />
     <Content Include="Javascript\DoData\mainproduct_accessory.js" />
     <Content Include="Javascript\DoData\product_accessory_detail.js" />
+    <Content Include="Javascript\DoData\product_new_detail.js" />
     <Content Include="Javascript\DoData\product_polo_detail.js" />
     <Content Include="Javascript\DoData\product_tshirt_detail.js" />
     <Content Include="Javascript\Home\menu.js" />
@@ -1173,6 +1177,7 @@
     <Content Include="Payment.html" />
     <Content Include="Pravacy_Policy.html" />
     <Content Include="Product_Detail_accessories.html" />
+    <Content Include="Product_Detail_New.html" />
     <Content Include="Product_Detail_polo.html" />
     <Content Include="Product_Detail_ts.html" />
     <Content Include="Product_Polo.html" />
