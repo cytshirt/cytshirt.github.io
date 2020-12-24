@@ -28,7 +28,9 @@
             tien3 = eval(gia3) * eval(soluong3)
             document.getElementById("tien3").innerHTML = tien3 + " VND"
         }
-
+        function makepayment() {
+            location.assign("Payment.html");
+        }
         
        
     </script>
@@ -159,7 +161,7 @@
                 <td></td>
                 <td>
                     <div class="button-order-contain1">
-                        <button class="button-order1">MAKE PAYMENT</button>
+                        <button onclick="makepayment()" class="button-order1">MAKE PAYMENT</button>
                     </div>
                 </td>
             </tr>

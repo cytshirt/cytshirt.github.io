@@ -3,14 +3,13 @@
     "",
     "\\Css",
     "\\Data",
+    "\\Data\\ImgProduct",
     "\\Image",
-    "\\Image\\AboutUs\\about_img",
-    "\\Image\\AboutUs\\background",
     "\\Image\\SliderHome",
     "\\Javascript",
     "\\Javascript\\DoData",
     "\\Properties"
   ],
-  "SelectedNode": "\\Javascript\\DoData\\mainproduct_accessory.js",
+  "SelectedNode": "\\Data\\ImgProduct\\ts87_1.jpg",
   "PreviewInSolutionExplorer": false
 }
