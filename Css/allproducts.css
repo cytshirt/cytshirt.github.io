@@ -24,11 +24,11 @@
     padding:10px;
 }
 /*trang home*/
-.producttshirt-main, .productsweater-main,.productpolo-main,.productacess-main{
+.producttshirt-main , .productsweater-main ,.productpolo-main ,.productacess-main {
     width: 25%;
     float: left;
     background-color: #fff;
-    padding:5px;
+    padding:10px;
 }
 .producttshirt-main img, .productpolo-main img, .productsweater-main img, .productacess-main img {
     width: 100%;

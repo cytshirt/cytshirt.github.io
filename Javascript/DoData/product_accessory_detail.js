@@ -178,6 +178,7 @@ function loading2() {
                     divdathang.setAttribute('class', 'button-order-contain')
                     var btndathang = document.createElement("button")
                     btndathang.setAttribute('class', 'button-order')
+                    btndathang.setAttribute('onclick','addcart()')
                     btndathang.innerHTML = "ADD TO CART "
                     divdathang.appendChild(btndathang)
                     quantitycontainer.appendChild(minus)

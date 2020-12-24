@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>My Cart - Cytshirt</title>
-    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
     <link rel="stylesheet" href="Css/allproducts.css" type="text/css" />
     <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
@@ -28,7 +28,9 @@
             tien3 = eval(gia3) * eval(soluong3)
             document.getElementById("tien3").innerHTML = tien3 + " VND"
         }
-
+        function makepayment() {
+            location.assign("Payment.html");
+        }
         
        
     </script>
@@ -159,7 +161,7 @@
                 <td></td>
                 <td>
                     <div class="button-order-contain1">
-                        <button class="button-order1">MAKE PAYMENT</button>
+                        <button onclick="makepayment()" class="button-order1">MAKE PAYMENT</button>
                     </div>
                 </td>
             </tr>
@@ -237,6 +239,6 @@
         </div>
     </footer>
     <script src="Javascript/Home/menu.js"></script>
-    <script src="Javascript/Home/slider.js"></script>
+    
 </body>
 </html>

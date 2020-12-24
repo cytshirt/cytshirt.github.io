@@ -2,15 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Css",
+    "\\Data",
+    "\\Data\\ImgProduct",
     "\\Image",
-    "\\Image\\Blog",
-    "\\Image\\Blog\\blog-post",
-    "\\Image\\Footer",
-    "\\Image\\Icon",
     "\\Image\\SliderHome",
     "\\Javascript",
-    "\\Javascript\\Home"
+    "\\Javascript\\DoData",
+    "\\Properties"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\Data\\ImgProduct\\ts87_1.jpg",
   "PreviewInSolutionExplorer": false
 }

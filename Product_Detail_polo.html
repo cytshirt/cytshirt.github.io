@@ -3,15 +3,18 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Polo Product Detail - Cytshirt</title>
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
+    <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
     <script type="text/javascript" src="Javascript/DoData/product_polo_detail.js"></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
     <link type="text/css" rel="stylesheet" href="Css/detailproduct.css" />
+    <link rel="stylesheet" href="Css/allproducts.css" type="text/css" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script>
-        function moreproduct() {
-            location.assign("Product_Polo.html");
+        function addcart() {
+            location.assign("Cart.html");
         }
         function productdetail() {
             location.assign("Product_Detail_polo.html")
@@ -73,83 +76,191 @@
     </script>
 </head>
 <body onload="loading()">
-    <table class="detailproduct" id="detailproduct">
-    </table>
-    <div class="policy_group">
-        <div class="policy">
-            <div class="policy-return-header">RETURN POLICY <i class="fas fa-caret-down"></i> <hr /> </div>
-            <div class="policy-return" style="display:none">
-                <div class="policy-return-inf">
-                    CYTSHIRT accepts to exchange / return goods within 03 working days, apply unevenly to each item and to different products.
+    <!--Menu Navigation-->
+    <nav>
+        <div class="logo">
+            <a href="Main_Home.html"><img src="Image/Icon/logoHome.png" height="40" width="35" /></a>
+        </div>
+        <ul class="nav-links">
+            <li>
+                <a href="Main_New.html">New</a>
+            </li>
+            <li>
+                <a href="Main_Products.html">All Products</a>
+                <ul class="dropdown-1">
+                    <li>
+                        <a href="Product_Polo.html">Polo</a>
+                    </li>
+                    <li>
+                        <a href="Product_Tshirt.html">T-shirt</a>
+                    </li>
+                    <li>
+                        <a href="Product_Sweater.html">Sweater</a>
+                    </li>
+                    <li>
+                        <a href="Product_Accessories.html">Accessories</a>
+                    </li>
+
+                </ul>
+            </li>
+            <li>
+                <a href="Main_BestSeller.html">Best Seller</a>
+            </li>
+            <li>
+                <a href="Main_Campaign.html">Campaign</a>
+            </li>
+            <li>
+                <a href="Main_Blog.html">Blog</a>
+            </li>
+            <li>
+                <a href="Product_AboutUs.html">About us</a>
+            </li>
+            <li>
+                <a href="Membership.html">Membership</a>
+            </li>
+        </ul>
+        <div>
+            <ul class="nav-icon">
+                <li class="searchbar">
+                    <input type="text" placeholder="search" />
+                </li>
+                <li>
+                    <a href="Account.html"><img title="Account" src="Image/Icon/IconAccount.png" width="25" height="25" style="display: block" /></a>
+                </li>
+                <li>
+                    <a href="Cart.html"><img title="Cart" src="Image/Icon/IconCartCy4.png" width="35" height="35" style="display: block" /></a>
+                </li>
+            </ul>
+        </div>
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+    </nav>
+    <!--Nội dung homepage-->
+    <div style="padding-top:12vh">
+        <table class="detailproduct" id="detailproduct">
+        </table>
+        <div class="policy_group">
+            <div class="policy">
+                <div class="policy-return-header">RETURN POLICY <i class="fas fa-caret-down"></i> <hr /> </div>
+                <div class="policy-return" style="display:none">
+                    <div class="policy-return-inf">
+                        CYTSHIRT accepts to exchange / return goods within 03 working days, apply unevenly to each item and to different products.
+                    </div>
                 </div>
-            </div>
-            <div class="policy-ship-header">SHIPPING POLICY <i class="fas fa-caret-down"></i><hr /> </div>
-            <div class="policy-ship" style="display:none">
-                <div class="policy-ship-inf">
-                    Orders will be delivered to customers within 05 - 07 working days from the date of placing the order. You can contact CYTSHIRT via Email, Phone, Facebook to know about your order schedule
+                <div class="policy-ship-header">SHIPPING POLICY <i class="fas fa-caret-down"></i><hr /> </div>
+                <div class="policy-ship" style="display:none">
+                    <div class="policy-ship-inf">
+                        Orders will be delivered to customers within 05 - 07 working days from the date of placing the order. You can contact CYTSHIRT via Email, Phone, Facebook to know about your order schedule
+                    </div>
                 </div>
-            </div>
-            <div class="policy-pm-header">PAYMENT POLICY <i class="fas fa-caret-down"></i><hr /></div>
-            <div class="policy-pm" style="display:none">
-                <div class="policy-pm-inf">
-                    CYTSHIRT provides 3 forms of payment for customers: Payment on receipt (COD), Bank transfer, Payment via credit card, Payment via ATM card
+                <div class="policy-pm-header">PAYMENT POLICY <i class="fas fa-caret-down"></i><hr /></div>
+                <div class="policy-pm" style="display:none">
+                    <div class="policy-pm-inf">
+                        CYTSHIRT provides 3 forms of payment for customers: Payment on receipt (COD), Bank transfer, Payment via credit card, Payment via ATM card
+                    </div>
                 </div>
             </div>
         </div>
+        <div class="allproductdiv" style="padding-top:8vh">
+            <div class="productrow">
+                <a href="Product_Tshirt.html">
+                    <div class="producttshirt-main">
+                        <img src="Image/SliderHome/homecate4.png" />
+                    </div>
+                </a>
+                <a href="Product_Sweater.html">
+                    <div class="productsweater-main">
+                        <img src="Image/SliderHome/homecate2.png" />
+                    </div>
+                </a>
+                <a href="Product_Polo.html">
+                    <div class="productpolo-main">
+                        <img src="Image/SliderHome/homecate3.png" />
+                    </div>
+                </a>
+                <a href="Product_Accessories.html">
+                    <div class="productacess-main">
+                        <img src="Image/SliderHome/homecate1.png" />
+                    </div>
+                </a>
+
+            </div>
+        </div>
     </div>
-    <div class="other-product-contain">
-        <table class="otherproduct" id="otherproduct">
-            <tr>
-                <td class="otherproducttd">
-                    <a href="Product_Polo.html">
-                    <img class="otherproductimg" src="Data/ImgProduct/ts11_1.jpg" width="300" height="300" />
-                    </a>
-                </td>
-                <td class="otherproducttd">
-                    <a href="Product_Polo.html">
-                        <img class="otherproductimg" src="Data/ImgProduct/ts12_1.jpg" width="300" height="300" />
-                        </a>
-                </td>
-                <td class="otherproducttd">
-                    <a href="Product_Polo.html">
-                        <img class="otherproductimg" src="Data/ImgProduct/ts13_1.jpg" width="300" height="300" />
-                        </a>
-                </td>
-                <td class="otherproducttd">
-                    <a href="Product_Polo.html">
-                        <img class="otherproductimg" src="Data/ImgProduct/ts14_1.jpg" width="300" height="300" />
-                        </a>
-                </td>
-            </tr>
-            <tr>                
-                    <td class="otherproducttd2">
-                        <a href="Product_Polo.html">T-shirt Mysen Pussies Unite<br />290000 VND
-                            </a>                       
-                    </td>                               
-                    <td class="otherproducttd2">
-                        <a href="Product_Polo.html">
-                            T-shirt Mysen Feminist<br />
-                            290000 VND
-                            </a>
-                    </td>
-                    <td class="otherproducttd2">
-                        <a href="Product_Polo.html">
-                            T-shirt Visby Love Circle<br />
-                            290000 VND
-                            </a>
-                    </td>
-                <td class="otherproducttd2">
-                    <a href="Product_Polo.html">
-                        T-shirt Visby Fight<br />
-                        290000 VND
-                        </a>
-</td>
-            </tr>
-        </table>
-    </div>
-    
-    <div align="center">
-        <button onclick="moreproduct()" class="more-product">More Product</button>
-    </div>
+    <!--Footer-->
+    <footer class="footer">
+        <div class="l-footer">
+            <h1>
+                <a href="Main_Home.html"><img src="Image/Icon/logoCYtshirt2.png" height="40" width="120" alt=""></a>
+            </h1>
+            <p>
+                In the future, with the goal of becoming a top reputable website in the field of shirt design,
+                Cytshirt always doesn't
+                stop trying to innovate internal website in accordance with market needs and customer requirements
+                row.
+            </p>
+            <p class="social">
+                <br />
+                <a href="https://www.facebook.com/duythanhcse" target="_blank"><img src="Image/Icon/fb.png" width="25" height="25" /></a>
+                <a href="https://www.instagram.com/" target="_blank"><img src="Image/Icon/instagram.png" width="25" height="25" /></a>
+                <a href="https://twitter.com/duythanhcse" target="_blank"><img src="Image/Icon/twitter.png" width="25" height="25" /></a>
+                <a href="https://www.youtube.com/" target="_blank"><img src="Image/Icon/youtube.png" width="30" height="25" /></a>
+            </p>
+        </div>
+        <ul class="r-footer">
+            <li>
+                <h2>
+                    Product
+                </h2>
+                <ul class="box">
+                    <li><a href="Main_New.html">New</a></li>
+                    <li><a href="Product_Polo.html">Polo</a></li>
+                    <li><a href="Product_Sweater.html">Sweater</a></li>
+                    <li><a href="Product_Tshirt.html">T-shirt</a></li>
+                </ul>
+            </li>
+            <li class="features">
+                <h2>
+                    About us
+                </h2>
+                <ul class="box h-box">
+                    <li><a href="Main_AboutUs.html">About CY</a></li>
+                </ul>
+            </li>
+            <li>
+                <h2>
+                    Help
+                </h2>
+                <ul class="box">
+                    <li><a href="Pravacy_Policy.html">Privacy Policy</a></li>
+                    <li><a href="Terms_of_Use.html">Terms of Use</a></li>
+                    <li><a href="FAQs.html">FAQs</a></li>
+                </ul>
+            </li>
+            <li>
+                <h2>
+                    Contact
+                </h2>
+                <ul class="box">
+                    <li><a href="Contact.html">Email us</a></li>
+                    <li><a href="Contact.html">Call us</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="up_top">
+            <a href="Main_Accessories.html">
+                <img class="ic-uptop" src="Image/Icon/ic_uptop.png" />
+            </a>
+        </div>
+        <div class="b-footer">
+            <p>
+                All rights reserved by ©CYtshirts 2020
+            </p>
+        </div>
+    </footer>
+    <script src="Javascript/Home/menu.js"></script>
 </body>
 </html>

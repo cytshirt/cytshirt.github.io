@@ -49,7 +49,7 @@ function loading2() {
                 case 0:
                     tdhead.setAttribute('id', 'cateNoi')
                     tdhead.setAttribute('name', 'accessory')
-                    tdhead.innerText = 'accessory'
+                    
                     break;
 
             }
