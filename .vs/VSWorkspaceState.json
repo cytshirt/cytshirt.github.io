@@ -3,10 +3,14 @@
     "",
     "\\Css",
     "\\Data",
+    "\\Image",
+    "\\Image\\AboutUs\\about_img",
+    "\\Image\\AboutUs\\background",
+    "\\Image\\SliderHome",
     "\\Javascript",
     "\\Javascript\\DoData",
     "\\Properties"
   ],
-  "SelectedNode": "\\Main_New.html",
+  "SelectedNode": "\\Javascript\\DoData\\mainproduct_accessory.js",
   "PreviewInSolutionExplorer": false
 }
