@@ -575,6 +575,7 @@ footer {
     font-size: 50px;
     }
     
+    
 
 }
 /*Mobile*/
@@ -645,6 +646,9 @@ footer {
     }
     .cart-info p{
         display:none;
+    }
+    fa fa-snowflake {
+        display: none;
     }
     
     

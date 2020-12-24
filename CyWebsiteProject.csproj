@@ -1178,6 +1178,7 @@
     <Content Include="Javascript\DoData\product_polo_detail.js" />
     <Content Include="Javascript\DoData\product_sweater_detail.js" />
     <Content Include="Javascript\DoData\product_tshirt_detail.js" />
+    <Content Include="Javascript\Home\countdown.js" />
     <Content Include="Javascript\Home\menu.js" />
     <Content Include="Javascript\Home\slider.js" />
     <Content Include="Main_AboutUs.html" />
