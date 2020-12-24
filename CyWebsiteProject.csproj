@@ -82,7 +82,6 @@
     <Content Include="Css\homelayout.css" />
     <Content Include="Css\mainproduct.css" />
     <Content Include="Css\membership.css" />
-    <Content Include="Css\new.css" />
     <Content Include="Css\payment.css" />
     <Content Include="Css\policy.css" />
     <Content Include="Css\post_detail.css" />
@@ -1203,8 +1202,6 @@
     <Content Include="Product_Sweater.html" />
     <Content Include="Product_Tshirt.html" />
     <Content Include="Terms_of_Use.html" />
-    <Content Include="testsw.html" />
-    <Content Include="Testv2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
