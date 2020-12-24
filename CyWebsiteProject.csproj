@@ -76,6 +76,7 @@
     <Content Include="Css\blog.css" />
     <Content Include="Css\campaign.css" />
     <Content Include="Css\contacts.css" />
+    <Content Include="Css\countdown.css" />
     <Content Include="Css\detailproduct.css" />
     <Content Include="Css\faqs.css" />
     <Content Include="Css\homelayout.css" />
