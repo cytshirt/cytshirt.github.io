@@ -156,7 +156,7 @@ function loading1() {
 
                     var text = document.createElement("span")
                     text.setAttribute('class', 'txt')
-                    text.innerHTML = "Số lượng: " + "</br>"
+                    text.innerHTML = "Quantity: " + "</br>"
                     td2.appendChild(text)
 
                     var quantitycontainer = document.createElement("div")
