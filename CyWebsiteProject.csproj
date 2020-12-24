@@ -86,7 +86,6 @@
     <Content Include="Css\payment.css" />
     <Content Include="Css\policy.css" />
     <Content Include="Css\post_detail.css" />
-    <Content Include="Css\StyleSheet1.css" />
     <Content Include="Data\ImgProduct\ac10_1.jpg" />
     <Content Include="Data\ImgProduct\ac10_2.jpg" />
     <Content Include="Data\ImgProduct\ac11_1.jpg" />
@@ -1133,6 +1132,13 @@
     <Content Include="Image\Icon\logoHome.png" />
     <Content Include="Image\Icon\twitter.png" />
     <Content Include="Image\Icon\youtube.png" />
+    <Content Include="Image\Payment\acb.png" />
+    <Content Include="Image\Payment\agrib.png" />
+    <Content Include="Image\Payment\bidv.png" />
+    <Content Include="Image\Payment\mb.png" />
+    <Content Include="Image\Payment\msb.png" />
+    <Content Include="Image\Payment\sacom.png" />
+    <Content Include="Image\Payment\vcb.png" />
     <Content Include="Image\ProductDemo\38image1.jpeg" />
     <Content Include="Image\ProductDemo\38image10.jpeg" />
     <Content Include="Image\ProductDemo\38image11.jpeg" />
@@ -1197,7 +1203,6 @@
     <Content Include="Product_Sweater.html" />
     <Content Include="Product_Tshirt.html" />
     <Content Include="Terms_of_Use.html" />
-    <Content Include="test cart.html" />
     <Content Include="testsw.html" />
     <Content Include="Testv2.html" />
     <Content Include="Web.config" />

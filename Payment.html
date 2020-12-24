@@ -2,96 +2,188 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title></title>
-    <link rel="stylesheet" href="Css/payment.css" />
+    <title>Payment - Cytshirt</title>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/homelayout.css" type="text/css" />
+    <link rel="stylesheet" href="Css/payment.css" type="text/css" />
+    <link rel="icon" type="image/png" href="Image/Icon/favicon.png" />
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 <body>
-    <div class="row">
-        <div class="col-30">
-            <div class="container">
+    <!--Menu Navigation-->
+    <nav>
+        <div class="logo">
+            <a href="Main_Home.html"><img src="Image/Icon/logoHome.png" height="40" width="35" /></a>
+        </div>
+        <ul class="nav-links">
+            <li>
+                <a href="Main_New.html">New</a>
+            </li>
+            <li>
+                <a href="Main_Products.html">All Products</a>
+                <ul class="dropdown-1">
+                    <li>
+                        <a href="Product_Polo.html">Polo</a>
+                    </li>
+                    <li>
+                        <a href="Product_Tshirt.html">T-shirt</a>
+                    </li>
+                    <li>
+                        <a href="Product_Sweater.html">Sweater</a>
+                    </li>
+                    <li>
+                        <a href="Product_Accessories.html">Accessories</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="Main_BestSeller.html">Best Seller</a>
+            </li>
+            <li>
+                <a href="Main_Campaign.html">Campaign</a>
+            </li>
+            <li>
+                <a href="Main_Blog.html">Blog</a>
+            </li>
+            <li>
+                <a href="Main_AboutUs.html">About us</a>
+            </li>
+            <li>
+                <a href="Membership.html">Membership</a>
+            </li>
+
+        </ul>
+        <div>
+            <ul class="nav-icon">
+                <li class="searchbar">
+                    <input type="text" placeholder="search" />
+                </li>
+                <li>
+                    <a href="Account.html"><img title="Account" src="Image/Icon/IconAccount.png" width="25" height="25" style="display: block" /></a>
+                </li>
+                <li>
+                    <a href="Cart.html"><img title="Cart" src="Image/Icon/IconCartCy4.png" width="35" height="35" style="display: block" /></a>
+                </li>
+            </ul>
+        </div>
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
+    </nav>
+    <!--Nội dung homepage-->
+    <div class="row_pay" style="padding-top:8vh">
+        <div class="p_col_30">
+            <div class="p_container">
                 <h4><b>Cart Information</b></h4>
-                <table cellspacing="1" cellpadding="2">
+                <table align="center" class="p_table">
+                    <tr>
+                        <th>Product</th>
+                        <th>Quantity</th>
+                        <th>SubTotal</th>
+                    </tr>
                     <tr>
                         <td>
-                            <b>Product</b>
+                            <div class="cart-info">
+                                <img src="Image/Cart/test1.jpg" width="90" height="90" />
+                                <div>
+                                    <p>Printed Tshirt</p>
+                                    <small id="gia1">200000 VND </small>
+                                    <br />
+                                    <a href="#">Remove</a>
+                                </div>
+                            </div>
                         </td>
-                        <td>&nbsp;</td>
-                        <td><b>Color</b></td>
-                        <td><b>Amount</b></td>
-                        <td><b>Price</b></td>
-                        <td><b>Discount</b></td>
-                        <td><b>Total</b></td>
+                        <td><input id="soluong1" type="number" value="1" onchange="XuliTien1()" /></td>
+                        <td id="tien1">200000 VND</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="cart-info">
+                                <img src="Image/Cart/test2.jpg" width="90" height="90" />
+                                <div>
+                                    <p>Printed Graphic Tshirt</p>
+                                    <small id="gia2">250000 VND</small>
+                                    <br />
+                                    <a href="#">Remove</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td><input id="soluong2" type="number" value="1" onchange="XuliTien2()" /></td>
+                        <td id="tien2">250000 VND</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="cart-info">
+                                <img src="Image/Cart/test3.jpg" width="90" height="90" />
+                                <div>
+                                    <p>Printed Tshirt</p>
+                                    <small id="gia3">300000 VND </small>
+                                    <br />
+                                    <a href="#">Remove</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td><input id="soluong3" type="number" value="1" onchange="XuliTien3()" /></td>
+                        <td id="tien3">300000 VND</td>
+                    </tr>
+                    <tr style="font-weight:bold;color:#f79621">
+                        <td></td>
+                        <td>Total</td>
+                        <td id="thanhtien">750000 VND</td>
                     </tr>
 
-                    <tr>
-                        <td class="imgPro"> <img src="img/avt2.JPG" width="50" height="50" /></td>
-                        <td>Áo thun đẹp</td>
-                        <td>Color</td>
-                        <td>1</td>
-                        <td>690.000</td>
-                        <td><span style="color: red">300.000</span></td>
-                        <td>190.000</td>
-                    </tr>
                 </table>
-                <hr />
-                <p align="right">Total: <span class="price" style="color:black">350.000</span></p>
             </div>
 
         </div>
-        <div class="col-70">
-            <div class="container">
+        <div class="p_col_70">
+            <div class="p_container">
                 <form>
-                    <div class="col-50">
+                    <div class="p_col_50">
                         <h3>Billing Address</h3>
-                        <label for="name">Full Name</label>
-                        <input type="text" id="fname" name="fullname" placeholder="Mộng Thị En Tơ" />
+                        <label for="name" class="p_label">Full Name</label>
+                        <input class="puttext" type="text" id="fname" name="fullname" placeholder="Mộng Thị En Tơ" />
 
-                        <label for="email">Email</label>
-                        <input type="text" id="email" name="email" placeholder="enter2000@st.uel.edu.vn" />
+                        <label for="email" class="p_label">Email</label>
+                        <input class="puttext" type="text" id="email" name="email" placeholder="enter2000@st.uel.edu.vn" />
 
-                        <label for="address">Shiping Address</label>
-                        <input type="text" id="address" name="adress" placeholder="xxx/xxx - xxxxx" />
+                        <label for="address" class="p_label">Shiping Address</label>
+                        <input class="puttext" type="text" id="address" name="adress" placeholder="xxx/xxx - xxxxx" />
 
-                        <label for="name">City</label>
-                        <input type="text" id="city" name="city" placeholder="Ho Chi Minh City" />
-                        <label>
-                            <input type="checkbox" class="check-box" />Sign up a new account for next shipping
-                        </label>
+                        <label for="name" class="p_label">City</label>
+                        <input class="puttext" type="text" id="city" name="city" placeholder="Ho Chi Minh City" />
 
 
 
                     </div>
-                    <div class="col-50">
+                    <div class="p_col_50">
                         <h3>Card Information</h3>
-                        <label>Accept</label>
-                        <table cellpadding="5" cellspacing="3">
+                        <label class="p_label">Accept</label>
+                        <table cellpadding="5" cellspacing="3" class="table_p">
                             <tr>
-                                <td><img src="img/acb.png" width="60" height="15" /></td>
-                                <td><img src="img/vcb.png" width="60" height="20" /></td>
-                                <td><img src="img/bidv.png" width="60" height="20" /></td>
-                                <td><img src="img/mb.png" width="60" height="20" /></td>
+                                <td><img src="Image/Payment/acb.png" width="60" height="15" /></td>
+                                <td><img src="Image/Payment/vcb.png" width="60" height="20" /></td>
+                                <td><img src="Image/Payment/bidv.png" width="60" height="20" /></td>
+                                <td><img src="Image/Payment/mb.png" width="60" height="20" /></td>
                             </tr>
 
                         </table>
 
-                        <label>Name On Card</label>
-                        <input type="text" id="cname" name="cardnumber" placeholder="MONG THI EN TO" />
+                        <label class="p_label">Name On Card</label>
+                        <input class="puttext" type="text" id="cname" name="cardnumber" placeholder="MONG THI EN TO" />
 
-                        <label>Credit Card</label>
-                        <input type="text" id="number" name="cardnumber" placeholder="XXXX-XXXX-XXXX-XXXX" />
+                        <label class="p_label">Credit Card</label>
+                        <input class="puttext" type="text" id="number" name="cardnumber" placeholder="XXXX-XXXX-XXXX-XXXX" />
 
-                        <div class="row">
-                            <div class="col-50">
-                                <label for="month">Month</label>
-                                <input type="text" id="month" name="month" placeholder="XX" />
-                            </div>
-                            <div class="col-50">
-                                <label for="day">Day</label>
-                                <input type="text" id="day" name="day" placeholder="XX" />
-                            </div>
 
-                        </div>
-                        <input type="submit" value="PAYMENT" onclick="myOnClickPay()" class="btn" />
+
+                        <label class="p_label" for="month">Month/Day</label>
+                        <input class="puttext" type="text" id="month" name="month" placeholder="XX/XX" />
+
+
+                        <input type="submit" value="PAYMENT" onclick="myOnClickPay()" class="btn_pay" />
 
                     </div>
                 </form>
@@ -102,13 +194,85 @@
         <script>
             function myOnClickPay() {
 
-            
-            alert("Pay sucessfully !")
-            
-        }
+
+                alert("Pay sucessfully !")
+
+            }
         </script>
 
     </div>
+    <!--Footer-->
+    <footer class="footer">
+        <div class="l-footer">
+            <h1>
+                <a href="Main_Home.html"><img src="Image/Icon/logoCYtshirt2.png" height="40" width="120" alt=""></a>
+            </h1>
+            <p>
+                In the future, with the goal of becoming a top reputable website in the field of shirt design,
+                Cytshirt always doesn't
+                stop trying to innovate internal website in accordance with market needs and customer requirements
+                row.
+            </p>
+            <p class="social">
+                <br />
+                <a href="https://www.facebook.com/duythanhcse" target="_blank"><img src="Image/Icon/fb.png" width="25" height="25" /></a>
+                <a href="https://www.instagram.com/" target="_blank"><img src="Image/Icon/instagram.png" width="25" height="25" /></a>
+                <a href="https://twitter.com/duythanhcse" target="_blank"><img src="Image/Icon/twitter.png" width="25" height="25" /></a>
+                <a href="https://www.youtube.com/" target="_blank"><img src="Image/Icon/youtube.png" width="30" height="25" /></a>
+            </p>
+        </div>
+        <ul class="r-footer">
+            <li>
+                <h2>
+                    Product
+                </h2>
+                <ul class="box">
+                    <li><a href="Main_New.html">New</a></li>
+                    <li><a href="Product_Polo.html">Polo</a></li>
+                    <li><a href="Product_Sweater.html">Sweater</a></li>
+                    <li><a href="Product_Tshirt.html">T-shirt</a></li>
+                </ul>
+            </li>
+            <li class="features">
+                <h2>
+                    About us
+                </h2>
+                <ul class="box h-box">
+                    <li><a href="Main_AboutUs.html">About CY</a></li>
+                </ul>
+            </li>
+            <li>
+                <h2>
+                    Help
+                </h2>
+                <ul class="box">
+                    <li><a href="Pravacy_Policy.html">Privacy Policy</a></li>
+                    <li><a href="Terms_of_Use.html">Terms of Use</a></li>
+                    <li><a href="FAQs.html">FAQs</a></li>
+                </ul>
+            </li>
+            <li>
+                <h2>
+                    Contact
+                </h2>
+                <ul class="box">
+                    <li><a href="Contact.html">Email us</a></li>
+                    <li><a href="Contact.html">Call us</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="up_top">
+            <a href="Cart.html">
+                <img class="ic-uptop" src="Image/Icon/ic_uptop.png" />
+            </a>
+        </div>
+        <div class="b-footer">
+            <p>
+                All rights reserved by ©CYtshirts 2020
+            </p>
+        </div>
+    </footer>
+    <script src="Javascript/Home/menu.js"></script>
 
 </body>
 </html>
