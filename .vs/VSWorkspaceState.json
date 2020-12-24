@@ -2,11 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Css",
-    "\\Data",
+    "\\Image",
+    "\\Image\\Blog",
+    "\\Image\\Blog\\blog-post",
+    "\\Image\\Footer",
+    "\\Image\\Icon",
+    "\\Image\\SliderHome",
     "\\Javascript",
-    "\\Javascript\\DoData",
-    "\\Properties"
+    "\\Javascript\\Home"
   ],
-  "SelectedNode": "\\Main_New.html",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
